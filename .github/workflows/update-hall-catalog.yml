@@ -11,6 +11,8 @@ on:
       - 'scripts/build_machine_catalog.py'
       - 'scripts/build_notice_catalog.py'
       - 'scripts/test_notice_catalog.py'
+      - 'scripts/match_manufacturer_names.py'
+      - 'scripts/test_manufacturer_names.py'
       - 'scripts/machine-catalog-requirements.txt'
       - 'data/machine-name-overrides.json'
       - '.github/workflows/update-hall-catalog.yml'
@@ -59,14 +61,17 @@ jobs:
           restore-keys: machine-notices-v1-
 
       - name: Test notice catalog parser
-        run: python -m unittest discover -s scripts -p 'test_notice_catalog.py'
+        run: python -m unittest discover -s scripts -p 'test_*.py'
 
       - name: Build machine catalog from official notices
         run: python scripts/build_notice_catalog.py
 
+      - name: Match manufacturer product names
+        run: python scripts/match_manufacturer_names.py
+
       - name: Commit updated catalog
         run: |
-          git add docs/halls.json docs/machines.json
+          git add docs/halls.json docs/machines.json docs/machine-name-match-report.json data/manufacturer-products.json
           if ! git diff --cached --quiet; then
             git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update hall and examination machine catalogs'
             git push
