@@ -23,7 +23,12 @@ HOST = "www.pref.fukui.lg.jp"
 PDF_PREFIX = "/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/"
 USER_AGENT = "ShimazuCatalog/1.0 (+https://github.com/nisshins/shimazu-catalog)"
 KINDS = {"回胴式遊技機": "pachislot", "回胴式": "pachislot", "ぱちんこ遊技機": "pachinko", "ぱちんこ": "pachinko"}
-PARSER_VERSION = 1
+SOURCES = [
+    (INDEX_URL, PDF_PREFIX),
+    ("https://www.pref.shizuoka.jp/police/shinse/seikatsu/fueiho/yugiki.html", "/police/_res/projects/project_police/_page_/002/001/249/"),
+    ("https://www.pref.yamagata.jp/800028/kensei/police/procedures/kentei-yuugi.html", "/documents/5667/"),
+]
+PARSER_VERSION = 2
 
 
 def compact(value: str) -> str:
@@ -43,17 +48,18 @@ def notice_date(value: str) -> str:
 
 
 class NoticeLinks(HTMLParser):
-    def __init__(self) -> None:
+    def __init__(self, index=INDEX_URL, prefix=PDF_PREFIX) -> None:
         super().__init__()
+        self.index, self.prefix = index, prefix
         self.links: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         href = dict(attrs).get("href")
         if tag != "a" or not href:
             return
-        url = urljoin(INDEX_URL, href)
+        url = urljoin(self.index, href)
         parts = urlsplit(url)
-        if parts.scheme == "https" and parts.netloc == HOST and parts.path.startswith(PDF_PREFIX) and parts.path.lower().endswith(".pdf"):
+        if parts.scheme == "https" and parts.netloc == urlsplit(self.index).netloc and parts.path.startswith(self.prefix) and parts.path.lower().endswith(".pdf"):
             if url not in self.links:
                 self.links.append(url)
 
@@ -91,13 +97,13 @@ def robots_allowed(robots: str, url: str) -> bool:
 
 def download(url: str, maximum: int = 20_000_000) -> bytes:
     parts = urlsplit(url)
-    if parts.scheme != "https" or parts.netloc != HOST:
+    if parts.scheme != "https" or parts.netloc not in {urlsplit(index).netloc for index, _ in SOURCES}:
         raise ValueError("Only the configured official HTTPS host may be fetched")
     for attempt in range(3):
         try:
             with urlopen(Request(url, headers={"User-Agent": USER_AGENT}), timeout=45) as response:
                 final = urlsplit(response.url)
-                if final.netloc != HOST or final.scheme != "https":
+                if final.netloc != parts.netloc or final.scheme != "https":
                     raise ValueError("Unexpected redirect from official source")
                 data = response.read(maximum + 1)
                 if len(data) > maximum:
@@ -112,27 +118,42 @@ def download(url: str, maximum: int = 20_000_000) -> bytes:
 
 def parse_pdf(data: bytes, source_url: str) -> list[dict]:
     records, sequence = [], []
+    yamagata = "yamagata.jp" in source_url
+    shizuoka = "shizuoka.jp" in source_url
     with pdfplumber.open(io.BytesIO(data)) as pdf:
         for page_number, page in enumerate(pdf.pages, 1):
-            if page_number == 1 and "検定遊技機一覧表" not in (page.extract_text() or ""):
+            page_text = compact(page.extract_text() or "")
+            if page_number == 1 and not ((yamagata and "公示" in page_text and "山形県公安委員会" in page_text) or (not yamagata and "検定遊技機一覧表" in page_text)):
                 raise ValueError("PDF is not the expected examination notice")
+            dates = set(re.findall(r"令和(?:元|\d+)年\d+月\d+日", page_text)) if yamagata else set()
+            if yamagata and len(dates) != 1:
+                raise ValueError(f"Ambiguous notice date on page {page_number}: {dates}")
             tables = page.extract_tables()
             if len(tables) != 1:
                 raise ValueError(f"Unexpected notice table layout on page {page_number}")
             count = 0
             for row in tables[0]:
-                if not row or compact(row[0] or "") in {"", "番号"}:
-                    continue
-                if len(row) != 7 or not compact(row[0]).isdigit():
-                    raise ValueError(f"Unrecognized data row on page {page_number}")
-                number, applicant, raw_kind, model, maker, approval, date = [value or "" for value in row]
+                if yamagata:
+                    if not any(row) or compact(row[2] or "") in {"型式の概要", "遊技機の種類"}:
+                        continue
+                    if len(row) != 7 or compact(row[2] or "") not in KINDS:
+                        raise ValueError(f"Unrecognized Yamagata row on page {page_number}: {row}")
+                    # Applicant addresses and representative names are deliberately excluded.
+                    _, _, raw_kind, model, maker, approval, _ = [value or "" for value in row]
+                    applicant, number, date = "", str(len(sequence) + 1), next(iter(dates))
+                else:
+                    if not row or compact(row[0] or "") in {"", "番号"}:
+                        continue
+                    if len(row) != 7 or not compact(row[0]).isdigit():
+                        raise ValueError(f"Unrecognized data row on page {page_number}")
+                    number, applicant, raw_kind, model, maker, approval, date = [value or "" for value in row]
                 raw_kind = compact(raw_kind)
                 if raw_kind not in KINDS:
                     raise ValueError(f"Unknown machine kind: {raw_kind}")
                 model = model.replace("\n", "").strip()
                 manufacturer = applicant if compact(maker) == "申請者に同じ" else maker
                 manufacturer = manufacturer.replace("\n", "").strip()
-                approval = compact(approval).upper()
+                approval = compact(approval).upper().removeprefix("第").removesuffix("号")
                 if not model or not manufacturer or not re.fullmatch(r"[0-9][PS]?[0-9]{4,5}", approval):
                     raise ValueError(f"Invalid machine record on page {page_number}")
                 identity = compact(manufacturer) + "\n" + compact(model)
@@ -145,7 +166,7 @@ def parse_pdf(data: bytes, source_url: str) -> list[dict]:
                     "name": display(model), "reading": display(model), "manufacturer": display(manufacturer),
                     "kind": prefix_kind, "noticeKind": raw_kind, "classificationBasis": "notice" if prefix_kind == kind else "model-prefix",
                     "modelName": model, "aliases": [],
-                    "noticeDate": notice_date(date), "approvalNumber": approval,
+                    ("examinedOn" if shizuoka else "noticeDate"): notice_date(date), "approvalNumber": approval,
                     "sourceUrl": source_url, "sourcePage": page_number, "nameOrigin": "notice",
                 })
                 sequence.append(int(compact(number)))
@@ -184,24 +205,24 @@ def apply_overrides(machines: list[dict], overrides: list[dict]) -> list[dict]:
 
 def build_catalog(groups: list[list[dict]], previous: dict, overrides: list[dict], documents: list[dict]) -> dict:
     # Rotating official archives must not silently erase previously observed models.
-    merged = {row["id"]: row.copy() for row in previous.get("machines", []) if row.get("sourceUrl", "").startswith(f"https://{HOST}{PDF_PREFIX}")}
+    merged = {row["id"]: row.copy() for row in previous.get("machines", []) if any(row.get("sourceUrl", "").startswith(f"https://{urlsplit(index).netloc}{prefix}") for index, prefix in SOURCES)}
     for row in merged.values():
         row.update(name=display(row["modelName"]), reading=display(row["modelName"]), aliases=[], nameOrigin="notice")
     for group in groups:
         for row in group:
             old = merged.get(row["id"])
-            if not old or row["noticeDate"] >= old.get("noticeDate", ""):
+            if not old or row.get("noticeDate", row.get("examinedOn", "")) >= old.get("noticeDate", old.get("examinedOn", "")):
                 merged[row["id"]] = row
     machines = apply_overrides(list(merged.values()), overrides)
     if not machines or len(machines) > 30_000:
         raise ValueError("Empty or oversized catalog; retaining the last published version")
-    machines.sort(key=lambda row: (row["noticeDate"], row["name"]), reverse=True)
+    machines.sort(key=lambda row: (row.get("noticeDate", row.get("examinedOn", "")), row["name"]), reverse=True)
     return {
         "version": 1, "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
-        "source": "福井県公安委員会 遊技機検定公示", "attribution": "出典：福井県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
+        "source": "福井・静岡・山形県公安委員会 遊技機検定公示", "attribution": "出典：福井・静岡・山形県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
         "license": "公示本文：著作権法13条／独自補足：CC0-1.0", "catalogType": "examination-notices",
         "description": "検定公示に掲載された型式の候補です。発売・現行設置・全国網羅を保証する一覧ではありません。公示日は導入日ではありません。",
-        "sourceIndexUrl": INDEX_URL, "documents": documents, "machines": machines,
+        "sourceIndexUrl": INDEX_URL, "sourceIndexes": [{"url": index} for index, _ in SOURCES], "documents": documents, "machines": machines,
     }
 
 
@@ -220,26 +241,29 @@ def main() -> None:
     if args.local_pdfs:
         sources = [(path.as_uri(), path.read_bytes()) for path in args.local_pdfs]
     else:
-        try:
-            robots = download(f"https://{HOST}/robots.txt", 1_000_000).decode("utf-8-sig")
-        except HTTPError as error:
-            if error.code != 404:
-                raise
-            robots = ""
-        if not robots_allowed(robots, INDEX_URL):
-            raise ValueError("robots.txt disallows the notice index")
-        links = NoticeLinks()
-        links.feed(download(INDEX_URL, 2_000_000).decode("utf-8-sig"))
-        if not links.links or len(links.links) > 20:
-            raise ValueError("Unexpected number of official notice PDFs")
         sources = []
-        for url in links.links:
-            if not robots_allowed(robots, url):
-                raise ValueError(f"robots.txt disallows notice PDF: {url}")
-            time.sleep(1)
-            sources.append((url, download(url)))
+        for index, prefix in SOURCES:
+            try:
+                robots = download(f"https://{urlsplit(index).netloc}/robots.txt", 1_000_000).decode("utf-8-sig")
+            except HTTPError as error:
+                if error.code != 404:
+                    raise
+                robots = ""
+            if not robots_allowed(robots, index):
+                raise ValueError("robots.txt disallows the notice index")
+            links = NoticeLinks(index, prefix)
+            links.feed(download(index, 2_000_000).decode("utf-8-sig"))
+            if not links.links or len(links.links) > 250:
+                raise ValueError("Unexpected number of official notice PDFs")
+            for url in links.links:
+                if not robots_allowed(robots, url):
+                    raise ValueError(f"robots.txt disallows notice PDF: {url}")
+                sources.append((url, None))
     args.cache.mkdir(parents=True, exist_ok=True)
     for url, data in sources:
+        if data is None:
+            time.sleep(1)
+            data = download(url)
         digest = hashlib.sha256(data).hexdigest()
         cached = args.cache / (f"v{PARSER_VERSION}-" + digest + ".json")
         if cached.exists():
