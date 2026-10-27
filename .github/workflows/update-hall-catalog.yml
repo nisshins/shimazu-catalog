@@ -7,6 +7,9 @@ on:
     paths:
       - 'docs/index.html'
       - 'docs/privacy.html'
+      - 'docs/machines.json'
+      - 'scripts/build_machine_catalog.py'
+      - '.github/workflows/update-hall-catalog.yml'
   schedule:
     # Every Monday at 12:23 JST (03:23 UTC).
     - cron: '23 3 * * 1'
@@ -42,9 +45,27 @@ jobs:
       - name: Build app catalog
         run: python scripts/build_hall_catalog.py parlors.jsonl unplaced.jsonl docs/halls.json
 
+      - name: Download licensed machine data
+        if: ${{ vars.MACHINE_CATALOG_SOURCE_URL != '' }}
+        env:
+          MACHINE_SOURCE_URL: ${{ vars.MACHINE_CATALOG_SOURCE_URL }}
+        run: curl --fail --location --retry 3 --proto '=https' --proto-redir '=https' --output machines-source.json "$MACHINE_SOURCE_URL"
+
+      - name: Build machine catalog
+        if: ${{ vars.MACHINE_CATALOG_SOURCE_URL != '' }}
+        env:
+          MACHINE_SOURCE_NAME: ${{ vars.MACHINE_CATALOG_SOURCE_NAME }}
+          MACHINE_ATTRIBUTION: ${{ vars.MACHINE_CATALOG_ATTRIBUTION }}
+          MACHINE_LICENSE: ${{ vars.MACHINE_CATALOG_LICENSE }}
+        run: >-
+          python scripts/build_machine_catalog.py machines-source.json docs/machines.json
+          --source "$MACHINE_SOURCE_NAME"
+          --attribution "$MACHINE_ATTRIBUTION"
+          --license "$MACHINE_LICENSE"
+
       - name: Commit updated catalog
         run: |
-          git add docs/halls.json
+          git add docs/halls.json docs/machines.json
           if ! git diff --cached --quiet; then
             git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update nationwide hall catalog'
             git push
