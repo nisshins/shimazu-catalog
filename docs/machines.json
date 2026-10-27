@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T12:27:51.723183Z",
+  "generatedAt": "2026-10-27T12:50:22.117346Z",
   "source": "福井・静岡・山形県公安委員会 遊技機検定公示",
   "attribution": "出典：福井・静岡・山形県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
   "license": "公示本文：著作権法13条／独自補足：CC0-1.0",
@@ -4561,7 +4561,7 @@
     },
     {
       "id": "notice-49d991fe32c03fc34a560cf4",
-      "name": "SマイジャグラーVIKK",
+      "name": "マイジャグラーVI",
       "reading": "まいじゃぐらー6",
       "manufacturer": "株式会社北電子",
       "kind": "pachislot",
@@ -4576,7 +4576,7 @@
       "approvalNumber": "5S0437",
       "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R707yugikikenteikouji.pdf",
       "sourcePage": 5,
-      "nameOrigin": "notice"
+      "nameOrigin": "curated"
     },
     {
       "id": "notice-e4d5f576e9d18a47b105d534",
@@ -10732,7 +10732,7 @@
     },
     {
       "id": "notice-9cff9d09ae42de3b55f56e41",
-      "name": "SウルトラミラクルジャグラーKT",
+      "name": "ウルトラミラクルジャグラー",
       "reading": "うるとらみらくるじゃぐらー",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
@@ -10747,7 +10747,7 @@
       "approvalNumber": "330695",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20240401-20250331kenteiyugiki.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "curated"
     },
     {
       "id": "notice-e96ec25862e6b3cb59bb6b3e",
@@ -12654,6 +12654,64 @@
       "nameOrigin": "notice"
     },
     {
+      "id": "notice-f3661f786cbe2fad9d712f50",
+      "name": "ドラゴンハナハナ～閃光～-30",
+      "reading": "どらごんはなはな せんこう",
+      "manufacturer": "株式会社パイオニア",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "Ｓドラゴンハナハナ～閃光～ＳＰ－３０",
+      "aliases": [
+        "ドラハナ",
+        "どらはな"
+      ],
+      "noticeDate": "2023-09-21",
+      "approvalNumber": "3S0875",
+      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
+      "sourcePage": 2,
+      "nameOrigin": "curated"
+    },
+    {
+      "id": "notice-5e69d77522a08b31a2956d33",
+      "name": "スマスロモンキーターンV",
+      "reading": "もんきーたーん ふぁいぶ",
+      "manufacturer": "山佐株式会社",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "Ｌモンキーターン５ＣＥ",
+      "aliases": [
+        "モンキーV",
+        "モンキー5",
+        "もんきー"
+      ],
+      "noticeDate": "2023-09-21",
+      "approvalNumber": "3S0772",
+      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
+      "sourcePage": 1,
+      "nameOrigin": "curated"
+    },
+    {
+      "id": "notice-bcf6b02e885a941c6d7b2579",
+      "name": "ジャグラーガールズSS",
+      "reading": "じゃぐらーがーるず",
+      "manufacturer": "株式会社 北電子",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ＳジャグラーガールズＳＳ－ＫＨ",
+      "aliases": [
+        "ガールズ",
+        "がーるず"
+      ],
+      "noticeDate": "2023-09-21",
+      "approvalNumber": "330257",
+      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
+      "sourcePage": 1,
+      "nameOrigin": "curated"
+    },
+    {
       "id": "notice-63eefc7557efec8b431a1e61",
       "name": "e Re:ゼロから始める異世界生活 season2M13",
       "reading": "e Re:ゼロから始める異世界生活 season2M13",
@@ -12699,44 +12757,6 @@
       "approvalNumber": "3S0331",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
       "sourcePage": 2,
-      "nameOrigin": "notice"
-    },
-    {
-      "id": "notice-f3661f786cbe2fad9d712f50",
-      "name": "Sドラゴンハナハナ~閃光~SP-30",
-      "reading": "どらごんはなはな せんこう",
-      "manufacturer": "株式会社パイオニア",
-      "kind": "pachislot",
-      "noticeKind": "回胴式遊技機",
-      "classificationBasis": "notice",
-      "modelName": "Ｓドラゴンハナハナ～閃光～ＳＰ－３０",
-      "aliases": [
-        "ドラハナ",
-        "どらはな"
-      ],
-      "noticeDate": "2023-09-21",
-      "approvalNumber": "3S0875",
-      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
-      "sourcePage": 2,
-      "nameOrigin": "notice"
-    },
-    {
-      "id": "notice-bcf6b02e885a941c6d7b2579",
-      "name": "SジャグラーガールズSS-KH",
-      "reading": "じゃぐらーがーるず",
-      "manufacturer": "株式会社 北電子",
-      "kind": "pachislot",
-      "noticeKind": "回胴式遊技機",
-      "classificationBasis": "notice",
-      "modelName": "ＳジャグラーガールズＳＳ－ＫＨ",
-      "aliases": [
-        "ガールズ",
-        "がーるず"
-      ],
-      "noticeDate": "2023-09-21",
-      "approvalNumber": "330257",
-      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
-      "sourcePage": 1,
       "nameOrigin": "notice"
     },
     {
@@ -12831,26 +12851,6 @@
       "aliases": [],
       "noticeDate": "2023-09-21",
       "approvalNumber": "3S1000",
-      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
-      "sourcePage": 1,
-      "nameOrigin": "notice"
-    },
-    {
-      "id": "notice-5e69d77522a08b31a2956d33",
-      "name": "Lモンキーターン5CE",
-      "reading": "もんきーたーん ふぁいぶ",
-      "manufacturer": "山佐株式会社",
-      "kind": "pachislot",
-      "noticeKind": "回胴式遊技機",
-      "classificationBasis": "notice",
-      "modelName": "Ｌモンキーターン５ＣＥ",
-      "aliases": [
-        "モンキーV",
-        "モンキー5",
-        "もんきー"
-      ],
-      "noticeDate": "2023-09-21",
-      "approvalNumber": "3S0772",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
       "sourcePage": 1,
       "nameOrigin": "notice"
@@ -14600,6 +14600,25 @@
       "nameOrigin": "notice"
     },
     {
+      "id": "notice-2b63592bbe4dd354bc0d960f",
+      "name": "ゴーゴージャグラー3",
+      "reading": "ごーごーじゃぐらー3",
+      "manufacturer": "株式会社 北電子",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "Ｓゴーゴージャグラー３ＫＡ",
+      "aliases": [
+        "ゴージャグ",
+        "ごーじゃぐ"
+      ],
+      "noticeDate": "2023-02-09",
+      "approvalNumber": "2S0743",
+      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
+      "sourcePage": 1,
+      "nameOrigin": "curated"
+    },
+    {
       "id": "notice-96f5c1df3d3139f61e316987",
       "name": "S課長熊田工作GZA",
       "reading": "S課長熊田工作GZA",
@@ -14659,25 +14678,6 @@
       "aliases": [],
       "noticeDate": "2023-02-09",
       "approvalNumber": "230336",
-      "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
-      "sourcePage": 1,
-      "nameOrigin": "notice"
-    },
-    {
-      "id": "notice-2b63592bbe4dd354bc0d960f",
-      "name": "Sゴーゴージャグラー3KA",
-      "reading": "ごーごーじゃぐらー3",
-      "manufacturer": "株式会社 北電子",
-      "kind": "pachislot",
-      "noticeKind": "回胴式遊技機",
-      "classificationBasis": "notice",
-      "modelName": "Ｓゴーゴージャグラー３ＫＡ",
-      "aliases": [
-        "ゴージャグ",
-        "ごーじゃぐ"
-      ],
-      "noticeDate": "2023-02-09",
-      "approvalNumber": "2S0743",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
       "sourcePage": 1,
       "nameOrigin": "notice"
@@ -14972,7 +14972,7 @@
     },
     {
       "id": "notice-f529efd1e2c599758db8bd33",
-      "name": "SキングハナハナSP-30",
+      "name": "キングハナハナ-30",
       "reading": "きんぐはなはな",
       "manufacturer": "株式会社パイオニア",
       "kind": "pachislot",
@@ -14988,7 +14988,7 @@
       "approvalNumber": "2S1569",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050112.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "curated"
     },
     {
       "id": "notice-026ae956cde9bbd22afcff82",
