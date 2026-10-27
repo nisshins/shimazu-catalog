@@ -579,7 +579,7 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-10-27T13:24:40.992866+00:00"
+    "fetchedAt": "2026-10-27T13:34:43.496279+00:00"
   },
   "yamasa": {
     "products": [
@@ -1935,6 +1935,3248 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-10-27T13:25:06.383513+00:00"
+    "fetchedAt": "2026-10-27T13:35:08.805250+00:00"
+  },
+  "sammy": {
+    "products": [
+      {
+        "name": "スマスロ 快盗天使ツインエンジェル2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_twi_an_p2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ 獣王",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_jyu_oh/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "スマスロ リコリス・リコイル",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_lyc_re/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ ビッグドリーム THE GOLDEN PUSHER",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_big_dr/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "A-SLOT+ 異世界かるてっと BT",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_ise_ka/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_kab_ne/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "スマスロ 攻殻機動隊",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_ko_kid/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "スマスロ 北斗の拳 転生の章2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_ke_tensei/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ 化物語",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_bak_mo/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ 東京リベンジャーズ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_tok_re/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "回胴黙示録カイジ 狂宴",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/kai_ky/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/dis_up_ultraremix/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "スマスロ 聖戦士ダンバイン",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_dan_ba/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ頭文字D 2nd",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/ini_d2nd/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "A-SLOT+ この素晴らしい世界に祝福を！",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/A_kon_su/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ真・北斗無双",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_mu/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/bou_fu/ ",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ交響詩篇エウレカセブン4 HI-EVOLUTION",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_eur_se4/ ",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "スマスロ ゴールデンカムイ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/gol_ka/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ ガメラ2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/dai_ga/ ",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ ファイヤードリフト",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/fir_dr/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ交響詩篇エウレカセブン HI-EVOLUTION ZERO TYPE-ART",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/eur_ar/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ傷物語 -始マリノ刻-",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/kis_ha/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ バイオハザード:ヴェンデッタ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/bio_ha/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ コードギアス 反逆のルルーシュ3 C.C.&Kallen ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/cod_han/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スマスロ北斗の拳",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_ke/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ盾の勇者の成り上がり",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/tat_yu/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロRYUKYU BEAT-30",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロハードボイルド",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/har_bo/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロペルソナ５",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/per_so/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ぱちすろ けものフレンズ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/kem_fr/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ蒼天の拳4",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sou_ke/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロアラジンAクラシック",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/ala_cl/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ楽園追放",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/rak_ts/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロコードギアス反逆のルルーシュ3",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/codegeass3/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロガメラ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/gam_ra/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロAngel Beats!",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/ang_be/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ北斗の拳 宿命",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/Shokuto_syukumei/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "パチスロ頭文字D",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/Sintiald/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ七つの大罪",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/S7-taizai/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "回胴黙示録カイジ沼",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/Skaiji_numa/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ 〈物語〉シリーズ セカンドシーズン",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/pachislot_Smonogatariseries_2ndseason/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ ファンタシースターオンライン2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2020/pachislot_SPSO2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ北斗の拳 天昇",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2019/pachislot_Shokuto/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "A-SLOT DARTSLIVE",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2018/dartslive_Aslot/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "A-SLOTツインエンジェルBREAK",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2018/twinangelbreak_Aslot/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ蒼き鋼のアルペジオ-アルス・ノヴァ- Mental Model ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2018/aokihagane_mentalmodel/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロディスクアップ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2018/discup/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ戦場のヴァルキュリア",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2017/ps_valkyria/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロコードギアス反逆のルルーシュR2 C.C.ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2017/codegeass2cc/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロYs Ⅰ＆Ⅱ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2017/ys12/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ蒼き鋼のアルペジオ-アルス・ノヴァ-",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2017/aokihagane/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ闘え！サラリーマン",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2017/tatakae_salaryman/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ犬夜叉",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロ火曜サスペンス劇場",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2016/slotkasasu/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロBLOOD＋ 二人の女王",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2016/slotblood2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロビッグドリームinロストアイランド2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2016/lostisland2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ銀と金2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2015/gintokin2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ龍が如く OF THE END",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/2015/ryugagotokuote/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "サラリーマン金太郎出世回胴編",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロバーチャファイター",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ御伽屋HANZO",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ仮面ライダー UNLIMITED",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロうる星やつら3",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロカメレオン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "回胴黙示録カイジ3",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロあしたのジョー2",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "新鬼武者 再臨",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "魁!!男塾 天挑五輪大武會編",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロドカベン2G",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "フルメタル・パニック！TSR",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロ モンスターハンター",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "To Heart2",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぷよぷよ！",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ラーゼフォン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "銀と金",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "旋風の用心棒～胡蝶の記憶～",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "超重神グラヴィオン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "あっぱれ剣士道",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "俺の空 蒼き正義魂",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "リングにかけろ1黄金の日本Jr.編",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ガメラZS",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "新鬼武者",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "BLOOD＋",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "炎の熱血教師～清原、健介、北斗編～",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "真・女神転生",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "スクール☆ウォーズ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "宇宙刑事ギャバン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "回胴黙示録カイジ2",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "星羅はお告げがお好き",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "天地を喰らう",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ザ・ブルーハーツ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "パチスロ機動新撰組 萌えよ剣",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ソニックライブ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "熱血硬派くにおくん",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "パチスロナイトライダー",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "天下無敵！サラリーマン金太郎",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "パチスロシティーハンター",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "バーチャファイターT",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "バーチャファイターF",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "伝説の巫女",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "マスクオブゾロ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "くりぃむしちゅー",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "おり姫は告知がお好き",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "バックトゥザフューチャーデラックス",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "デビルメイクライスリー",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "うる星やつら",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "魁!!男塾",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "プレミアムダイナマイト",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "リングにかけろ1",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ビジトジ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ドカベン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "俺の空",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ど根性ガエル",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "鬼武者3",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "回胴黙示録カイジ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "梅松ダイナマイトウェーブ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ガメラハイグレードビジョン",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ジェットセットラジオ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "チャーリーズエンジェル",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スロッター金太郎",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "野獣",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "スノーキング",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "クラブロデオ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "猛獣王",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ギンギン丸",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "一撃帝王",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "サラリーマン金太郎",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ゴールド獣王",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ダブルチャレンジ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "大ガメラ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ハードボイルド2",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "インディジョーズ2",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "ガメラ",
+        "url": "https://new.sammy.co.jp/assets/js/slot.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ロデオ"
+        ]
+      },
+      {
+        "name": "e 北斗の拳 激闘",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_hok_ke_gekito/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e シャングリラ・フロンティア",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_sha_fr/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e 獣王 獅子の一撃",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_jyu_oh_sh/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e 甲鉄城のカバネリ2 輪廻の果報 119ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_kab_ne_a/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e 七つの大罪3",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_nan_ta_3/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e 東京リベンジャーズ 聖夜決戦編",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_tok_re/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "e 化物語 鬼99ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_bak_mo_99/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e 終末のワルキューレ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_shu_va/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "e 甲鉄城のカバネリ2 咲かせや燦然",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_kab_ne/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e 真・北斗無双 第5章 夢幻闘双",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/shi_mu5_L/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e 盾の勇者の成り上がり アルティメット199ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_tat_yu_L/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "e 北斗の拳11 暴凶星",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "P いくさの子 戦極最強ドデカ199ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/p_ik_noko_D/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e 聖戦士ダンバイン3 ZEROSONIC",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/dan_ba3/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネP 頭文字D せかんど",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/ini_d_2nd_a/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "e東京リベンジャーズ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/tok_re/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネPモンスターハンターライズ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネP北斗の拳 慈母",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/p_hok_ke_jibo/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "Pゾンビランドサガ",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/zon_sa/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e真・北斗無双 第5章 ドデカSTART",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/shi_mu5_D/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e蒼天の拳 羅龍",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_sou_ke/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "Pブラックラグーン4 EXTRA BULLET 129ver.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P盾の勇者の成り上がり",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pモンスターハンターライズ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pいくさの子 織田三郎信長伝",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/P_ik_noko/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネP交響詩篇エウレカセブン ANEMONE 99ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/pe_ur_an_99ver/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "e北斗の拳10",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke10/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P頭文字D 2nd",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/ini_d_2nd/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P七つの大罪2 神千斬りVER.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2_kv/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P化物語 199ver. P化物語 319ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/bak_mo/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P真・北斗無双 第4章 下剋上闘",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/shi_mu4_ge/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P頭文字D Non-Stop 3000Edition",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/ini_ld_3000e/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pブラックラグーン4",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P真・北斗無双 第3章 覚醒闘舞",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P真・北斗無双 第4章",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P七つの大罪2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pモンスターハンターダブルクロス 連続狩猟ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/mon_hu3_l/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネPA火曜サスペンス劇場 最後の推理",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/kay_su_a/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネP蒼天の拳 双龍",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/sou_ke_a/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P真・北斗無双 第3章 ジャギの逆襲",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/shi_mu_m/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P北斗の拳9 闘神",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネP〈物語〉シリーズ セカンドシーズン",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/mon_se_a/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P 火曜サスペンス劇場 最後の推理",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/Pkasasu/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P 蒼天の拳 天刻",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/sou_ke_te/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P 甲鉄城のカバネリ 319覚醒Ver.  P 甲鉄城のカバネリ 219覚醒Ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2021/Pkabaneri/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P 〈物語〉シリーズ セカンドシーズン",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2020/Pmonogatariseries_2ndseason/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P ビッグドリーム2激神 199Ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2020/Pbigdream2_199/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P ROAD TO EDEN",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2020/Proad_to_eden/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "デジハネPあの日見た花の名前を僕達はまだ知らない。",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2020/degihane_Panohana/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pビッグドリーム2激神",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2019/Pbigdream2/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "Pガオガオキング3デジハネPAガオガオキング3",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2019/Pgaogaoking3/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "P SHOW BY ROCK!!",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2019/Pshowbyrock/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ぱちんこCRどらきゅあ！デジハネCRどらきゅあ！",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2019/cr_dracua/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ぱちんこCRブラックラグーン3",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2018/cr_blacklagoon3/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳7 転生",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2017/cr_hokutonoken_7/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRビッグorスモール",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR真・北斗無双 夢幻闘乱",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2016/cr_shin_hokuto_muso_mugen/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR逃亡者おりん3",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCRAキャプテンハーロック",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2016/dejihane_cra_captain_harlock/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRハチワンダイバー",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCRAくだもの畑",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2016/dejihane_cra_kudamono/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR火曜サスペンス劇場 真相の扉～22の過ち～",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRビッグドリーム～神撃99Ver.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRガメラ SX",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR神獣王2",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2015/cr_jyuou2015/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCRペルソナ4 the PACHINKO 99Ver.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRペルソナ4 the PACHINKO 392Ver.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRビッグドリーム～神撃 399Ver.CRビッグドリーム～神撃 259Ver.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCR嘘喰い",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRガメラ LXB",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCRあしたのジョー FIGHTING FOR THE TOMORROW",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2015/cr_ashitano_joe/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR聖戦士ダンバイン 319 ver.ぱちんこCR聖戦士ダンバイン 256 ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2015/cr_dunbine/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR嘘喰い",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCRハクション大魔王 デジハネCRハクション大魔王",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/2015/cr_hakusyon/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRどっキュンリゾートハワイへん",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳6 拳王",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR龍が如く 見参！天照祇園編",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCR北斗の拳5 慈母",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCR蒼天の拳 ST",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRブラックラグーン2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR化物語",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCRモンスターハンター",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR機動新撰組萌えよ剣3",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCR戦乱BurST!",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳5 百裂",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRアラジンTURBO闇の魔神と暗黒のピラミッド ライトミドルVer",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRアラジンTURBO闇の魔人と暗黒のピラミッド",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRサムライチャンプルー3",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCRルーキーズ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRルーキーズ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR秘密戦隊ゴレンジャー",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CR火曜サスペンス劇場",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR神獣王 ライトミドルVer.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR神獣王 デジハネVer.",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCR鉄のラインバレル",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳5 覇者",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR米米ＣＬＵＢ大収穫祭",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR神獣王",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR兎-野生の闘牌-",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR蒼天の拳 天授",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRバーチャファイターレボリューション",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRカメレオン",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCR逃亡者おりん2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCRAガオガオキング PTERA",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRガオガオキング TRICERA",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRガオガオキング Ｔ-REX",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR御伽屋HANZO",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジテンCR北斗の拳 有情(トキ)",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR逃亡者おりん2E",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR逃亡者おりん2M",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジテンCR獣王",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR龍が如く 見参！",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR蒼天の拳2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRピカバナ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCRろくでなしBLUES～頂上血戦～",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCR北斗の拳 慈母(ユリア)",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRプロゴルファー猿",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳 金色(ファルコ)",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRALADDIN NEO 小さな皇女と天魔の都",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR超古代文明モアイ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR戦国乱舞 紺碧の双刃",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRブラックラグーン",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCRリングにかけろ1-黄金の日本Jr.編-",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳 百裂(ケンシロウ)",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCRガッチャマン～運命の絆～CSTV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRサムライチャンプルー2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR獣王",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジテンCRハクション大魔王3 アクビ娘",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジテンCR逃亡者おりん",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRフルメタル・パニック！TSR",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR北斗の拳 剛掌黒王バージョン",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCR科学忍者隊ガッチャマン～運命の絆～MSTV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "デジハネCRサクラ大戦2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRクラブムーン",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRシンデレラボーイ2～シンデレラコードを奪還せよ～",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR野球狂の詩",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR真・本能寺の変～夢幻の如く～",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "デジハネCR蒼天の拳 STV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRサクラ大戦2HV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRサクラ大戦2FV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "ぱちんこCRサクラ大戦2",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRひかる源氏",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR蒼天の拳",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRゴールドラッシュ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CR BLOOD＋",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR宮廷女官チャングムの誓い",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR昭和伝説 三波春夫",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "ぱちんこCRハクション大魔王3 アクビ娘",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR機動新撰組萌えよ剣 疾風怒涛編",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CR八代亜紀 心の故郷 帰りませんか KTW",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CR八代亜紀 心の故郷 帰りませんか HTX",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRAデジハネ桃太郎電鉄SV",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRペルソナ３",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "ぱちんこCR逃亡者おりん",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR桃太郎電鉄",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRバーチャファイター",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRGU-GUガンモ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRバック トゥ ザ フューチャー",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRサムライチャンプルー",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "タイヨーエレック"
+        ]
+      },
+      {
+        "name": "CRAデジハネフランダースの犬と世界名作劇場",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRフランダースの犬と世界名作劇場",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRサクラ大戦",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRラブラブオリーブ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRアラジンデスティニー",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CRマッハGoGoGo",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRシーコップ",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
+      {
+        "name": "CR寿司だニャン",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CRガッチャマンSTVA",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CR1・2の三四郎",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      },
+      {
+        "name": "CR満月の夜に昇天したい",
+        "url": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "銀座"
+        ]
+      }
+    ],
+    "status": "fresh",
+    "fetchedAt": "2026-10-27T13:35:10.955538+00:00"
+  },
+  "bellco": {
+    "products": [
+      {
+        "name": "Ｌすーぱぁびん娘",
+        "url": "https://www.s-bellco.co.jp/products/slot/lbinko/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "ＬＢジャックポット",
+        "url": "https://www.s-bellco.co.jp/products/slot/yamalbjackpot/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "沖シーサー-30",
+        "url": "https://www.s-bellco.co.jp/products/slot/yamaokiseesaa-30/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "シリウス",
+        "url": "https://www.s-bellco.co.jp/products/slot/yamasirius/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "デジスロ",
+        "url": "https://www.s-bellco.co.jp/products/slot/yamadigislo/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "ビッグアップ",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_bigup/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "トラッド",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_trad/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "ジャックポット",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_jackpot/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "エニィバー",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_anybar/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "まことちゃん",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_makotochan/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "モンキーモンキー",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_monkeymonkey/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "赤ジャック",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_akajack/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "スーパージャックポット",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_superjackpot/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "がんばれ元気 激闘編",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_genki_gekitou/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "がんばれ元気",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_genki/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "やったネ!はるみちゃん",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_harumichan/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "ピカスロ",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_pikaslo/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "ジャックと豆の木",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_jackandbeans/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      },
+      {
+        "name": "平成カツヲ伝説",
+        "url": "https://www.s-bellco.co.jp/products/slot/yama_katsuwo/",
+        "modelNames": [],
+        "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+        "kind": "pachislot",
+        "makerKeys": [
+          "ヤーマ"
+        ]
+      }
+    ],
+    "status": "fresh",
+    "fetchedAt": "2026-10-27T13:35:12.745710+00:00"
   }
 }
