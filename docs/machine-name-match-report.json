@@ -1,22 +1,46 @@
 {
-  "generatedAt": "2026-10-27T13:25:06.402306+00:00",
+  "generatedAt": "2026-10-27T13:45:30.423642+00:00",
   "sources": [
     {
       "id": "kitadenshi",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
       "products": 72,
       "error": null
     },
     {
       "id": "yamasa",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "products": 225,
+      "error": null
+    },
+    {
+      "id": "sammy",
+      "status": "fresh",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "products": 304,
+      "error": null
+    },
+    {
+      "id": "bellco",
+      "status": "fresh",
+      "fetchedAt": "2026-10-27T13:45:30.406331+00:00",
+      "products": 19,
       "error": null
     }
   ],
   "matched": [
+    {
+      "id": "notice-b7cc4c5485fdcea19293b532",
+      "name": "e 北斗の拳 激闘",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_hok_ke_gekito/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
     {
       "id": "notice-4ea9de0f79cb2b8baa64d544",
       "name": "スマスロモンキーターンRED",
@@ -24,7 +48,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/mktrd/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -34,7 +58,27 @@
       "productUrl": "https://yamasa-next.co.jp/slot/zgmhm3/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-850b47786ba157fb9c8ba348",
+      "name": "e シャングリラ・フロンティア",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sha_fr/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-f15071060b15c1af290161e3",
+      "name": "スマスロ 快盗天使ツインエンジェル2",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_twi_an_p2/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -44,7 +88,27 @@
       "productUrl": "https://yamasa-next.co.jp/slot/prskkm/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d6323cf43c4e3510e67e9a2c",
+      "name": "スマスロ リコリス・リコイル",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_lyc_re/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d97cc9eb7e69e8d440631448",
+      "name": "e 七つの大罪3",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_nan_ta_3/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -54,7 +118,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/ac2ro/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -64,7 +128,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/lotis/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
       "stale": false
     },
     {
@@ -74,7 +138,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/tlkfv/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -84,7 +148,17 @@
       "productUrl": "https://yamasa-next.co.jp/slot/jmngd/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-37ad9a764a118fdb4ea39ed8",
+      "name": "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_kab_ne/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -94,7 +168,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
       "stale": false
     },
     {
@@ -104,7 +178,47 @@
       "productUrl": "https://yamasa-next.co.jp/slot/tknkoif6/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-5b8e711f351e5536e9a99e9e",
+      "name": "スマスロ 攻殻機動隊",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_ko_kid/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-7ede90b2c3717145fc1c1685",
+      "name": "スマスロ 北斗の拳 転生の章2",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_ke_tensei/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-274e3b42c0201004c98a41ed",
+      "name": "e 北斗の拳11 暴凶星",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-0005caa451e4a6c6ddccff9a",
+      "name": "e 北斗の拳11 暴凶星",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -114,7 +228,27 @@
       "productUrl": "https://yamasa-next.co.jp/slot/nplnt/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-5f53bc6af900d4a8f23cf152",
+      "name": "スマスロ 東京リベンジャーズ",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_tok_re/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-fb738d554e57773edcb46b6a",
+      "name": "e東京リベンジャーズ",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/tok_re/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -124,7 +258,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/matador3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
       "stale": false
     },
     {
@@ -134,7 +268,17 @@
       "productUrl": "https://yamasa-next.co.jp/slot/bbtnpbt/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-706fef0eb5875176fae44442",
+      "name": "Pゾンビランドサガ",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/zon_sa/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -144,7 +288,67 @@
       "productUrl": "https://yamasa-next.co.jp/slot/spbjck/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-54edae46a3dac999a3b992a6",
+      "name": "e蒼天の拳 羅龍",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sou_ke/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-808d95938e060f17660dc656",
+      "name": "スマスロ 聖戦士ダンバイン",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_dan_ba/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-2a672f54f5efe10dd4a1a1d7",
+      "name": "P盾の勇者の成り上がり",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-ee2a4408ceaaaa0d612d1325",
+      "name": "スマスロ頭文字D 2nd",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ini_d2nd/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-5b542f159ac9c828f4df9575",
+      "name": "Pモンスターハンターライズ",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d09e96b651714e6dc5dac7cd",
+      "name": "Pブラックラグーン4",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -154,7 +358,17 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-85be60c3523685c04d588fb4",
+      "name": "e北斗の拳10",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke10/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -164,7 +378,17 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-e9c8d612493f5655b5727660",
+      "name": "スマスロ真・北斗無双",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_mu/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -174,7 +398,27 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-40118e3dc71fba1986f92460",
+      "name": "P七つの大罪2",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-474509eb1721938af5436840",
+      "name": "スマスロ ゴールデンカムイ",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/gol_ka/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -184,7 +428,17 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-f3efc137307326c5bc46631f",
+      "name": "パチスロ ガメラ2",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/dai_ga/ ",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -194,7 +448,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -204,7 +458,17 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-46d8067a3c086b4647991dfd",
+      "name": "パチスロ ファイヤードリフト",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/fir_dr/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -214,7 +478,17 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-deee3c3789df6e5bc55868ff",
+      "name": "Pブラックラグーン4",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -224,7 +498,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
       "stale": false
     },
     {
@@ -234,7 +508,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -244,7 +518,27 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d0d128c8cc368841621b12a9",
+      "name": "パチスロ盾の勇者の成り上がり",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/tat_yu/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-bd02351d15a70502ba5816b7",
+      "name": "P七つの大罪2",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -254,7 +548,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -264,7 +558,27 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-848796d47f4f39d7a0c6111e",
+      "name": "パチスロペルソナ５",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/per_so/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-4d139b619f9184f96ebbc3ac",
+      "name": "パチスロハードボイルド",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/har_bo/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -274,7 +588,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
       "stale": false
     },
     {
@@ -284,7 +598,27 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-0c81fcc6e7f62df8716fcdff",
+      "name": "パチスロRYUKYU BEAT-30",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-2973552991a79ce51a130b33",
+      "name": "スーパージャックポット",
+      "source": "bellco",
+      "productUrl": "https://www.s-bellco.co.jp/products/slot/yama_superjackpot/",
+      "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:30.406331+00:00",
       "stale": false
     },
     {
@@ -294,7 +628,27 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=4",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-35f644e917416f515d466f79",
+      "name": "P北斗の拳9 闘神",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-8ae082897bf82159f0ad0ad6",
+      "name": "パチスロコードギアス反逆のルルーシュ3",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/codegeass3/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     },
     {
@@ -304,7 +658,27 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-b4f9661506a42b2fb329fff2",
+      "name": "パチスロAngel Beats!",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ang_be/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-30e95de7a0ddefd8cc00a00e",
+      "name": "P 蒼天の拳 天刻",
+      "source": "sammy",
+      "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/sou_ke_te/",
+      "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
       "stale": false
     }
   ],
@@ -339,10 +713,6 @@
     },
     {
       "id": "notice-c9691a043f622b404b2de572",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-b7cc4c5485fdcea19293b532",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -383,7 +753,9 @@
     },
     {
       "id": "notice-fa4d158af6be63ef5860eb4a",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＬＢ 開運ＪＡＰＡＮ ＷＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-342dec0f91a45e0e072f98e0",
@@ -456,10 +828,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-850b47786ba157fb9c8ba348",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-735dc41ea3966f7b99c2d926",
       "reason": "unsupported-manufacturer"
     },
@@ -481,10 +849,6 @@
     },
     {
       "id": "notice-0035023133d3e909e08a280f",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-f15071060b15c1af290161e3",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -569,7 +933,9 @@
     },
     {
       "id": "notice-40dd01bcf751110eaa301870",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ獣王ＳＦＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-ab787e309d7e99777bb23bd4",
@@ -693,7 +1059,9 @@
     },
     {
       "id": "notice-9e7c5f6123c088c112e9fae8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ 獣王 ＸＺ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-c9e4cfad8fbf6ee779b1e6d2",
@@ -797,7 +1165,9 @@
     },
     {
       "id": "notice-3ff0db019195c787ebc2fda9",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ甲鉄城のカバネリ２ＳＣＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-55c824a6f45e8440512264e1",
@@ -805,10 +1175,6 @@
     },
     {
       "id": "notice-fe7367c2c4fcfde0f68bafe8",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-d6323cf43c4e3510e67e9a2c",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -829,11 +1195,9 @@
     },
     {
       "id": "notice-df59320cd276777bc5e41867",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-d97cc9eb7e69e8d440631448",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ東京リベンジャーズ聖夜決戦編ＥＲＥＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-258e6ba3e9009a9069b929ad",
@@ -853,7 +1217,9 @@
     },
     {
       "id": "notice-c1cf63ac893056b165d505bc",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌびん娘ＮＹ１",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1cf0606585082462289259bb",
@@ -1027,7 +1393,9 @@
     },
     {
       "id": "notice-b2743bcf1ded84e1691b03a6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ ビッグドリーム ＫＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-bd7f858dd238551bbc45dc44",
@@ -1107,7 +1475,9 @@
     },
     {
       "id": "notice-43e2a695b834ce7acee6c430",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ終末のワルキューレＥＲＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-096a50e63979d7d32b22e6f9",
@@ -1151,7 +1521,9 @@
     },
     {
       "id": "notice-c9bd8308d37bbd6f9fc62a04",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＬＢ 異世界かるてっと ＫＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-44f2c938835c135a8a78fefc",
@@ -1199,11 +1571,15 @@
     },
     {
       "id": "notice-83d4e5e2c3d075196e35a085",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ甲鉄城のカバネリ２ＧＦＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-4bac65123f1e228349af993e",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ化物語２ＧＳＥＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-356b78609297b22c106da88e",
@@ -1235,10 +1611,6 @@
     },
     {
       "id": "notice-bc8673f8072cbf96119d6563",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-37ad9a764a118fdb4ea39ed8",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -1295,10 +1667,6 @@
     },
     {
       "id": "notice-b890fa25c7bec9a8c9aff7ce",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-5b8e711f351e5536e9a99e9e",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -1366,14 +1734,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-7ede90b2c3717145fc1c1685",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-274e3b42c0201004c98a41ed",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-38dc23ab08b0577cd73112f1",
       "reason": "unsupported-manufacturer"
     },
@@ -1383,7 +1743,9 @@
     },
     {
       "id": "notice-086cc4187f05714d3737edeb",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ スマスロ化物語 ＫＨ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-58279b414bf0da864e9d63dc",
@@ -1407,7 +1769,9 @@
     },
     {
       "id": "notice-e7ce08a97247ed72ec628cac",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ真北斗無双５夢幻闘双ＳＣＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-15e08a730612cf26fa68ee37",
@@ -1415,10 +1779,6 @@
     },
     {
       "id": "notice-4cfc798110ae40934b5c95a6",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-0005caa451e4a6c6ddccff9a",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -1467,7 +1827,9 @@
     },
     {
       "id": "notice-fec1f764b4b676bf8ab15951",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ盾の勇者の成り上がりＥＲＥＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1709d87fb6a6d755d07e6692",
@@ -1491,7 +1853,9 @@
     },
     {
       "id": "notice-f615ded9f4d2c19fd1c4d0c9",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐいくさの子戦極最強ＧＲＰＪ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-73a220573f91bf1906d45557",
@@ -1563,7 +1927,9 @@
     },
     {
       "id": "notice-2ec5fd19a4cb4fa7b8570de4",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ聖戦士ダンバイン３ＧＲＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-110b757c05a9c0c10ab0570a",
@@ -1583,10 +1949,6 @@
     },
     {
       "id": "notice-eec514cb0714856e806d6f2c",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-5f53bc6af900d4a8f23cf152",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -1615,7 +1977,9 @@
     },
     {
       "id": "notice-528d6e4be97816339f5a5ef9",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ頭文字Ｄ２ＧＣＰＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-b54828a149edcf8628265459",
@@ -1742,10 +2106,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-fb738d554e57773edcb46b6a",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-4b3174bf6db5781862a80e0c",
       "reason": "unsupported-manufacturer"
     },
@@ -1827,7 +2187,9 @@
     },
     {
       "id": "notice-550bf6682fe4ee9ae9850aa6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＬＢジャックポットＣＹ１",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-f220082ad2e0226a6bf3ad8f",
@@ -1867,7 +2229,9 @@
     },
     {
       "id": "notice-72cb3697548837d7afe5a3c8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰデジハネモンスターハンターライズＧＳＰＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5ee0e183818f2e0910e275a5",
@@ -1953,11 +2317,9 @@
     },
     {
       "id": "notice-84a48614c01f2d4ca34d838f",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-706fef0eb5875176fae44442",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐデジハネ北斗の拳慈母ＳＳＰＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-09377e18d6b9c7882afcfe93",
@@ -2005,7 +2367,9 @@
     },
     {
       "id": "notice-379a5ad9ac463b5530279fff",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ｅ真北斗無双５ＳＦＥＥ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-4baffe051318264635237632",
@@ -2061,7 +2425,9 @@
     },
     {
       "id": "notice-c898e766d4e8baeea90f391c",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ スマスロ北斗の拳 転生の章２ＨＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-e1b1e0f366e851da413effb6",
@@ -2069,7 +2435,9 @@
     },
     {
       "id": "notice-00832d1044f5667323a3d0a8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ スマスロカイジ 狂宴 ＦＪ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-3344182be37dadab9b6c6a80",
@@ -2172,10 +2540,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-54edae46a3dac999a3b992a6",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-73e083604416e7dd8fd51787",
       "reason": "unsupported-manufacturer"
     },
@@ -2213,7 +2577,9 @@
     },
     {
       "id": "notice-185cbcd8be87574b51772e62",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ ＤＩＳＣＵＰウルトラリミックス ＸＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-26980890f140037c53d30edd",
@@ -2288,10 +2654,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-808d95938e060f17660dc656",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-94191a7cb42ae44d401e5771",
       "reason": "unsupported-manufacturer"
     },
@@ -2337,7 +2699,9 @@
     },
     {
       "id": "notice-d2cf04fd3375c026523c2415",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ スマスロ 聖戦士ダンバインＲＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-6678275f77f58ed653b7f341",
@@ -2361,7 +2725,9 @@
     },
     {
       "id": "notice-42a91ef0b123b3f2bb63740e",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＬスーパービンゴネオＳＢ５",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-bf3ca6626582ea2811fc9d0f",
@@ -2393,10 +2759,6 @@
     },
     {
       "id": "notice-b14219aef65f480dd9daf63a",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-2a672f54f5efe10dd4a1a1d7",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -2510,15 +2872,7 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-ee2a4408ceaaaa0d612d1325",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-5ea65a9d2ea8bbf507f777f4",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-5b542f159ac9c828f4df9575",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -2535,10 +2889,6 @@
     },
     {
       "id": "notice-aa163d2337f6d3e0cb705976",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-d09e96b651714e6dc5dac7cd",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -2600,7 +2950,9 @@
     },
     {
       "id": "notice-5c679b706a5b8d1ebc4e7ee6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐいくさの子ＧＦＰＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-18894476ca2c8567d52ef34f",
@@ -2659,10 +3011,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-85be60c3523685c04d588fb4",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-a59e6fd650171c520343ee11",
       "reason": "unsupported-manufacturer"
     },
@@ -2680,7 +3028,9 @@
     },
     {
       "id": "notice-bb80a7f63ce9660d3179b59d",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ Ａ－ＳＬＯＴ＋このすば ＦＸ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-25e948a09f3a14d0a9ff2cbd",
@@ -2760,7 +3110,9 @@
     },
     {
       "id": "notice-a4312f083c459d81716bf310",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ 防振り ＦＮ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-e96ec25862e6b3cb59bb6b3e",
@@ -2768,7 +3120,9 @@
     },
     {
       "id": "notice-3bddd56bf8c0aa470f92b158",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ沖シーサーＫＹ１－３０",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-3833749c339b40e696b47768",
@@ -2782,7 +3136,9 @@
     },
     {
       "id": "notice-a79392dfe34bd8b8fd5b6d42",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ頭文字Ｄ２ＧＦＰＧ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-6523115d5c3e7a6c04c67adc",
@@ -2798,7 +3154,9 @@
     },
     {
       "id": "notice-0bf8c1cd6aa83e4446ea5fa6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐデジハネエウレカセブンハイエボ２ＳＳＰＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-b000682c4d25a80f7c2c42f7",
@@ -2810,10 +3168,6 @@
     },
     {
       "id": "notice-aed5c01ec7d76454d48c38e2",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-e9c8d612493f5655b5727660",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -2906,7 +3260,9 @@
     },
     {
       "id": "notice-4701c048f393e270cceeeec6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ エウレカセブン４ ＨＩＥＶＯＫＸ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-12653ab8128a800dec4cb023",
@@ -2966,7 +3322,9 @@
     },
     {
       "id": "notice-abb0fbb6d026e9329b0a6839",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ化物語２ＧＦＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-3bc6c26449f97b6d9ab1ec2e",
@@ -2982,18 +3340,12 @@
     },
     {
       "id": "notice-b16ea24f3d7ce2f2207c7477",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-40118e3dc71fba1986f92460",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ化物語２ＧＲＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-8d0dfcaa8b4aba488e03bb8d",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-474509eb1721938af5436840",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -3090,7 +3442,9 @@
     },
     {
       "id": "notice-c680c6f5d794358f8c30310f",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ北斗の拳強敵ＳＳＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-da0d214e88bc077ffc15ecf8",
@@ -3098,7 +3452,9 @@
     },
     {
       "id": "notice-6711c4db9aac83b74815dfad",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐデジハネ聖戦士ダンバイン２ＳＳＰＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-df4f80388781292ef1e5918d",
@@ -3106,10 +3462,6 @@
     },
     {
       "id": "notice-41dcb11d62ec1db7a5c5ce6e",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-f3efc137307326c5bc46631f",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -3126,7 +3478,9 @@
     },
     {
       "id": "notice-731e51ee4f52888862c147e9",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ コードギアス復活のルルーシュＺＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5a0b9769d9801ce594c8a649",
@@ -3260,7 +3614,9 @@
     },
     {
       "id": "notice-94ae3250798be3c024b5de2b",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐエウレカセブンハイエボ２ＳＦＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-84093771aea75f28ccbcbe0c",
@@ -3292,7 +3648,9 @@
     },
     {
       "id": "notice-61b8f23d1dd1d84af1fa2572",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双４下剋上闘ＧＲＰＪ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-80ad1c2449c3d576d7025159",
@@ -3324,7 +3682,9 @@
     },
     {
       "id": "notice-c24bbde84640b1908a04ec94",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＳデジスロジャックＧＢ１",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-e5ed62beae54baff403bf535",
@@ -3355,12 +3715,10 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-46d8067a3c086b4647991dfd",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-af231ea320eb5e7547e6e232",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ頭文字ＤＧＲＰＥ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-d9f319d1420b487ee5fc04e7",
@@ -3404,7 +3762,9 @@
     },
     {
       "id": "notice-fbd046112491ad4a03d0bba1",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ エウレカセブンＨＩＥＶＯ ＸＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-c1c7f54b56bfae56fd35bc13",
@@ -3498,7 +3858,9 @@
     },
     {
       "id": "notice-99fbd0acd014f06a33a673d5",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＳスーパービンゴＨＹ１－３０",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-ae333d019b77836ab0d7da79",
@@ -3572,7 +3934,9 @@
     },
     {
       "id": "notice-76c9223c8c2cf3ff8926d0ce",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰビッグドリームＳＳＰＨ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-54b4973c631a2025f2fc32c6",
@@ -3588,7 +3952,9 @@
     },
     {
       "id": "notice-1187e9c8d4abbc75ccc94c66",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ バイオハザードヴェンデッタ ＦＫ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5c94fa80e7ff88e1b0a0588b",
@@ -3627,16 +3993,14 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-deee3c3789df6e5bc55868ff",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-878052b0f774e57d4df6f969",
       "reason": "unsupported-manufacturer"
     },
     {
       "id": "notice-95ae5bc5d97811228435c6fb",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ バイオハザードヴェンデッタ ＺＸ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-bca0d7d9e314131e05d9806c",
@@ -3676,7 +4040,9 @@
     },
     {
       "id": "notice-b9a536338d01d3c553e22ebc",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＳチャブダイＥＢ６",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-964e8820fd885e931cc9af12",
@@ -3724,7 +4090,9 @@
     },
     {
       "id": "notice-bf52811b3593705880aa6503",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ 傷物語 ＦＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-2de74185aa135bc9084e0243",
@@ -3732,7 +4100,9 @@
     },
     {
       "id": "notice-e6bb8a39cdd035d1eb6fde12",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ甲鉄城のカバネリＳＦＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-3c4c0567958d168d80528ae1",
@@ -3800,7 +4170,9 @@
     },
     {
       "id": "notice-35ecc193782918323850e810",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ聖戦士ダンバイン２ＺＥＲＯＬＩＭＩＴＨＳＦＪＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-6a495200dc0e6895f6b213f2",
@@ -3812,11 +4184,15 @@
     },
     {
       "id": "notice-ccb8482a4994a800a04272eb",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ北斗の拳暴凶星ＳＦＰＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-e457690dac116fad719eb1e5",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｌ パチスロ北斗の拳ＡＤ ＸＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-059984eb3da0a661c6eb99f6",
@@ -3930,7 +4306,9 @@
     },
     {
       "id": "notice-d5e2a9d125d5f986da447269",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ コードギアス３Ｃ．Ｃ． ＦＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5444ea2ee34f262b07136b59",
@@ -3938,7 +4316,9 @@
     },
     {
       "id": "notice-cb3bc8eb7af79c800a5e2ba5",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双４ＧＦＰＨ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1ef627030c12bcf826043634",
@@ -3958,7 +4338,9 @@
     },
     {
       "id": "notice-fd89eaa7aeab0bb5ff7df63f",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰビッグドリームＳＦＪＪ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5ea196b8727b56f2d411403b",
@@ -4022,7 +4404,9 @@
     },
     {
       "id": "notice-f999b7ec11031c9bb97a87bb",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐタイガー＆バニーＳＦＱＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-cab0f4f0cb8ef78852846d02",
@@ -4151,16 +4535,10 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-d0d128c8cc368841621b12a9",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-a6951198b78c2738861b480e",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-bd02351d15a70502ba5816b7",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ パチスロ幼女戦記 ＺＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-c6b160c9d9f15900e35d04aa",
@@ -4226,7 +4604,9 @@
     },
     {
       "id": "notice-70620e1ef1b15a4f231ca7c2",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双３覚醒闘舞ＧＣＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-017ca40399c0a7330abb7db0",
@@ -4333,14 +4713,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-848796d47f4f39d7a0c6111e",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-4d139b619f9184f96ebbc3ac",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-41a625e3323919681ad67c86",
       "reason": "unsupported-manufacturer"
     },
@@ -4406,7 +4778,9 @@
     },
     {
       "id": "notice-3860104c30ef845221303f44",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰモンスターハンターＸＸ連続狩猟ＧＥＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-2eb625367fdd8962cab018f0",
@@ -4434,7 +4808,9 @@
     },
     {
       "id": "notice-7dfc6cfdffd6241bcd540636",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ パチスロ甲鉄城のカバネリ ＺＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1691d4aa1cbd8b1bcf55666e",
@@ -4450,7 +4826,9 @@
     },
     {
       "id": "notice-4b42a5d030a41474a978c7bb",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ 開運ＪＡＰＡＮ ＫＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-7a0ff81ff10ee5b170c5bf82",
@@ -4483,7 +4861,9 @@
     },
     {
       "id": "notice-ee2157ebdf9792c522d41b38",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＳシリウスＳＹ１",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-f3de19f3689e33d00490da09",
@@ -4523,7 +4903,9 @@
     },
     {
       "id": "notice-bb2605aff93db7b0aba2254c",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ けものフレンズ ＦＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-85c729ae989136123ba62b60",
@@ -4555,7 +4937,9 @@
     },
     {
       "id": "notice-89bd0a436dc95b5f26814fa8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ頭文字ＤＳＥＪＧ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-d1d3970b89ba2bb00d97251a",
@@ -4643,7 +5027,9 @@
     },
     {
       "id": "notice-08265acb43b1d18779c0edf8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ ミスターマジック ＺＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-874b0fa3c063b6299fba1cd3",
@@ -4659,7 +5045,9 @@
     },
     {
       "id": "notice-4eb844e88aca64b7c75ed7b3",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰＡデジハネ火曜サスペンス劇場３ＧＳＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-48b5a71675e59fd9822793e4",
@@ -4704,10 +5092,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-0c81fcc6e7f62df8716fcdff",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-c561bac1e871edc631682d48",
       "reason": "unsupported-manufacturer"
     },
@@ -4724,16 +5108,14 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-2973552991a79ce51a130b33",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-ab7ae505a38f16c37a30bc20",
       "reason": "unsupported-manufacturer"
     },
     {
       "id": "notice-8e9a7c6bd790296e24e79832",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ パチスロ蒼天の拳ＡＣ ＫＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-2e984901169a05df78ecad48",
@@ -4773,11 +5155,15 @@
     },
     {
       "id": "notice-14a60bbddb30297418855eb8",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双ＦＷＱＧ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-7017d9108b4502891881ee74",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双３ジャギの逆襲ＧＥＥ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-52d3918667d23b2a913c9298",
@@ -4905,7 +5291,9 @@
     },
     {
       "id": "notice-1e82e3c79ebe1d67f22eadd6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ パチスロドリフターズ ＺＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-96858108b083254de76f3efa",
@@ -4957,15 +5345,21 @@
     },
     {
       "id": "notice-90cd1650b7fdd8b9e3bc130d",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ アラジンクラシック ＫＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-e3b55d07930756e905a05642",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ北斗の拳８究極乱世ＳＳＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-748569445f15759c93d97a52",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐデジハネ蒼天の拳双龍ＧＳＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1f974b7b68be08e8bd0a84ce",
@@ -5043,7 +5437,9 @@
     },
     {
       "id": "notice-c1ec86ea8be5f1b99d338c34",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ この素晴らしい世界に祝福を！ＺＲ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-7c6f6be953eb771e59174d8e",
@@ -5055,7 +5451,9 @@
     },
     {
       "id": "notice-76e685fbf8071dbe885b9d46",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ真北斗無双ＦＷＪＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-c34cf06c3c4801955bf3fba9",
@@ -5063,10 +5461,6 @@
     },
     {
       "id": "notice-45f460cfbfbf092f5164f68c",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-35f644e917416f515d466f79",
       "reason": "unsupported-manufacturer"
     },
     {
@@ -5103,7 +5497,9 @@
     },
     {
       "id": "notice-3c215d8dbb6db405832e5ff9",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓオニハマ４ＶＳＨ３",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-95e2c05aadb55543edee13e5",
@@ -5175,7 +5571,9 @@
     },
     {
       "id": "notice-f626e0952bff63deec6c2b6b",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ ＡＮＥＭＯＮＥ ＦＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-4329a3444512e623a355444c",
@@ -5231,7 +5629,9 @@
     },
     {
       "id": "notice-a6fe9ceaaae9b973a24b313f",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ ディスクアップ２ ＺＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-236c396d69aa7a795046d1e4",
@@ -5277,11 +5677,15 @@
     },
     {
       "id": "notice-a31bec7c27931bb2eb0c66a4",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ ツインエンジェルＰＡＲＴＹ ＺＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-821671a50286a44c5cc6af0c",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰモンスターハンターダブルクロスＳＦＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-5d96a7a2102fd96363aea117",
@@ -5380,10 +5784,6 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-8ae082897bf82159f0ad0ad6",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-1b33ad875c7e59622e0322a2",
       "reason": "unsupported-manufacturer"
     },
@@ -5409,7 +5809,9 @@
     },
     {
       "id": "notice-d9c8b8a624050a0a0809406d",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐデジハネ物語セカンドシーズンＧＳＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-1d86d93453534113a2bd1946",
@@ -5441,11 +5843,15 @@
     },
     {
       "id": "notice-66c9f41c0a8b814707062354",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ 楽園追放 ＦＳ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-742308c6fa77b6db137af8cd",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ火曜サスペンス劇場３ＧＦＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-f61a66e12a68ee351a453b18",
@@ -5495,7 +5901,9 @@
     },
     {
       "id": "notice-525f4e89891126084ca190e6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＰＡデジハネ真北斗無双第２章ＳＳＥ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-a8be965125559f12ee05aae1",
@@ -5549,7 +5957,9 @@
     },
     {
       "id": "notice-28e4934f7e686ad9521d61a6",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ超ハネ獣王ＳＭＡ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-4900a5231744fecb083f59bc",
@@ -5670,12 +6080,10 @@
       "reason": "unsupported-manufacturer"
     },
     {
-      "id": "notice-b4f9661506a42b2fb329fff2",
-      "reason": "unsupported-manufacturer"
-    },
-    {
       "id": "notice-59eafd2ccb713682363d5b16",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ羽根モノ獣王ＧＯ２",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-8bba882ae327b93ed6fe6248",
@@ -5695,7 +6103,9 @@
     },
     {
       "id": "notice-1d8f0d42e66657d97676f579",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ北斗の拳８救世主ＳＦＪＥ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-9a6eafddce95eb92dbfb17f8",
@@ -5723,15 +6133,15 @@
     },
     {
       "id": "notice-4ad0602bbae0fbf1bd248aac",
-      "reason": "unsupported-manufacturer"
+      "modelName": "ＳデジスロＡ９",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-250dc7afcdfa7b16b8d1097c",
-      "reason": "unsupported-manufacturer"
-    },
-    {
-      "id": "notice-30e95de7a0ddefd8cc00a00e",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓオニハマ４Ｈ２",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-a0a0485052f95269f82656d1",
@@ -5753,7 +6163,9 @@
     },
     {
       "id": "notice-7f03dc7e646a0c0a76f51c62",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓ パチスロ ガメラ ＫＨ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-8a9a8458199d4948db0048cc",
@@ -5773,7 +6185,9 @@
     },
     {
       "id": "notice-cdf1ac7897898e2c717d77cf",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ甲鉄城のカバネリＧＦＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-46e8532a29a37eaff608a113",
@@ -5857,7 +6271,9 @@
     },
     {
       "id": "notice-cd955860357d9ba9e66e5005",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｓワンチャンス１Ｋ１",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-7c28f721332c9c9eaad76561",
@@ -5873,7 +6289,9 @@
     },
     {
       "id": "notice-f108f02c79e6f94c45c21d8d",
-      "reason": "unsupported-manufacturer"
+      "modelName": "Ｐ北斗の拳８救世主ＳＦＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
     },
     {
       "id": "notice-38f0d026b2d933884872880c",
@@ -5893,8 +6311,8 @@
     }
   ],
   "counts": {
-    "matched": 29,
-    "pending": 1382,
+    "matched": 65,
+    "pending": 1346,
     "total": 1411
   }
 }
