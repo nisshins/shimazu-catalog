@@ -1,0 +1,1940 @@
+{
+  "kitadenshi": {
+    "products": [
+      {
+        "name": "アイムジャグラーEX(ブラックパネル)",
+        "url": "https://www.kitadenshi.co.jp/slot/imjugglerex_bk/",
+        "modelNames": [
+          "アイムジャグラーEX"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/imjugglerex_bk/"
+      },
+      {
+        "name": "ラブリージャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/lovelyjuggler/",
+        "modelNames": [
+          "ラブリージャグラーA"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lovelyjuggler/"
+      },
+      {
+        "name": "月光仮面",
+        "url": "https://www.kitadenshi.co.jp/slot/gekkoukamen/",
+        "modelNames": [
+          "ゲッコウカメン2A"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gekkoukamen/"
+      },
+      {
+        "name": "ジャンキージャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/junkiejuggler/",
+        "modelNames": [
+          "ジャンキージャグラーⅢ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/junkiejuggler/"
+      },
+      {
+        "name": "ホウリョウ",
+        "url": "https://www.kitadenshi.co.jp/slot/horyo/",
+        "modelNames": [
+          "ホウリョウ7"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/horyo/"
+      },
+      {
+        "name": "SAIsai",
+        "url": "https://www.kitadenshi.co.jp/slot/saisai/",
+        "modelNames": [
+          "サイサイ5"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/saisai/"
+      },
+      {
+        "name": "クラシックジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/classicjuggler/",
+        "modelNames": [
+          "クラシックジャグラーⅢ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/classicjuggler/"
+      },
+      {
+        "name": "ボンジョビ",
+        "url": "https://www.kitadenshi.co.jp/slot/bonjovi/",
+        "modelNames": [
+          "ボンジョビ5"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/bonjovi/"
+      },
+      {
+        "name": "アイムジャグラーSP",
+        "url": "https://www.kitadenshi.co.jp/slot/imjugglersp/",
+        "modelNames": [
+          "アイムジャグラーSPⅧ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/imjugglersp/"
+      },
+      {
+        "name": "ハッピージャグラーV",
+        "url": "https://www.kitadenshi.co.jp/slot/happyjugglerv/",
+        "modelNames": [
+          "ハッピージャグラーV8"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv/"
+      },
+      {
+        "name": "マイジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler/",
+        "modelNames": [
+          "マイジャグラー"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler/"
+      },
+      {
+        "name": "アイムジャグラーAPEX",
+        "url": "https://www.kitadenshi.co.jp/slot/imjugglerapex/",
+        "modelNames": [
+          "アイムジャグラーAPEX Ⅵ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/imjugglerapex/"
+      },
+      {
+        "name": "テンションブースター",
+        "url": "https://www.kitadenshi.co.jp/slot/tensionbooster/",
+        "modelNames": [
+          "テンションブースター2"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/tensionbooster/"
+      },
+      {
+        "name": "浮浪雲",
+        "url": "https://www.kitadenshi.co.jp/slot/haguregumo/",
+        "modelNames": [
+          "ハグレグモA5"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/haguregumo/"
+      },
+      {
+        "name": "ミラクルジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/miraclejuggler/",
+        "modelNames": [
+          "ミラクルジャグラーK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/miraclejuggler/"
+      },
+      {
+        "name": "ニューアイムジャグラーEX",
+        "url": "https://www.kitadenshi.co.jp/slot/newimjugglerex/",
+        "modelNames": [
+          "ニューアイムジャグラーEX-C"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/newimjugglerex/"
+      },
+      {
+        "name": "マイジャグラーⅡ",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler2/",
+        "modelNames": [
+          "マイジャグラーⅡK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler2/"
+      },
+      {
+        "name": "マハロ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/mahalo-30/",
+        "modelNames": [
+          "マハロE-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mahalo-30/"
+      },
+      {
+        "name": "デュアルストーリー",
+        "url": "https://www.kitadenshi.co.jp/slot/dualstory/",
+        "modelNames": [
+          "デュアルストーリーN"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/dualstory/"
+      },
+      {
+        "name": "ケータイ少女",
+        "url": "https://www.kitadenshi.co.jp/slot/keitaisyojo/",
+        "modelNames": [
+          "ケータイ少女S"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/keitaisyojo/"
+      },
+      {
+        "name": "ジャグラーガールズ",
+        "url": "https://www.kitadenshi.co.jp/slot/jugglergirls/",
+        "modelNames": [
+          "ジャグラーガールズK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/jugglergirls/"
+      },
+      {
+        "name": "コイコイマハロ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/koikoimahalo-30/",
+        "modelNames": [
+          "コイコイマハロKK-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/koikoimahalo-30/"
+      },
+      {
+        "name": "みんなのジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/minnanojuggler/",
+        "modelNames": [
+          "みんなのジャグラーC"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/minnanojuggler/"
+      },
+      {
+        "name": "大漁Ⅱ",
+        "url": "https://www.kitadenshi.co.jp/slot/tairyo2/",
+        "modelNames": [
+          "大漁ⅡT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/tairyo2/"
+      },
+      {
+        "name": "マイジャグラーⅡKK",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler2kk/",
+        "modelNames": [
+          "マイジャグラーⅡKK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler2kk/"
+      },
+      {
+        "name": "パチスロテイルズ オブ デスティニー",
+        "url": "https://www.kitadenshi.co.jp/slot/talesofdestiny/",
+        "modelNames": [
+          "テイルズオブデスティニーN"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/talesofdestiny/"
+      },
+      {
+        "name": "ハッピージャグラーVⅡ",
+        "url": "https://www.kitadenshi.co.jp/slot/happyjugglerv2/",
+        "modelNames": [
+          "ハッピージャグラーVⅡKK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv2/"
+      },
+      {
+        "name": "マタドール-30",
+        "url": "https://www.kitadenshi.co.jp/slot/matador-30/",
+        "modelNames": [
+          "マタドールKA-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador-30/"
+      },
+      {
+        "name": "ニューアイムジャグラーEX-KT",
+        "url": "https://www.kitadenshi.co.jp/slot/newimjugglerex-kt/",
+        "modelNames": [
+          "ニューアイムジャグラーEX-KT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/newimjugglerex-kt/"
+      },
+      {
+        "name": "パチスロ ヘルシング",
+        "url": "https://www.kitadenshi.co.jp/slot/hellsing/",
+        "modelNames": [
+          "ヘルシングTH"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/hellsing/"
+      },
+      {
+        "name": "ワイワイマハロ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/waiwaimahalo-30/",
+        "modelNames": [
+          "ワイワイマハロ-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/waiwaimahalo-30/"
+      },
+      {
+        "name": "パチスロおとめ妖怪ざくろ",
+        "url": "https://www.kitadenshi.co.jp/slot/otomeyoukaizakuro/",
+        "modelNames": [
+          "おとめ妖怪ざくろKD"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/otomeyoukaizakuro/"
+      },
+      {
+        "name": "パチスロ機動新撰組 萌えよ剣～今宵、花散る～",
+        "url": "https://www.kitadenshi.co.jp/slot/moeyoken/",
+        "modelNames": [
+          "萌えよ剣TK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/moeyoken/"
+      },
+      {
+        "name": "ゴーゴージャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/gogojuggler/",
+        "modelNames": [
+          "ゴーゴージャグラーKK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler/"
+      },
+      {
+        "name": "イケイケマハロ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/ikeikemahalo-30/",
+        "modelNames": [
+          "イケイケマハロKD-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ikeikemahalo-30/"
+      },
+      {
+        "name": "マイジャグラーⅢ",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler3/",
+        "modelNames": [
+          "マイジャグラーⅢKD"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler3/"
+      },
+      {
+        "name": "パチスロデッドマン・ワンダーランド",
+        "url": "https://www.kitadenshi.co.jp/slot/deadman/",
+        "modelNames": [
+          "デッドマン・ワンダーランドKC"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/deadman/"
+      },
+      {
+        "name": "パチスロ機動警察パトレイバー",
+        "url": "https://www.kitadenshi.co.jp/slot/patlabor/",
+        "modelNames": [
+          "機動警察パトレイバー／KH"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/patlabor/"
+      },
+      {
+        "name": "プチマーメイド",
+        "url": "https://www.kitadenshi.co.jp/slot/petitmermaid/",
+        "modelNames": [
+          "プチマーメイド／KS"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/petitmermaid/"
+      },
+      {
+        "name": "ファンキージャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/funkyjuggler/",
+        "modelNames": [
+          "ファンキージャグラー／KK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler/"
+      },
+      {
+        "name": "マタドールⅡ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/matador2-30/",
+        "modelNames": [
+          "マタドールⅡ／KS-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador2-30/"
+      },
+      {
+        "name": "ニューアイムジャグラーEX(レッドゴールドパネル)",
+        "url": "https://www.kitadenshi.co.jp/slot/newimjugglerex-ka/",
+        "modelNames": [
+          "ニューアイムジャグラーEX-KA"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/newimjugglerex-ka/"
+      },
+      {
+        "name": "パチスロ輪るピングドラム",
+        "url": "https://www.kitadenshi.co.jp/slot/penguindrum/",
+        "modelNames": [
+          "パチスロ 輪るピングドラム"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/penguindrum/"
+      },
+      {
+        "name": "スーパーミラクルジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/supermiraclejuggler/",
+        "modelNames": [
+          "スーパーミラクルジャグラー"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/supermiraclejuggler/"
+      },
+      {
+        "name": "パチスロテイルズ オブ シンフォニア",
+        "url": "https://www.kitadenshi.co.jp/slot/talesofsymphonia/",
+        "modelNames": [
+          "パチスロ テイルズ オブ シンフォニア"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/talesofsymphonia/"
+      },
+      {
+        "name": "ロイヤルマハロ-30",
+        "url": "https://www.kitadenshi.co.jp/slot/royalmahalo-30/",
+        "modelNames": [
+          "ロイヤルマハロ-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/royalmahalo-30/"
+      },
+      {
+        "name": "アイムジャグラーEX-AE",
+        "url": "https://www.kitadenshi.co.jp/slot/imjugglerex-ae/",
+        "modelNames": [
+          "アイムジャグラーEX-AE／KT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/imjugglerex-ae/"
+      },
+      {
+        "name": "パチスロこれはゾンビですか？",
+        "url": "https://www.kitadenshi.co.jp/slot/korezon/",
+        "modelNames": [
+          "これはゾンビですか／KA"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/korezon/"
+      },
+      {
+        "name": "ゴーゴージャグラー2",
+        "url": "https://www.kitadenshi.co.jp/slot/gogojuggler2/",
+        "modelNames": [
+          "ゴーゴージャグラー2"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler2/"
+      },
+      {
+        "name": "マイジャグラーⅣ",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler4/",
+        "modelNames": [
+          "マイジャグラーⅣ／KE"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler4/"
+      },
+      {
+        "name": "パチスロダンジョンに出会いを求めるのは間違っているだろうか",
+        "url": "https://www.kitadenshi.co.jp/slot/danmachi/",
+        "modelNames": [
+          "パチスロ ダンジョンに出会いを求めるのは間違っているだろうか(ダンまち／KT)"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/danmachi/"
+      },
+      {
+        "name": "マイフラワー30",
+        "url": "https://www.kitadenshi.co.jp/slot/myflower-30/",
+        "modelNames": [
+          "Sマイフラワー"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower-30/"
+      },
+      {
+        "name": "アイムジャグラーEX",
+        "url": "https://www.kitadenshi.co.jp/slot/imjugglerex2020/",
+        "modelNames": [
+          "SアイムジャグラーEX-TP"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/imjugglerex2020/"
+      },
+      {
+        "name": "マイジャグラーⅤ",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler5/",
+        "modelNames": [
+          "SマイジャグラーⅤKD"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler5/"
+      },
+      {
+        "name": "ノーゲーム・ノーライフ THE SLOT",
+        "url": "https://www.kitadenshi.co.jp/slot/nogamenolife/",
+        "modelNames": [
+          "ノーゲーム・ノーライフ THE SLOT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/nogamenolife/"
+      },
+      {
+        "name": "ファンキージャグラー2",
+        "url": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
+        "modelNames": [
+          "Sファンキージャグラー2KT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/"
+      },
+      {
+        "name": "ハッピージャグラーV Ⅲ",
+        "url": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
+        "modelNames": [
+          "SハッピージャグラーVⅢEA"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/"
+      },
+      {
+        "name": "パチスロ ダンまち外伝ソード・オラトリア",
+        "url": "https://www.kitadenshi.co.jp/slot/sword_oratoria/",
+        "modelNames": [
+          "Sダンまち外伝XR"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/sword_oratoria/"
+      },
+      {
+        "name": "ゴーゴージャグラー3",
+        "url": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
+        "modelNames": [
+          "Sゴーゴージャグラー3KA"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/"
+      },
+      {
+        "name": "マイフラワー2-30",
+        "url": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
+        "modelNames": [
+          "SマイフラワーⅡEE-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/"
+      },
+      {
+        "name": "回胴式遊技機グランベルム",
+        "url": "https://www.kitadenshi.co.jp/slot/granbelm/",
+        "modelNames": [
+          "SグランベルムZXZ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/granbelm/"
+      },
+      {
+        "name": "ジャグラーガールズSS",
+        "url": "https://www.kitadenshi.co.jp/slot/jugglergirlsss/",
+        "modelNames": [
+          "SジャグラーガールズSS‐KH"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/jugglergirlsss/"
+      },
+      {
+        "name": "ミスタージャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
+        "modelNames": [
+          "SミスタージャグラーKK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/"
+      },
+      {
+        "name": "パチスロ ダンジョンに出会いを求めるのは間違っているだろうか2",
+        "url": "https://www.kitadenshi.co.jp/slot/danmachi2/",
+        "modelNames": [
+          "Sダンまち2XZ"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/danmachi2/"
+      },
+      {
+        "name": "キングクリエーター30",
+        "url": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
+        "modelNames": [
+          "SキングクリエーターSK-30"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/"
+      },
+      {
+        "name": "ウルトラミラクルジャグラー",
+        "url": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
+        "modelNames": [
+          "SウルトラミラクルジャグラーKT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/"
+      },
+      {
+        "name": "ネオアイムジャグラーEX",
+        "url": "https://www.kitadenshi.co.jp/slot/neoimjugglerex/",
+        "modelNames": [
+          "SネオアイムジャグラーEX-KK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/neoimjugglerex/"
+      },
+      {
+        "name": "マタドールⅢ",
+        "url": "https://www.kitadenshi.co.jp/slot/matador3/",
+        "modelNames": [
+          "LBマタドールⅢTT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/"
+      },
+      {
+        "name": "バーニングエクスプレス",
+        "url": "https://www.kitadenshi.co.jp/slot/burning-express/",
+        "modelNames": [
+          "LバーニングエクスプレスZN"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/burning-express/"
+      },
+      {
+        "name": "アニマルスロット ドッチ",
+        "url": "https://www.kitadenshi.co.jp/slot/animalslot-dotch/",
+        "modelNames": [
+          "LアニマルスロットドッチZT"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/animalslot-dotch/"
+      },
+      {
+        "name": "マイジャグラーVI",
+        "url": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
+        "modelNames": [
+          "SマイジャグラーVI KK"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/"
+      },
+      {
+        "name": "ローティス",
+        "url": "https://www.kitadenshi.co.jp/slot/lotis/",
+        "modelNames": [
+          "LローティスTN"
+        ],
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/"
+      }
+    ],
+    "status": "fresh",
+    "fetchedAt": "2026-10-27T13:13:46.629175+00:00"
+  },
+  "yamasa": {
+    "products": [
+      {
+        "name": "スマスロモンキーターンRED",
+        "url": "https://yamasa-next.co.jp/slot/mktrd/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロゼーガペインETR",
+        "url": "https://yamasa-next.co.jp/slot/zgmhm3/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロパリピ孔明",
+        "url": "https://yamasa-next.co.jp/slot/prskkm/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロケロット5BT",
+        "url": "https://yamasa-next.co.jp/slot/tlkfv/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロスーパーリオエース2",
+        "url": "https://yamasa-next.co.jp/slot/ac2ro/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロヨルムンガンド",
+        "url": "https://yamasa-next.co.jp/slot/jmngd/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロ鉄拳6",
+        "url": "https://yamasa-next.co.jp/slot/tknkoif6/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロネオプラネット",
+        "url": "https://yamasa-next.co.jp/slot/nplnt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロニューパルサーBT",
+        "url": "https://yamasa-next.co.jp/slot/bbtnpbt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots"
+      },
+      {
+        "name": "スマスロ アイドルマスター ミリオンライブ！ ネクストプロローグ",
+        "url": "https://yamasa-next.co.jp/slot/idlmst/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロ スーパーブラックジャック",
+        "url": "https://yamasa-next.co.jp/slot/spbjck/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "パチスロハイパーラッシュ",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロ ゴッドイーター リザレクション",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "ニューパルサーSP4 with 太鼓の達人",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロキングパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロモンキーターンV",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロ転生したらスライムだった件",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "スマスロキン肉マン～7人の悪魔超人編～",
+        "url": "https://yamasa-next.co.jp/slots?paged=2",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2"
+      },
+      {
+        "name": "パチスロナイツ",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "真天下布武",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ戦国無双3",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "スマスロリノヘブン",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ鉄拳4アルティメットデビルVer.",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "スーパーリオエース",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ鉄拳5",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ ピンクパンサーSP",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ ゼーガペイン2",
+        "url": "https://yamasa-next.co.jp/slots?paged=3",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3"
+      },
+      {
+        "name": "パチスロ TIGER & BUNNY SP",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "スーパーリノSP",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "スターパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "ニューパルサーDX3",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "パチスロ零",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "パチスロ鉄拳４デビルVer.",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "豪炎高校應援團 檄",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "ニューパルサーSPⅢ",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "パチスロ ゴッドイーター ジ・アニメーション",
+        "url": "https://yamasa-next.co.jp/slots?paged=4",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4"
+      },
+      {
+        "name": "パチスロ学園黙示録ハイスクール・オブ・ザ・デッド ゴールド",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "パチスロ モンキーターンIV",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "パチスロ ケロット4",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "天下布武4",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "パチスロ TIGER & BUNNY",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "パチスロ鉄拳4",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "ジャングルマスターコングダム",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "CTザクザク七福神",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "ニューパルサーDX 〜チェリーバージョン〜",
+        "url": "https://yamasa-next.co.jp/slots?paged=5",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=5"
+      },
+      {
+        "name": "スーパーリノXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "スーパープラネットSP",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "ハイカ101",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "パチスロ学園黙示録ハイスクール・オブ・ザ・デッド",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "カンフーレディ・テトラ",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "パチスロ ゴッドイーター2",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "ニューパルサーSPII",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "ワンダークーちゃん",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "パチスロ セイクリッドセブン",
+        "url": "https://yamasa-next.co.jp/slots?paged=6",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=6"
+      },
+      {
+        "name": "燃えよ！功夫淑女ドラゴン",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "ハイパーリノ",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "タイムクロス2",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "パチスロ キン肉マン 〜夢の超人タッグ編〜",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "パチスロ モンキーターンⅢ",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "パチスロ ソウルキャリバー",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "パチスロ ウィッチマスター",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "天下布武3",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "スーパープラネットデラックス",
+        "url": "https://yamasa-next.co.jp/slots?paged=7",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=7"
+      },
+      {
+        "name": "ナイツ2",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "スーパーリノMAX",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "キングパルサー〜DOT PULSAR〜",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "パチスロ鉄拳3rdエンジェルVer.",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "リノ",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "パチスロ ゴッドイーター 荒神Ver.",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "パチスロ無双OROCHI",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "煩悩BREAKER禅",
+        "url": "https://yamasa-next.co.jp/model_boz/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "押し順ケロルン",
+        "url": "https://yamasa-next.co.jp/slots?paged=8",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=8"
+      },
+      {
+        "name": "パチスロ ゴッドイーター",
+        "url": "https://yamasa-next.co.jp/model_gde/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "ニューパルサーデラックス",
+        "url": "https://yamasa-next.co.jp/slots?paged=9",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "シーマスター 〜ララ、旅立ちのプレリュード〜",
+        "url": "https://yamasa-next.co.jp/slots?paged=9",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ バーストエンジェル",
+        "url": "https://yamasa-next.co.jp/slots?paged=9",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ鉄拳3rd",
+        "url": "https://yamasa-next.co.jp/model_tk3/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ ケロット3",
+        "url": "https://yamasa-next.co.jp/model_klt3/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ モンキーターンⅡ",
+        "url": "https://yamasa-next.co.jp/model_mkt2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ スタードライバー",
+        "url": "https://yamasa-next.co.jp/model_std/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "パチスロ ゼーガペイン",
+        "url": "https://yamasa-next.co.jp/model_zep/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=9"
+      },
+      {
+        "name": "キャプテンパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=10",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ戦国無双2",
+        "url": "https://yamasa-next.co.jp/model_sgm2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ宇宙戦艦ヤマト2 ～テレサ、愛の導き～",
+        "url": "https://yamasa-next.co.jp/model_ymt2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "キュロゴス２",
+        "url": "https://yamasa-next.co.jp/model_qg2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ キン肉マン〜キン肉星王位争奪編〜",
+        "url": "https://yamasa-next.co.jp/model_knm2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "押忍!!豪炎高校應援團",
+        "url": "https://yamasa-next.co.jp/model_oed/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "ニューパルサーＳＰ",
+        "url": "https://yamasa-next.co.jp/model_npsp-2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ鉄拳デビルVer.",
+        "url": "https://yamasa-next.co.jp/model_tk2d/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ銀河鉄道999",
+        "url": "https://yamasa-next.co.jp/model_gt9/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=10"
+      },
+      {
+        "name": "パチスロ鉄拳２ｎｄ",
+        "url": "https://yamasa-next.co.jp/model_tk2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ「黒ひげ危機一発」",
+        "url": "https://yamasa-next.co.jp/model_khg/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ「ケロット２」",
+        "url": "https://yamasa-next.co.jp/model_klt2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ「ウルトラセブン」",
+        "url": "https://yamasa-next.co.jp/model_ut7/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "サイバードラゴン2",
+        "url": "https://yamasa-next.co.jp/model_cd2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "天下布武２",
+        "url": "https://yamasa-next.co.jp/slots?paged=11",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ「モンキーターン」",
+        "url": "https://yamasa-next.co.jp/slots?paged=11",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ「ぼのぼの」～スウィートver.～",
+        "url": "https://yamasa-next.co.jp/slots?paged=11",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "燃えよ！功夫大戦",
+        "url": "https://yamasa-next.co.jp/slots?paged=11",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=11"
+      },
+      {
+        "name": "パチスロ戦国無双～猛将伝～",
+        "url": "https://yamasa-next.co.jp/slots?paged=12",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "パチスロ ケロット～スウィートver.～",
+        "url": "https://yamasa-next.co.jp/model_klts/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "ティーダ2-30",
+        "url": "https://yamasa-next.co.jp/model_td2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "ニューパルサーV2",
+        "url": "https://yamasa-next.co.jp/model_npz/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "パチスロ「宇宙戦艦ヤマト」",
+        "url": "https://yamasa-next.co.jp/model_ymt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "ピカ吾郎V2",
+        "url": "https://yamasa-next.co.jp/slots?paged=12",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "パチスロ リッジレーサー2",
+        "url": "https://yamasa-next.co.jp/model_rrs2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "タイムレスキュー",
+        "url": "https://yamasa-next.co.jp/model_tmr/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "リノNo.5",
+        "url": "https://yamasa-next.co.jp/model_rn5/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=12"
+      },
+      {
+        "name": "パチスロ「機動戦士ガンダムⅢ～めぐりあい宇宙編～」",
+        "url": "https://yamasa-next.co.jp/model_gd3/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "ニューパルサー3",
+        "url": "https://yamasa-next.co.jp/model_np3/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "レキオ2-30",
+        "url": "https://yamasa-next.co.jp/model_lo2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "夢花月",
+        "url": "https://yamasa-next.co.jp/model_ykt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "パチスロ ケロット",
+        "url": "https://yamasa-next.co.jp/model_klt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "ウルトラマン・ザ・スロット",
+        "url": "https://yamasa-next.co.jp/model_umt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "バウンティキラー",
+        "url": "https://yamasa-next.co.jp/model_bok/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "パチスロ「バイオハザード」",
+        "url": "https://yamasa-next.co.jp/model_gcb/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "ニューパルサーエボリューション",
+        "url": "https://yamasa-next.co.jp/model_npe/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=13"
+      },
+      {
+        "name": "パチスロ「キン肉マン」",
+        "url": "https://yamasa-next.co.jp/model_knm/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "パチスロ「PLAYBOY」Limited Edition",
+        "url": "https://yamasa-next.co.jp/model_plbl/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "パチスロ「機動戦士ガンダムⅡ～哀・戦士編～」",
+        "url": "https://yamasa-next.co.jp/model_gd2/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "パチスロ戦国無双",
+        "url": "https://yamasa-next.co.jp/model_sgm/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "ニューパルサーV",
+        "url": "https://yamasa-next.co.jp/model_npv/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "ピカゴロウV",
+        "url": "https://yamasa-next.co.jp/model_pkv/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "パチスロPLAYBOY",
+        "url": "https://yamasa-next.co.jp/model_plb/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "ダブルバー・ビッグウェーブ",
+        "url": "https://yamasa-next.co.jp/model_wbar/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "ネオフルーツチャンス",
+        "url": "https://yamasa-next.co.jp/slots?paged=14",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=14"
+      },
+      {
+        "name": "鉄拳X",
+        "url": "https://yamasa-next.co.jp/model_tkx/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "ジャイアントパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "テンカフブR",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "CRすーぱー福の神",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "狼烈伝",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "燃えよ！カンフーレディ",
+        "url": "https://yamasa-next.co.jp/model_mkl/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "ニューパルサーRZ",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "プラネット999",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "祭の達人",
+        "url": "https://yamasa-next.co.jp/slots?paged=15",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=15"
+      },
+      {
+        "name": "ネオファラオゼッツ",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "トゥエンティーセブンR",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "キングオブキングパルサー・プレミアムバージョン",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "鉄拳R",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "ニューパルサーX（テン）",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "テンカフブ",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "ピカゴロウ2",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "キングパルサーエース",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "ワイルドウルフ",
+        "url": "https://yamasa-next.co.jp/slots?paged=16",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=16"
+      },
+      {
+        "name": "メガマックスR",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "ニューパルサーRX",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "ネオマジックパルサーXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "キングパルサー-30（シャチホコVer.）",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "メフィスト",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "ウミイチバンR",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "セキコウ",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "ホットエリア",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "エムブイピー-30",
+        "url": "https://yamasa-next.co.jp/slots?paged=17",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=17"
+      },
+      {
+        "name": "ペンギンパラダイス",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "クレイジーシャーマンR",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "ザクザクセンリョウバコR",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "デストロイヤーXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "パニックザウルス",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "ネオプラネットXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "タイムパーク",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "スーパーリノX",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "ウルマ-30",
+        "url": "https://yamasa-next.co.jp/slots?paged=18",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=18"
+      },
+      {
+        "name": "カンフーレツデン",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "キングパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "スーパーリノ",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "サイバードラゴン",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "ニューパルサーT",
+        "url": "https://yamasa-next.co.jp/model_npt/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "トリガーゾーン",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "スーパーピカゴロウR",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "ギンシャリ",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "ナイツ",
+        "url": "https://yamasa-next.co.jp/slots?paged=19",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=19"
+      },
+      {
+        "name": "キュロゴス",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "ニライカナイ-30",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "ファウスト",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "ウメカゲツR",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "エム771",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "タイムクロス",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "ハイパーラッシュ",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "ニューパルサーR",
+        "url": "https://yamasa-next.co.jp/model_npr/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "アラベスクR",
+        "url": "https://yamasa-next.co.jp/slots?paged=20",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=20"
+      },
+      {
+        "name": "カンフーレディ",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "コングダム",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "オイチョカバX",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "マジカルポップス",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "ホースシュー-30",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "レキオ-30",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "カッパノユ7R",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "シーマスターX",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "ビーバーX",
+        "url": "https://yamasa-next.co.jp/slots?paged=21",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=21"
+      },
+      {
+        "name": "イプシロンR",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ハイブリッド",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ホースシューR",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ピンクパンサー3",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ツーペアー",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "カゲツ",
+        "url": "https://yamasa-next.co.jp/slots?paged=22",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ヒート",
+        "url": "https://yamasa-next.co.jp/model_heat/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ティーダ-30",
+        "url": "https://yamasa-next.co.jp/model_td/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "ドクターエー7",
+        "url": "https://yamasa-next.co.jp/model_dra7/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=22"
+      },
+      {
+        "name": "アストロライナー7",
+        "url": "https://yamasa-next.co.jp/model_ast/",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "マイマイN",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "チェリッシュ",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "ビッグウエーブ",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "ピカゴロウ",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "スピード",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "デルデルコゾウ",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "ターボ1000",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "ソンナカバナ",
+        "url": "https://yamasa-next.co.jp/slots?paged=23",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=23"
+      },
+      {
+        "name": "タムタムR",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "タムタムA",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ケロケロパルサー2",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "タンタンタヌキ",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ニュービッグパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ワイワイパルサー2",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ピンクパンサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "セブンリーグ",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ダイバーズXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=24",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=24"
+      },
+      {
+        "name": "ニューパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "ホールインワン",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "スーパープラネット",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "ビッグパルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "アストロライナー",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "フルーツチャンス",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "プラネット",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "パルサーXX",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      },
+      {
+        "name": "パチスロ パルサー",
+        "url": "https://yamasa-next.co.jp/slots?paged=25",
+        "modelNames": [],
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=25"
+      }
+    ],
+    "status": "fresh",
+    "fetchedAt": "2026-10-27T13:14:11.934845+00:00"
+  }
+}
