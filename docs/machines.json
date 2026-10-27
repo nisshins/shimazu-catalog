@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T13:00:00.222334Z",
+  "generatedAt": "2026-10-27T13:24:36.436055Z",
   "source": "福井・静岡・山形県公安委員会 遊技機検定公示",
-  "attribution": "出典：福井・静岡・山形県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
+  "attribution": "出典：福井・静岡・山形県公安委員会の検定公示・メーカー公式製品情報／商品名対応・略称：島図エディター独自補足",
   "license": "公示本文：著作権法13条／独自補足：CC0-1.0",
   "catalogType": "examination-notices",
   "description": "検定公示に掲載された型式の候補です。発売・現行設置・全国網羅を保証する一覧ではありません。公示日は導入日ではありません。",
@@ -1217,7 +1217,15 @@
       "approvalNumber": "6S0730",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20260930kenteiyugiki.pdf",
       "sourcePage": 2,
-      "nameOrigin": "curated"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/mktrd/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-2a840dca5987c5a28e4b4013",
@@ -1253,8 +1261,8 @@
     },
     {
       "id": "notice-5fef87eba86869f1ec5b11b8",
-      "name": "LパチスロゼーガペインETRND06G",
-      "reading": "LパチスロゼーガペインETRND06G",
+      "name": "スマスロゼーガペインETR",
+      "reading": "スマスロゼーガペインETR",
       "manufacturer": "山佐ネクスト 株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -1265,7 +1273,15 @@
       "approvalNumber": "630536",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20260930kenteiyugiki.pdf",
       "sourcePage": 2,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/zgmhm3/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-7063f22ed62d8fa4a78089c0",
@@ -2069,8 +2085,8 @@
     },
     {
       "id": "notice-b61f5dc9b25e075bb6770faf",
-      "name": "Lパチスロパリピ孔明YE05H",
-      "reading": "Lパチスロパリピ孔明YE05H",
+      "name": "スマスロパリピ孔明",
+      "reading": "スマスロパリピ孔明",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -2081,7 +2097,15 @@
       "approvalNumber": "6S0292",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir080806.pdf",
       "sourcePage": 3,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/prskkm/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-a475cf15eb4dbf2f703ec2db",
@@ -3333,8 +3357,8 @@
     },
     {
       "id": "notice-10a9cbb81c6b0c80d94ce287",
-      "name": "Lパチスロスーパーリオエース2ND02H",
-      "reading": "Lパチスロスーパーリオエース2ND02H",
+      "name": "スマスロスーパーリオエース2",
+      "reading": "スマスロスーパーリオエース2",
       "manufacturer": "山佐ネクスト株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -3345,7 +3369,15 @@
       "approvalNumber": "5S1634",
       "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81023yugikikenteikouji.pdf",
       "sourcePage": 3,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/ac2ro/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-a5aadff5097dc2aede598376",
@@ -3477,8 +3509,8 @@
     },
     {
       "id": "notice-6ddc1b941a109551b194d802",
-      "name": "LローティスTN",
-      "reading": "LローティスTN",
+      "name": "ローティス",
+      "reading": "ローティス",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -3489,7 +3521,15 @@
       "approvalNumber": "531154",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir080326.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/lotis/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-7c9ea9b2acd0e34a95d571a4",
@@ -3509,8 +3549,8 @@
     },
     {
       "id": "notice-eb3315b2ead850981a7a9836",
-      "name": "LBケロット5ND05H",
-      "reading": "LBケロット5ND05H",
+      "name": "スマスロケロット5BT",
+      "reading": "スマスロケロット5BT",
       "manufacturer": "山佐ネクスト株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -3521,7 +3561,15 @@
       "approvalNumber": "5S1696",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir080326.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/tlkfv/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-fb545115d2667454ee30dd5d",
@@ -3685,8 +3733,8 @@
     },
     {
       "id": "notice-b06e7e3d30924bb306733e1f",
-      "name": "LパチスロヨルムンガンドND01G",
-      "reading": "LパチスロヨルムンガンドND01G",
+      "name": "スマスロヨルムンガンド",
+      "reading": "スマスロヨルムンガンド",
       "manufacturer": "山佐ネクスト株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -3697,7 +3745,15 @@
       "approvalNumber": "531070",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir080226.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/jmngd/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-b2743bcf1ded84e1691b03a6",
@@ -4580,7 +4636,15 @@
       "approvalNumber": "5S0437",
       "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R707yugikikenteikouji.pdf",
       "sourcePage": 5,
-      "nameOrigin": "curated"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-e4d5f576e9d18a47b105d534",
@@ -4776,8 +4840,8 @@
     },
     {
       "id": "notice-be4214bce22eab6a0190786c",
-      "name": "Lパチスロ鉄拳6YD01H",
-      "reading": "Lパチスロ鉄拳6YD01H",
+      "name": "スマスロ鉄拳6",
+      "reading": "スマスロ鉄拳6",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -4788,7 +4852,15 @@
       "approvalNumber": "5S1078",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir071106_1.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/tknkoif6/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-f6a73b01bfc1359a07948707",
@@ -5628,8 +5700,8 @@
     },
     {
       "id": "notice-a44f1b4fcc71d23c190ec3d3",
-      "name": "LネオプラネットSLED",
-      "reading": "LネオプラネットSLED",
+      "name": "スマスロネオプラネット",
+      "reading": "スマスロネオプラネット",
       "manufacturer": "セブンリーグ株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -5640,7 +5712,15 @@
       "approvalNumber": "5S0798",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir070828.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/nplnt/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-148bcbf0ef1379776548230f",
@@ -6768,8 +6848,8 @@
     },
     {
       "id": "notice-75c7259810b7746e95f48e7f",
-      "name": "LBマタドールIIITT",
-      "reading": "LBマタドールIIITT",
+      "name": "マタドールⅢ",
+      "reading": "マタドールⅢ",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -6780,12 +6860,20 @@
       "approvalNumber": "530169",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir070424.pdf",
       "sourcePage": 2,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/matador3/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-32e89ffae29f3ea592c994ca",
-      "name": "LBニューパルサーBTC9",
-      "reading": "LBニューパルサーBTC9",
+      "name": "スマスロニューパルサーBT",
+      "reading": "スマスロニューパルサーBT",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -6796,7 +6884,15 @@
       "approvalNumber": "430949",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir070424.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/bbtnpbt/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-090544aeeec116577d437f50",
@@ -8192,8 +8288,8 @@
     },
     {
       "id": "notice-bfbdbe00fd617014786ac7ac",
-      "name": "LスーパーブラックジャックSLDC",
-      "reading": "LスーパーブラックジャックSLDC",
+      "name": "スマスロ スーパーブラックジャック",
+      "reading": "スマスロ スーパーブラックジャック",
       "manufacturer": "セブンリーグ株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -8204,7 +8300,15 @@
       "approvalNumber": "4S1230",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir061219.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slot/spbjck/",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-6afa63e29799dc933becadd7",
@@ -10288,8 +10392,8 @@
     },
     {
       "id": "notice-b763ff6b0c60756d0d0565e5",
-      "name": "LパチスロゴッドイーターリザレクションSLED",
-      "reading": "LパチスロゴッドイーターリザレクションSLED",
+      "name": "スマスロ ゴッドイーター リザレクション",
+      "reading": "スマスロ ゴッドイーター リザレクション",
       "manufacturer": "セブンリーグ株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -10300,7 +10404,15 @@
       "approvalNumber": "4S0159",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir060530.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-b733064476fd665001e018c4",
@@ -10751,7 +10863,15 @@
       "approvalNumber": "330695",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20240401-20250331kenteiyugiki.pdf",
       "sourcePage": 1,
-      "nameOrigin": "curated"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-e96ec25862e6b3cb59bb6b3e",
@@ -11555,8 +11675,8 @@
     },
     {
       "id": "notice-007115099304a27426950dfe",
-      "name": "SキングクリエーターSK-30",
-      "reading": "SキングクリエーターSK-30",
+      "name": "キングクリエーター30",
+      "reading": "キングクリエーター30",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -11567,7 +11687,15 @@
       "approvalNumber": "3S1561",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/2kenteiyugiki.pdf",
       "sourcePage": 3,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-abb0fbb6d026e9329b0a6839",
@@ -11923,8 +12051,8 @@
     },
     {
       "id": "notice-d626e306306f7bc6fc6757ed",
-      "name": "LキングパルサーSLCC",
-      "reading": "LキングパルサーSLCC",
+      "name": "スマスロキングパルサー",
+      "reading": "スマスロキングパルサー",
       "manufacturer": "セブンリーグ株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -11935,7 +12063,15 @@
       "approvalNumber": "3S1231",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir051207.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-1762eaae3252b8ee0fbdcfe7",
@@ -12694,7 +12830,15 @@
       "approvalNumber": "3S0772",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
       "sourcePage": 1,
-      "nameOrigin": "curated"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-bcf6b02e885a941c6d7b2579",
@@ -12733,8 +12877,8 @@
     },
     {
       "id": "notice-287d4f48b1cda6468e15b051",
-      "name": "SミスタージャグラーKK",
-      "reading": "SミスタージャグラーKK",
+      "name": "ミスタージャグラー",
+      "reading": "ミスタージャグラー",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -12745,7 +12889,15 @@
       "approvalNumber": "3S0174",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050921.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-6b8e99c3bea5ba5291efa390",
@@ -13421,8 +13573,8 @@
     },
     {
       "id": "notice-df2969efdb7c7b024b44a403",
-      "name": "Lパチスロ転生したらスライムだった件CD",
-      "reading": "Lパチスロ転生したらスライムだった件CD",
+      "name": "スマスロ転生したらスライムだった件",
+      "reading": "スマスロ転生したらスライムだった件",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -13433,7 +13585,15 @@
       "approvalNumber": "3S0494",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050720.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-7ce188417f3071ed0f765d0f",
@@ -14620,7 +14780,15 @@
       "approvalNumber": "2S0743",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
       "sourcePage": 1,
-      "nameOrigin": "curated"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-96f5c1df3d3139f61e316987",
@@ -14640,8 +14808,8 @@
     },
     {
       "id": "notice-f9f83076155c9a1e4eb37520",
-      "name": "S真天下布武DD",
-      "reading": "S真天下布武DD",
+      "name": "真天下布武",
+      "reading": "真天下布武",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -14652,12 +14820,20 @@
       "approvalNumber": "230183",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-d257c78b314a3ac8dd8b7df8",
-      "name": "SマイフラワーIIEE-30",
-      "reading": "SマイフラワーIIEE-30",
+      "name": "マイフラワー2-30",
+      "reading": "マイフラワー2-30",
       "manufacturer": "株式会社 北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -14668,7 +14844,15 @@
       "approvalNumber": "2S1504",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir050209.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-e7c2d4220a1b23c9df63c3ac",
@@ -16631,8 +16815,8 @@
     },
     {
       "id": "notice-b37fc77a00ffe75e5ef2f8f6",
-      "name": "SパチスロスーパーリオエースCC",
-      "reading": "SパチスロスーパーリオエースCC",
+      "name": "スーパーリオエース",
+      "reading": "スーパーリオエース",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -16643,7 +16827,15 @@
       "approvalNumber": "2S0382",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir04721.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-05159bbbc4adf8d1b308db8a",
@@ -16791,8 +16983,8 @@
     },
     {
       "id": "notice-47a0a79ee2814f1885e8fa75",
-      "name": "SハッピージャグラーVIIIEA",
-      "reading": "SハッピージャグラーVIIIEA",
+      "name": "ハッピージャグラーV Ⅲ",
+      "reading": "ハッピージャグラーV Ⅲ",
       "manufacturer": "株式会社北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -16803,7 +16995,15 @@
       "approvalNumber": "2S0196",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir040707.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-a518290645d17a5dfddde183",
@@ -17527,8 +17727,8 @@
     },
     {
       "id": "notice-112091cf601421015d847a5e",
-      "name": "Sパチスロ鉄拳5DC",
-      "reading": "Sパチスロ鉄拳5DC",
+      "name": "パチスロ鉄拳5",
+      "reading": "パチスロ鉄拳5",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -17539,7 +17739,15 @@
       "approvalNumber": "2S0091",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir040512.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-e41cccefa9a3d0a12535de6b",
@@ -18215,8 +18423,8 @@
     },
     {
       "id": "notice-88cfb393b7c8031738467186",
-      "name": "Sパチスロゼーガペイン2ZZ",
-      "reading": "Sパチスロゼーガペイン2ZZ",
+      "name": "パチスロ ゼーガペイン2",
+      "reading": "パチスロ ゼーガペイン2",
       "manufacturer": "山佐株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -18227,7 +18435,15 @@
       "approvalNumber": "1S1425",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir040224.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-45ba1c0cf7cb37fadc281758",
@@ -19815,8 +20031,8 @@
     },
     {
       "id": "notice-c27d1db0f1f5c7ebb5b1d38f",
-      "name": "SスターパルサーYTCC",
-      "reading": "SスターパルサーYTCC",
+      "name": "スターパルサー",
+      "reading": "スターパルサー",
       "manufacturer": "山佐ネクスト株式会社",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -19827,7 +20043,15 @@
       "approvalNumber": "1S0038",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir031014.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "yamasa",
+        "productUrl": "https://yamasa-next.co.jp/slots?paged=4",
+        "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4",
+        "method": "unique-title-compatible",
+        "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-03656c147024933c9ba99a18",
@@ -21831,8 +22055,8 @@
     },
     {
       "id": "notice-63cc016ccf0ff3c97ac3a8f5",
-      "name": "Sファンキージャグラー2KT",
-      "reading": "Sファンキージャグラー2KT",
+      "name": "ファンキージャグラー2",
+      "reading": "ファンキージャグラー2",
       "manufacturer": "株式会社北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
@@ -21843,7 +22067,15 @@
       "approvalNumber": "0S0234",
       "sourceUrl": "https://www.pref.yamagata.jp/documents/5667/kenteir030422.pdf",
       "sourcePage": 1,
-      "nameOrigin": "notice"
+      "nameOrigin": "manufacturer",
+      "manufacturerMatch": {
+        "source": "kitadenshi",
+        "productUrl": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
+        "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/",
+        "method": "official-model-pair",
+        "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+        "stale": false
+      }
     },
     {
       "id": "notice-62c8e7d133dd9d7f33425205",
@@ -23365,5 +23597,13 @@
       "sourcePage": 1,
       "nameOrigin": "notice"
     }
-  ]
+  ],
+  "manufacturerMatching": {
+    "counts": {
+      "matched": 29,
+      "pending": 1382,
+      "total": 1411
+    },
+    "reportUrl": "https://nisshins.github.io/shimazu-catalog/machine-name-match-report.json"
+  }
 }

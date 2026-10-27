@@ -1,0 +1,5900 @@
+{
+  "generatedAt": "2026-10-27T13:25:06.402306+00:00",
+  "sources": [
+    {
+      "id": "kitadenshi",
+      "status": "fresh",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "products": 72,
+      "error": null
+    },
+    {
+      "id": "yamasa",
+      "status": "fresh",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "products": 225,
+      "error": null
+    }
+  ],
+  "matched": [
+    {
+      "id": "notice-4ea9de0f79cb2b8baa64d544",
+      "name": "スマスロモンキーターンRED",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/mktrd/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-5fef87eba86869f1ec5b11b8",
+      "name": "スマスロゼーガペインETR",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/zgmhm3/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-b61f5dc9b25e075bb6770faf",
+      "name": "スマスロパリピ孔明",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/prskkm/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-10a9cbb81c6b0c80d94ce287",
+      "name": "スマスロスーパーリオエース2",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/ac2ro/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-6ddc1b941a109551b194d802",
+      "name": "ローティス",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/lotis/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-eb3315b2ead850981a7a9836",
+      "name": "スマスロケロット5BT",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/tlkfv/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-b06e7e3d30924bb306733e1f",
+      "name": "スマスロヨルムンガンド",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/jmngd/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-49d991fe32c03fc34a560cf4",
+      "name": "マイジャグラーVI",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-be4214bce22eab6a0190786c",
+      "name": "スマスロ鉄拳6",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/tknkoif6/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-a44f1b4fcc71d23c190ec3d3",
+      "name": "スマスロネオプラネット",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/nplnt/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-75c7259810b7746e95f48e7f",
+      "name": "マタドールⅢ",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/matador3/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-32e89ffae29f3ea592c994ca",
+      "name": "スマスロニューパルサーBT",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/bbtnpbt/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-bfbdbe00fd617014786ac7ac",
+      "name": "スマスロ スーパーブラックジャック",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slot/spbjck/",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-b763ff6b0c60756d0d0565e5",
+      "name": "スマスロ ゴッドイーター リザレクション",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-9cff9d09ae42de3b55f56e41",
+      "name": "ウルトラミラクルジャグラー",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-007115099304a27426950dfe",
+      "name": "キングクリエーター30",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d626e306306f7bc6fc6757ed",
+      "name": "スマスロキングパルサー",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-5e69d77522a08b31a2956d33",
+      "name": "スマスロモンキーターンV",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-287d4f48b1cda6468e15b051",
+      "name": "ミスタージャグラー",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-df2969efdb7c7b024b44a403",
+      "name": "スマスロ転生したらスライムだった件",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-2b63592bbe4dd354bc0d960f",
+      "name": "ゴーゴージャグラー3",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-f9f83076155c9a1e4eb37520",
+      "name": "真天下布武",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-d257c78b314a3ac8dd8b7df8",
+      "name": "マイフラワー2-30",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-b37fc77a00ffe75e5ef2f8f6",
+      "name": "スーパーリオエース",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-47a0a79ee2814f1885e8fa75",
+      "name": "ハッピージャグラーV Ⅲ",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-112091cf601421015d847a5e",
+      "name": "パチスロ鉄拳5",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-88cfb393b7c8031738467186",
+      "name": "パチスロ ゼーガペイン2",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-c27d1db0f1f5c7ebb5b1d38f",
+      "name": "スターパルサー",
+      "source": "yamasa",
+      "productUrl": "https://yamasa-next.co.jp/slots?paged=4",
+      "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4",
+      "method": "unique-title-compatible",
+      "fetchedAt": "2026-10-27T13:25:06.383513+00:00",
+      "stale": false
+    },
+    {
+      "id": "notice-63cc016ccf0ff3c97ac3a8f5",
+      "name": "ファンキージャグラー2",
+      "source": "kitadenshi",
+      "productUrl": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
+      "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/",
+      "method": "official-model-pair",
+      "fetchedAt": "2026-10-27T13:24:40.992866+00:00",
+      "stale": false
+    }
+  ],
+  "pending": [
+    {
+      "id": "notice-ff9aab431a05c123427032cb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8733caee8134a0592d45a3f4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cca506e5abfca53563373d00",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-02c7de42ff87a64432272a21",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-72be0c63223ea5acdd24318c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2ef1ee1e410afd76838a0240",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46af5d99011232d68b7993e7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c9691a043f622b404b2de572",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b7cc4c5485fdcea19293b532",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e0541b4d88b91d724cb0e83a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1e3aa281cbc4b1ffc1f26d10",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-243231b43f24e051153baf16",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1addc72ed570449990fe0a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-21c0e5ec5dbc7085094c5c8b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eba88a1426598a8e041d3a9d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5a538f7c877d7b720cc9f19f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c13435e98c56c9029c2a2c1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-85e16192583b1d49c980638b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fa4d158af6be63ef5860eb4a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-342dec0f91a45e0e072f98e0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-43912ce60321dcc05aa6b955",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-627d03b5bfeb573384ea1c02",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96aedb7008913dcae105917f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f048cdf7ee2ed7a4d7da4704",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3f998797f0fe0bc8ed1d9ec8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7bdce7002553532937bef9fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c75fb426e047b31265b4d115",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4f60f655cf7fbe0ae708d00a",
+      "modelName": "ＬＢワンダーヴィーナスＫＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-2a840dca5987c5a28e4b4013",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8dff46af6bfa3fe63aee4bd2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7063f22ed62d8fa4a78089c0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ed53aab8b1f0a19aeadc8cf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-041d4291a236961ced8502fc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4e05c017f6247bff1e0fef74",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9bb0621554de6c9fc38133bf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-70391595aead56c5be3e9909",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-850b47786ba157fb9c8ba348",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-735dc41ea3966f7b99c2d926",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-710035133372583cbb7935e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b2a538d6acefb526534e58e8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8a65e916cfd9da30428e6526",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b27fc98cd89a1dfed8919c77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0035023133d3e909e08a280f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f15071060b15c1af290161e3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a18b5e8eb3d48877830acbed",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-acb5a37e6be7524fedf2b67e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fc4cb053a45ac6dc29ffea29",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7971d17858e0c8f03ecdf39b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b0c381a4490600e209fbe2eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-505468aa8ae0326074727f95",
+      "modelName": "Ｓゴーゴージャグラー４ＫＴ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-8e78146440fb897003c2a39d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-75174aeb6fb67208b776b67c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f29e52830634f26054daf49",
+      "modelName": "ＬライザのアトリエＫＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-c35e4bb1a14772a70172d90e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3eaa15b2459251c415e8e48c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aca56a6ee136f346c0ab71d1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a2c95e958486b5ace0d75307",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-03f3c140d85eab02c1d656e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d7eafd8bec8bd878c3da090",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0df29359bbc0db08e540d8cb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-664ffba1807336c385a5fc22",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7528b38c83670ea2c0d7a4d1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1f8f80aec98efc4fd8496ff2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-40dd01bcf751110eaa301870",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab787e309d7e99777bb23bd4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46e593862d071670136f47b1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-298834ea1c1b49ce9e7e39ed",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-abeeeb8926f16be0569e0ef2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2d636dd1807acccd104a9749",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f9ae96481ad6c0392259b9dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-22088e1f97e760ef70be9571",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-32130fb458f4a0a43a20ee63",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8eeea88802926bdd485f8431",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5d709f1e50c96872cc7b06d0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ca42e887cc229149b377cc3f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4cc1e4e0b327ba7e43c58928",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dddc44bda587e44dbc88d1bf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-69b7f4cfdbad3f92ba8d5a09",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-18664cc66b717c535c5ee284",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2c719d36c48636134659aa54",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a475cf15eb4dbf2f703ec2db",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2f505bb356c5e3aaafc311a9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0d6ff12679d19adb383f59e3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5c18cd41e407cea32995a129",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d247a3cc848f64700e4c833",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5985407e29f38fd5cae5fd3d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b9c4d762d373248a12cf25b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-54d54d3c5ecdcc5517defe1b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-15b55d21aaa939ed996d8f77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-418ebd42c7d32dceea6a42a1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-17f88b6b084468da9bf55ca6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-014cece2e75601c7d012375c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-019a5b967832c576854481ae",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f4adb5aa7dad63d5a789ef6c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9e7c5f6123c088c112e9fae8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c9e4cfad8fbf6ee779b1e6d2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-637f512117b87084a6006098",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f9b7fdc7c58671161a556fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1022ffa870608485984c6aba",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5ec256bcc5965eee5912bfd0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95489797116828efa88f035d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-70114ae05168a43d0660934d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-19cb1af571939799bda296ff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf8a8ec721b0dbc22efeafbf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-190747945379de01c33ecebf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ce770df52c178de038cd364f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cccc5a4242acf75b2cd2ea94",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-82d2065c9557dd317c5ebae6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9e001f44913c34104a525ee",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a6a62ea22ce47360fbbc219b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d7b0cb37bad8e3dede3b5e16",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b338f4bed84d41a96afdf30",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cc26973f33883cdc2eed3946",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e796a069e11a0d9951ed5f6c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-342ddf3fee2d4de5bee59ae5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1950a47726fd5ebf6c8c49f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-639b542b49bb5e0ea994eead",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-971b6e844ae6dc8da444a780",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2439784eed7bdd1118fd2c55",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-67bf6c7e4a077c78feeb333f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3ff0db019195c787ebc2fda9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-55c824a6f45e8440512264e1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fe7367c2c4fcfde0f68bafe8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d6323cf43c4e3510e67e9a2c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8aaa84fb8fc059a457adc3af",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9fe72f899504a3c8e2f2e857",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e18a4c56452128e0a104a918",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cbb270ea9b409c43d89c3cb4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df59320cd276777bc5e41867",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d97cc9eb7e69e8d440631448",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-258e6ba3e9009a9069b929ad",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dd4ba84022ec72262a5d27c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e15d8c9c551f4c3a0b75b17f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a849547b57d303eb3270b856",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1cf63ac893056b165d505bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1cf0606585082462289259bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b7c45d840311e1e5edbecc40",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d4c9c9d1837dbcf15726b52f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3f25d47ed0fa6b5883fefe57",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6088b0f932e10b816959076",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9da68f0980a5d8d2e2932bdf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b7cfb180bd704c4a38e88856",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d5558575b3f7a27a1eb7c59c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-14a77fd4377482a1c3e4d732",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5cfa99738dc90199a729ba4a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f0cd3f5a1eede692d72fe811",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9024270acb5bd1d01ba68df3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0a9a9b63c38202f483eafad3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f62b237847adaecff4f10b71",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-80a1d9d3aa80ee2cd44e73cf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96bedef27da833ebcab0cdca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c91ce155f8112e528579e634",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-975ab48a273bdf0b380bd543",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-57afe179a2eb54b5470918e7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-35c58c2b5276fd7ee36c7d1b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e51fe954712b452c0046e473",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8a6b80d8d36055067ce9f341",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fa030e7a111f2efc54a2d199",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a5aadff5097dc2aede598376",
+      "modelName": "ＬＢロケット５ＮＤ０５Ｈ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-1c83e9c62bdc1599ee9b9ce2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-429e4cd4d3d1f063c6b95107",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b21d21e84c997927fbb7f1f4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ccee07ed04159a2f06e7bfb1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d4084ad1eba83e2df9d426d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-de7510d9b7735bc6f4035014",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dc50f697f3f9b789c346b3e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7c9ea9b2acd0e34a95d571a4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb545115d2667454ee30dd5d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4b9e38b16e42685014d26c72",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c4944fe62b55274d9fb4fedf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-489fac71c82bed725f78b48f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1a195f38d7efdf5186e49b77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6bdb4ef27b85c8f5e09670a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-034ea8ee9a24682fba10ce04",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95a337664e5deae788027717",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3a877a10074fa29abaa9940",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-642128e60ca2b92087515416",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b2743bcf1ded84e1691b03a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bd7f858dd238551bbc45dc44",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8dae54bdff4759583512c737",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-660bbe721aa99c2d7b0e2e3b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9bfb16b31b4a515690cfe173",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ca4a1cfa6d92ef8ffd9edca0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-02452d3720646af8193b5d40",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2cdd2315b1cef613e5629373",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-02b963a93517e2d73ab62661",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2c46f8492a15805d42ec7561",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6d2f29c7d32323d0ad28b65",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1072bcb604549505fb0b5055",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-af64c401dd8b5b865ab3a311",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e449b6e7ba1bf2e8ad5b03f5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3f38df35618692e3162b332c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eb626f1f5aa06db740aac7eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b68586332594d313b50615ee",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4715d1d2121cd740d1651fe8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab71122dc4c228e90ba672af",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-30501542fcf3568d48831bb2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-43e2a695b834ce7acee6c430",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-096a50e63979d7d32b22e6f9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6f02449918037b0eb2a152dc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-781752a1734fa2236045f4f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-72fe55df1fffb68f7c0b60e3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c7b189fcb616fad10158ab09",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-539a4bcd991b04e2af5f490d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2f2432bbfaf6a57886513239",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-382af927532e6558aac1b6fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-de7b18aa4916768b8e0dcd7d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e400a01063a3f9015d751469",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c9bd8308d37bbd6f9fc62a04",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-44f2c938835c135a8a78fefc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b24e4e6a8dc0135b8042a359",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-37d049dd2436a6b5d0fc8801",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ef8583ae2e3db7d0e6b08a2c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6707d5c23571e73a900c8df5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fd927eb586babb4d8141f1c3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3df9183050aa8ad723727c5e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5456d13576a1adc5f0f87c55",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bb5522a899333d890e93baed",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d0efabe052d60e08677da430",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-187e33c11db17165d574d6ec",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-83d4e5e2c3d075196e35a085",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4bac65123f1e228349af993e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-356b78609297b22c106da88e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-93bcbfe1253de8c1525bb32f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-06346b62509485b8c298d2e0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3df5e2903c9ac41ac6a67cc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9095c65a2d1978bdef8d4599",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7dd0e100cd7580390461510f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-23638f2fd88709c302812701",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bc8673f8072cbf96119d6563",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-37ad9a764a118fdb4ea39ed8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e4d5f576e9d18a47b105d534",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-80c5241dd204c2170ecd6616",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb1a37d54f1ee70763b8ddde",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b373a3834a85aec8f4ffb39d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1cec765b35f81a8f58db299a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ced56d58f470b938718825f1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8ce2d5b560f47d5512f473b8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b03301b8f7271d77aaa7014",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f28796f36560bb78e410d560",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c25f1fda05c08f94af98d9a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-461b17e738162ab28583d6f1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f520878922ae90e01b4bd78",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f6a73b01bfc1359a07948707",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b890fa25c7bec9a8c9aff7ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b8e711f351e5536e9a99e9e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-90fd6ab0bd337182ff3b94f8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-974c43b3d119d998649c5658",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a20ff776d30066c14963be41",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2336fdb75205199004cce18c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1116ab54d6f188f530c68a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a63748704b2da8a4b3b5c8e2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f03c7d1cace13309ebda52f9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6ba60f92a4531730f16f0cb1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6f9c3d58542b687becd79ec2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a04ddda55e0d9b5e37065084",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-58ab58c6425a68d6519bd731",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d6934280fac483f0487f993",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-181aafc7925d1152e6402c12",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b2ed5335ebd71da3b138e413",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-32f0670ec16384e825df25e6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-364304a9a13cfa8206fe5053",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ede90b2c3717145fc1c1685",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-274e3b42c0201004c98a41ed",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-38dc23ab08b0577cd73112f1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cde39f1a721bf5e7d4bc6304",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-086cc4187f05714d3737edeb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-58279b414bf0da864e9d63dc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b19fa388bc20d299b22a64c4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6f304bdb4b51718b5c6eba7e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3b60862b71f3dddfab316713",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e86b95c7144d1980eb54c6c6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7ce08a97247ed72ec628cac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-15e08a730612cf26fa68ee37",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4cfc798110ae40934b5c95a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0005caa451e4a6c6ddccff9a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e02810c1f6105385c47e74e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e3c2387fd238acaff6cf6276",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d456bf0fb557eacd254765c6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a46b77d313232a1e4226b9c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8316cf4e9ac31b08c788d935",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-993998217b352705afa164a1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ace8c81569b46f8eba603a80",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9f9108f505892e40f64cc540",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fe47f66033f7f0dec6ddd047",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5fe78bf084056ff6b63bf831",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1e213214205c6cb4ce5532d8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fec1f764b4b676bf8ab15951",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1709d87fb6a6d755d07e6692",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-06a5390f48487e2ce032cfb4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3ff17b40483f3557a46c3ff1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1aa16c2ca3a73726f68326c5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bddd1de088551fdb864d2b79",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f615ded9f4d2c19fd1c4d0c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-73a220573f91bf1906d45557",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-148bcbf0ef1379776548230f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b521f597002f5eda439e6899",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-034b1e3cab008a61b313fe4f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c3b6dd066dae9f8ff3c12d9b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1255fed0c852d33945180c1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-baccd2698d4f40cc69d36a03",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7c2d10d6d76fc0f8b2844b6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9346c66d1632c3f8b513df62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-febc3fdbede1ca24ec93ee0c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-00e50b9fc85c0d35fb597e5d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b489ecabe2db6b93087c8769",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-18c0856b730ca609fe544055",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a37904cf1cc48daf65f5b309",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3abe28b3344a7101e77afb62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-893b7b86f0ffed89cfa2566c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e8ae4b0f418f3bf11ef371a3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2ec5fd19a4cb4fa7b8570de4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-110b757c05a9c0c10ab0570a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8c5788d8dd228bf9c5722ff9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7a6ce707770a35e3e30338d3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95fee8898371bdab560c25bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eec514cb0714856e806d6f2c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5f53bc6af900d4a8f23cf152",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cd38112d1e51b60287f7dbab",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3f16c1f16907d21633a32a01",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2bb7848e7af52ac5e61d20db",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1b10be7ce10416ec373ea23",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-16b70de28b9c7d05973e1660",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-214a59c659a9a55b04abd4f8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-528d6e4be97816339f5a5ef9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b54828a149edcf8628265459",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f5757163b0a0702f10aa262e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d4f6839338c26033bf5abf77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8b933bac0325a37c02006121",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-88ddbdbbbda5f449f7347821",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8d3b3387277657d59d6dd8a1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8f730600dda5fd1c33d6637c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1db5c750cea9423a6cc96719",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-21e88911c55d6a98657b2ec3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8ea3f935f3d5dfbeddff685b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-39dd9e842d8cbf202dd861ba",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ca33e202d240a48d08af1989",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7a878f8e9e5322be29d5e9f6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d675cfcd2bcf72c88ba87a64",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-58bd1caf2de3c2dfcd711192",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c233382bccc626a568c818ab",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-416700b5044c3fe445f6bc14",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4f052975eb92f431135dd9fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-72dda776ff23f481e3b0850c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-56af04ec7332b1eba16c7d2f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-899e61b39cd1738ed45f0a27",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-07230211311eed5531bff861",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-99f93408d57c55b381d6c57d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8bcd09063062c61a93619256",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-98ea0bbe17c352ed2a313b82",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2d86175b556a7619d4cd8c97",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d72a3b2f3f712e286ee803b3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5f336791c7ef0bbc7f6a85dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f663e604f15abc2dd901b4d4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d1193e6076d66c19212d1ac7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1534899673f9d7ee2440d0ae",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb738d554e57773edcb46b6a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4b3174bf6db5781862a80e0c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-915d2403f5db20d8dc73fa75",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-39a8fb73521c4fb28a72aa2b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e77d40ce9510f9785d6ab14f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-733b23d8e6672d87ceac1d6d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f60469dbc388f8e2b5653800",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6939328f909cddc3f827e5f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-924ed9d786b49c647da2b9b3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-090544aeeec116577d437f50",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9ff2aecca50bce344e0ffd47",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4eda6af22e5115a68d83e1b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2b3c6cff0cfa0bce39c4c53e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7f430c0d25d685431b581c1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d07c18cd5c2309eb63f0e4d2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b6309c318f626e5ae4b5fce0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-43676a221ca0e99ad8b3f40d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-31d50c8a2a8924515a256f91",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-40fbe13c773d2fc082afcfc9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3d1afc9793e13d871dc2510",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-264c300446ffdadc31523cc5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-550bf6682fe4ee9ae9850aa6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f220082ad2e0226a6bf3ad8f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-93737d617d4208908664dfd0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-79a985a6d4dcd116e8d83ccf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ba0fd6da1b3987fa719ec056",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b70d65a442c0085a217e9672",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b73f12f525ae53bdc050e338",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-54ea104b5a07e858f08e0ff1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-adf17ef455a85afae8f5804a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4213a096717eb1c6855b70e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-72cb3697548837d7afe5a3c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5ee0e183818f2e0910e275a5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb265f33a752f302be9edfa4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b42034255deb510ef7e4b4f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4deb2d69b331d82801b8419d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-597215639b34b951db19f4e3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-af402734237cf6db5f4a35d5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d98a37960d67d6bea3164ba6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f9d7d56147a4ee11181768c2",
+      "modelName": "ＬパチスロアイドルマスターミリオンライブＨＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-aaa7cca9d738eba5e4f13bc2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b7a4a9686f66d298b4f5d116",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-faf64199acdb2d218601c433",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6dc404674d16c3bf874a4688",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9841a52e674f1bbdb3af630b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-07adef015da22d84869ecd56",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-426c76f046a3962d3bffad4a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c467305ee1ab61c6c1e0395b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2b1c62f1602a54ea7bad19d1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b5b06ac76025cb7a9586a665",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e9ee660390cc26fb2196a4ac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-81c43980e5f0bf83c524cdd1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-84a48614c01f2d4ca34d838f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-706fef0eb5875176fae44442",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-09377e18d6b9c7882afcfe93",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-696f3f27e8619b5a232ba23c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7d6184b210c0d7e9d75ab06",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b8ef5f11104553ee1dcbabe6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3b1a7fe777f2c1d2158d4888",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6c9b29b13785e4a49d79049f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2146183c627c2e10b596ca6f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c64a928f4eb6484aae2b6f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ea36a9b9ef2d86e18e31c0e6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7b41e61f164e14ecf57ab9f2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6994d920e9d23472ba6b7637",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-379a5ad9ac463b5530279fff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4baffe051318264635237632",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d0ae44e3ca0fe13be99f7757",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-73aa57cb75155654a09ed757",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a411e38acf077f2e8f9326c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b9a17c164489c708972d90ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d52e4bc0dca38e21da300e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-840a8ad9cb0e57478d5df370",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2f3261166d9becea8e65528",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9c717986347644103681b33",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-29401d3bab57fb2c236e9582",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-16b540fb814095cb9641bc42",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1da78c5323cfe14978570ff4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a4a2762b572a427e72a5dbb6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c898e766d4e8baeea90f391c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e1b1e0f366e851da413effb6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-00832d1044f5667323a3d0a8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3344182be37dadab9b6c6a80",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-94e9a252bf1e5e857f472e8a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4faf940d4366772afb88453b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-641f94486771548273cc2d17",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9a3be763af6b001b7ec92f1c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7615f2fdca8a007dbc8ced23",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3cd643612a37b3832d3cbb0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9289c3f7d1034c16c207ca32",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8c8dfadfb27abde6d2a36c81",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-53a32a728db90624164bd15a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-33a4a8392140a5b27b8d7309",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-53b35a2d47a43b5e4847bc75",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-100929c2ee0d4e227d6502e0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7b107da678fa3e41d69152f8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6afa63e29799dc933becadd7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b95c508c7e86011bf35aec79",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4714efd0d33221dabbb840dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aab2cfd87c771eca66f473ac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b73f6f29c0f00bfe927aac96",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7b8e7a93b4271caca38e885",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-998a1511add74322c8fca91a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e13b56337405758e13089aea",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-244cf1eee385512647eac9d2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1dde32bab889d4b8792a2668",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-47c3e12bf049d6d036641b9a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-54edae46a3dac999a3b992a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-73e083604416e7dd8fd51787",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3439af8004ceaa2ac3c7c2a5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c9e7477c6235970887fca2e3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-63df64455ed3a430bae1fd53",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-600cf4331d06c5cdf3d0b286",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3134d28dc7bd5d71b0169bb8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2895649e38bd41ef65749216",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9fd95e302ee9a6fe86216e0e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d68d2fb25a66a27fdc932ab4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-185cbcd8be87574b51772e62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-26980890f140037c53d30edd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-880b935f374203c2474df792",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dd699a2c869e6b5351929a94",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-731ac6a0382ba38fd02b81f5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-634207b64d847eb726ac74b6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-55bdd2e00e5996479b15d955",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-92d2d6e4499a48081b197b6e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7640cd4f3e4672df3c79e500",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-691317191ab9a5b629d2969c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b48c9ce19c328369c1704185",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e39eb3459c77bc2c6d22521",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7741f71afada1add4d329266",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d0f7a3d54d9e74805f68830",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-37be0b68c3a1f1672ad7c464",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b01d4b8007c4733e8da55cbb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3d1fe7cf6cab6bfa0f44de4f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-284f2c99908c5133e9ac7801",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d28e74c6049a255bf888e9f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-808d95938e060f17660dc656",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-94191a7cb42ae44d401e5771",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-19010a9dff77e9429160a48e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6e6573cea080f83e85499dac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1d686709dd6324b83e573b95",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d47a142f89c2bb6e71fd7c07",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89334b62a06a70ee1621769c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3e94889d25a33902be3f1d30",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-854555f0e15a532f3868581d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-869a362c3377ff40dea5f169",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf3df8be7bbe4722b83380e2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-125afb2f575059c3637656ca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2cf04fd3375c026523c2415",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6678275f77f58ed653b7f341",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-787b8a6e9e963d3c68d1f409",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-45c7388cebd3943db9d57af0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-23032de1087485d541f234ca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-688919389c2cc7e500d1776b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-42a91ef0b123b3f2bb63740e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf3ca6626582ea2811fc9d0f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9562aade88d88f0bd25b93ec",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1ae3c37788027439562c7947",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a697ca73e9b66bc10c813ae0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-05bd244667a003d99d120b0b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d1fe1bca101ac317ba025fa8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4bbb75a41b003a04c1752986",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b14219aef65f480dd9daf63a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2a672f54f5efe10dd4a1a1d7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dfece0e9a0b3958e900539dc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8f602375783994b4e95d20d4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5abe09107c5f1e7776d69ac5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7298f422f69cfb82f74f3081",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-291ae200f5c472b89e01314c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fda10770c471f11a021bb7c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c3be5cc32a09aebc39c5cd08",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8dfa61b12d1e29ae0103f7e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-47ecc6cebfa3cfe71f4ca057",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-531adf88d1b71572b09627a7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0e6f848e6382cef4b9f0deb4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-88dc2975a9ad3a8b0721bd1c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4cb7404b6375a7fd1c411f2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-091e70117abd6c0de3e8e006",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-97bc2ee87fe948cbf7d43e6a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-07583acf727e09a999f5c125",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e8a7291cbf07bf630e613673",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fee1827c44c3c282433ca12c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c78528c6a42e214e50b19c4e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d8264d27b2c70dbae91da49",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-410e47efa20b6277fc773608",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1242bd43483122ea2829e88a",
+      "modelName": "ＳネオアイムジャグラーＥＸ‐ＫＫ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-7288a18d8c0aa12b56a10d30",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e4cbbf83ce7504ab3a4b0971",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5bc87a6da9c5e0cb3abf89b0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df47d113992d0ffa33ae5647",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb410f0ef5c5870ba6f7d680",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ee2a4408ceaaaa0d612d1325",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5ea65a9d2ea8bbf507f777f4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b542f159ac9c828f4df9575",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dfd5b7cb6ae468648d0ed15d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e51f62f4969106f26b66220e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ddace0f2aa57b0e0c0ff4f08",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aa163d2337f6d3e0cb705976",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d09e96b651714e6dc5dac7cd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-624aef98c5c9c59808501959",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6a11ab6fdabfb866669dc39",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3ec0dd4a02058aecd50b66e8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf458f1b3b875256e270f318",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c443636ede8e0f61e18f5dc7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-575bfb3f24d0c052ee350042",
+      "modelName": "ＳハイパーラッシュＳＬＣ８",
+      "reason": "ambiguous",
+      "candidates": [
+        "パチスロハイパーラッシュ",
+        "ハイパーラッシュ"
+      ]
+    },
+    {
+      "id": "notice-5ddf1fde18d2a50f2b072ffe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cef9c01f1c718f815b4347fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-74a1d01a47b03f51201a4a69",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bfda46d1182fbd5ad7c7a666",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c0a41da07921c0ced43f65dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-352c6fdeb253963c5839c910",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-16a682e1159118f5facb94c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5c679b706a5b8d1ebc4e7ee6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-18894476ca2c8567d52ef34f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b4e8db4cf0162bab190939e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f8e703f5bd302676b10514ca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8efb65f12101c7fcce2afe71",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aab8a50be213c6fb73a7d554",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f1282b8c7279da3cffd5536",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2f04dd04c23fd00dd6e3f560",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e256865c4a1a68b253e4a0bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-960aced6f61a720bf184f4b6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-11391b6681209db15012aafe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-49d67e4e2ac063911f842aa8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9bbe6495d572d49431099064",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e62f396f39b7f7af3626b77a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b733064476fd665001e018c4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-85be60c3523685c04d588fb4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a59e6fd650171c520343ee11",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bdae98f3d8bc990b1ade25ea",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a25c2eb584cb0ae6880e750c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-47c4391bb400f1efb8b1c918",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bb80a7f63ce9660d3179b59d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-25e948a09f3a14d0a9ff2cbd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-84593256a23a7c4f16900f37",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c2eabac911c9254cf9665d0c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aa1ed705c344f9fcaa54abbd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-323d202bb33454c54cd2fea8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4f059a44972559ad3c639305",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-277972576e5c260fbf7956b9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-792cebbec160a749232ad0f8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb14e4c168029a11302c3aec",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-517b058dc4ea6ac9c4b6dec3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-473705c7da52aab92a04a533",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-123b9e9cce21826c35872185",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b70d23f466783376b3a63b80",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-53bafd1f077dad21bea314fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f01a3aac277a917b9423f5b8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4bb12da02627db81bffeccbe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-939beab24b564b04949a08ec",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-669d6b33f8d5f803b64a3f3b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-910052842fe5ed572666ed95",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a4312f083c459d81716bf310",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e96ec25862e6b3cb59bb6b3e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3bddd56bf8c0aa470f92b158",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3833749c339b40e696b47768",
+      "modelName": "ＳニューパルサーＳＰ４ＳＬＥ８",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-43b7a07cb62e4c73e4f7b860",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a79392dfe34bd8b8fd5b6d42",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6523115d5c3e7a6c04c67adc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-20f010f3c5a4d0be2091c68c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-86ef44269b61ef22c0ef7ded",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0bf8c1cd6aa83e4446ea5fa6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b000682c4d25a80f7c2c42f7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5c37c17fe02766bdf2f93e99",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aed5c01ec7d76454d48c38e2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e9c8d612493f5655b5727660",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-75b3950eb46fdb7f5cb5b030",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c8461dc5e6e97e1b70bea33f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3ec97e10bed00d30f290c138",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d6a1aa4480ff50c5da7c238a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0ccc641075743f4be755941c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4fa4d73775e0f17c6e5c8040",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5c550a25e073340e73edf0a3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8a6d3f375c3fb4d2bcf52632",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a75f41bd718f86c8aab44623",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bc9fb59128138e9dc67ca744",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8b4d63244e41f3fac6374b7e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-58ad0306fde413a4c9ecd7eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-21f0d5c96943c1d2a2d3b82e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-83b5c2c5ac9d6456b840d026",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f7eb400fab9c3603fc026181",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c0388647be9647d5c3583dc4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2ba41c3b64e9e18a99bcc715",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0a358a70f039d00418c6eda3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-165b9756d3c7a75869360b31",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-71c145168d886666122346af",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-670f72aef6e0a3fb8c8316f5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4d22bed41f237a3d6a83b2c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4701c048f393e270cceeeec6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-12653ab8128a800dec4cb023",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b14ac6352b4bac5845a2cd90",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5be006e8146480b36ee2e8c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7b0154982a49ee98f2aaf72e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-226f6e22deef73fa04f6c252",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bd1de414809b0e3b30696810",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ae2b62c03efa74dcdfeea03c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9183c1602bec014331926c96",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-913bc535498dd8baf9b76d46",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1eaca8c85ec7ec41508a36d7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8877ba99074c4e2aa1743a9c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2040fae5b9258669c619b91",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8fd71a89757daa69c8a123a4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9009f3fac4b74afccd7352a4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-abb0fbb6d026e9329b0a6839",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3bc6c26449f97b6d9ab1ec2e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f049dc434a6baa6aad89c7cc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f888b5653726b61cc9473a8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b16ea24f3d7ce2f2207c7477",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-40118e3dc71fba1986f92460",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8d0dfcaa8b4aba488e03bb8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-474509eb1721938af5436840",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-48714cf43d253c1d081a5208",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7bfd40b0bb8ad0d80090afaf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fc5e170370b5809c40c99909",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-025ae23aa9a7c198f6b037fc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e841fdc588d976a5322adfc5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5de8423d0be551864269f62c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-01693de0bda1f413de39004d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3a6efd95f8dda4d6a442b75c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bff697c1943cb17f0fdadfac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-99f36e7db3a0a8025c3bb6c0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-766a7b68e7c034f3b5e33712",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4e251d99d2022ea44efbff5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b55efcc7ac1808502d68375c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9b4082529485545c815959d5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1762eaae3252b8ee0fbdcfe7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7af1b129bac17072eb67077a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c40e5e883fa2cfd85e48af59",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a67a10479f2ca6b574eebbeb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d8bee681df190d706b06274f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-138152ef845485ecc0133fe1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f48e2d0a4f56ff2ae26cafe2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3520ec3b9d42a678b2161937",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d3b88f19ad46857699a8387a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c680c6f5d794358f8c30310f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-da0d214e88bc077ffc15ecf8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6711c4db9aac83b74815dfad",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df4f80388781292ef1e5918d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-41dcb11d62ec1db7a5c5ce6e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3efc137307326c5bc46631f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ae4495e7c30d24679e080939",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d85e18c1e344f97ad164ebd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c0e0a1862668e6ade7af417e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-731e51ee4f52888862c147e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5a0b9769d9801ce594c8a649",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e1e13d474e26a5b75b59c95",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0256d5e89b2cc538551f9dc9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cf2199769cd14e0ab662c948",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9853bd7f1c4356b6b367fc61",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f049a7a6d47d3d2b2bead080",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b64cf6be156ce0a27ce624a0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b590b67d8e9aa82af19790a9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bff6e48ea787967ed0f9d8d5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0dd0aa3782751a233d2bbdce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0c99e2d9aa47f8a9c8381ad2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0567280b905f654ed0aa725f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8bc00d3c686a0c9b0d231ef9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d682f05a6ac931caa59e92c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9c26f6c104e098366fa62d7c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a82496b221ec7ab58c253357",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-33f1459fb575d34fdc6e1f77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ec523ecbc073fe55abc3efed",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1a491464ce75785e5011c9d5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-02458c584793a73a7b59cc31",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d02d1d616c3a1f91a9fa0939",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e9a8fc221b6df8ec7936b68",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1b7e848c17e07a7dd961a0d3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8b8e649093f3ea83b702ffd4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4f95cc4cde4c32081faf24af",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3727f517817b3aa55365c9ae",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3661f786cbe2fad9d712f50",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bcf6b02e885a941c6d7b2579",
+      "modelName": "ＳジャグラーガールズＳＳ－ＫＨ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-63eefc7557efec8b431a1e61",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6b8e99c3bea5ba5291efa390",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66aad660876d97feeb4ea092",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9775e653ef9d6d3a7171d06c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-94ae3250798be3c024b5de2b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-84093771aea75f28ccbcbe0c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-775c1e9998e380f06a678da5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e30401e28e8d23a60e1266c4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-292a846e3504e3f43175c898",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-af4525337bf6d594f2463677",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ff2b777984f26957152be3b8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-662f6d8601d787e497673f3c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-61b8f23d1dd1d84af1fa2572",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-80ad1c2449c3d576d7025159",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c8532d2222c48220baf8cf4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aaac38302412bd4472d7832e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-650f2102367604d95f38fee9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8175b6ffcbf4c280772113ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6e6e46dfafc20139f8095c66",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ae6efa7584cd314f7936b5be",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c24bbde84640b1908a04ec94",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e5ed62beae54baff403bf535",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2160568bf50fe500255ef47f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c0777fc1b38f292a054ab746",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f7879a11bcedbfd385ce1317",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dab9cafe371b19711a69e90e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e98c9aeeb1dcf838c829689",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-86300dd84c02086682fb1cc2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46d8067a3c086b4647991dfd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-af231ea320eb5e7547e6e232",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9f319d1420b487ee5fc04e7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c3f154650c5c5b0e625b818e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5a7646b09f21b8d6add28e61",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-615a5d5767fae189802a7359",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66192e2acb5a920aa0872a28",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1bbb79c145d13231e1d88d8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e0a0eb8309449aad1fb3db4a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2522a4a51dcbffb5489ea9de",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4e4900ec37eb3b9a2ea205c6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8c2a6cd55c428f9c4d0a12a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fbd046112491ad4a03d0bba1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1c7f54b56bfae56fd35bc13",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-72fb591c726aa13e1bcffb3f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ce188417f3071ed0f765d0f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f666bc9d7d92e4b56289be8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-55975873e58688b124a79f6f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2deaaf9d243f05064676c9a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d46cf914955084df434ae115",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4448a04b94d05d2fb97b772d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bc4a9de22f635cea3ce1852a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb790edcd3abca8a9ecd5a1a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c15825310032d85b0c4e5477",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-62cbb158764db9d9aa11d138",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-43bfef2dff239c376008a64e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aaad2034e4f3dffc17f9ff60",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4e93ce83f70b18237c4b93bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-97c9a98bef2ad8c76973579f",
+      "modelName": "Ｌパチスロキンニクマン４ＳＬＤＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-6118c0343904c5928505e941",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab56e2794f787dba01651e69",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4f052a8681bb5cf8403c5ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-be503b5ce6bc9353d575a0e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-31fa31290830d266385748a7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d52d86be231f64f95fcd4331",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-99fbd0acd014f06a33a673d5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ae333d019b77836ab0d7da79",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d4dcb34d9a7cee625a7c90b1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e97c9065a4b3bed435b38fe7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8d8b1c52bcf0a61a9516e145",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7900219f25c6b284fc4d95bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f62804d88acf5d0c4dd825ae",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-60075223d4c6f654427da893",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9272fd2e2ba8a5b26c3ae3dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c93054411bcd4ec7ae61391a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f25d3c87b1cc2db235796c2e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-87757159c2ab2351f11bad70",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fd18df3530e4b620b4a58d61",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dace3bffd4d16694696bd6be",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f5add9dab302ed3951ab9b24",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e96d3a8c0807448ddc4e9651",
+      "modelName": "ＳナイツＹＴＣＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-98008ce2a88e20b85fbd0987",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f6c215431058e805515e5737",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-76c9223c8c2cf3ff8926d0ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-54b4973c631a2025f2fc32c6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d42ec82c15682f0480a57c1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3982d823563e4a4520ef513",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1187e9c8d4abbc75ccc94c66",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5c94fa80e7ff88e1b0a0588b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-61b641613115049cb54bef4c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2ac06a5851ae7e14c1def81b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5dd549cc74bd8ed3be2bcbe8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c71311f6121641c4c040d0c6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f85858c022b5fb622063cb3b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df2dd462f9575e87e9b0901c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a6a08362235adeffa8732a14",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9b7d68aa232aa3995e84766",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-deee3c3789df6e5bc55868ff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-878052b0f774e57d4df6f969",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95ae5bc5d97811228435c6fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bca0d7d9e314131e05d9806c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8e901d2b3d6e48fbf55b1b48",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7a5e16022f35332cd9a8ae7f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f8d02b18e22af9146c888fb2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-75f1659024a5b6f05fe83dd1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fc87e5857f3c8d5c265f5062",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d3315fbe742ffcebc5526ea9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ae4e6dd37928f2661feef55a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fa72aa7f6f18c35c4bb02957",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b9a536338d01d3c553e22ebc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-964e8820fd885e931cc9af12",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2a1b45c60649a002c97a487d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b6879461203d88b1423741c0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d8d50bd433e0265f334b0ea4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a65aec054e123138be97f361",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cedc549cb1ea2cecb55a2791",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ec5f8eabe4ca6ec6ea2f97f6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c4f654bee0bd609689411bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96f5c1df3d3139f61e316987",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e7c2d4220a1b23c9df63c3ac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0cc13a7e34aeda4b81e837c7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf52811b3593705880aa6503",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2de74185aa135bc9084e0243",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e6bb8a39cdd035d1eb6fde12",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c4c0567958d168d80528ae1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f8ed5e2c79d3c70af20e19dd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-03034e5eaec5dc2391b4f569",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3bfff3ccd6e5c4b467f4727c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66d6d408923b333ed2817a2d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-45fceadbae675421f8506466",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89f3434425a72d7d0d1e1af2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-115f1d20918c9bc1dd636480",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c7cc93b69d6b0617f9ab124b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0c8b0417d23cd0b45f477976",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4ada93065184fbbf90e8215e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c05e1d25ac6aab6302bb4ebe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bbfd621b49346989784619e1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a9a7e0600174f4bd5779cdbb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f529efd1e2c599758db8bd33",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-026ae956cde9bbd22afcff82",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-35ecc193782918323850e810",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6a495200dc0e6895f6b213f2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3118b16b0de94ec576fe892",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ccb8482a4994a800a04272eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e457690dac116fad719eb1e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-059984eb3da0a661c6eb99f6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-65138bb40fbbc11e371ef72f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a5e02f12a0a816f7bcb9ff40",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4d069e5fd4c08f440bd7a656",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-60a56e990749c7eb628147f5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e76c5fab609ebab5cf9b1f71",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3d2283a7407e091dd606522",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ed2d044ad52e50e3532d66c7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0973038bd9c4a11efdec9739",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cee10e81f2b52caaf113b933",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c87353467f6ccee7105b92de",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ad9466630315e6679ee03bf3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46e206daf6df8d7779f052ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-97f50a1da715ae620d540624",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-baea0e34462bc96cfa3ef03d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cf18dc5199b257431b3d0352",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3fdd4bf6028ec292eeb8e04b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0167f1a9de472b0af3e35ccf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-51d33de87f3a61a6801377ed",
+      "modelName": "Ｓパチスロ戦国無双３ＺＹＴＣＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-bf4fcf8f3ae02555771c71c4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ed1351d5b8d0e24ccfbc52ae",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2416f719ed6a4e3426fa882c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1ece4cbe532c04fa78303f9e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-52e1c76872c9762206a152cd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d8da74d3de3a67639e5b801c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3b7f90b92750c7252b0f1768",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b8452c4418f84054d576d845",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d5e2a9d125d5f986da447269",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5444ea2ee34f262b07136b59",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb3bc8eb7af79c800a5e2ba5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1ef627030c12bcf826043634",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0ebb513d39329caebd5ca2bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fe23307eaa5909cc05daa180",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5787b357d61304f7b84722af",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fd89eaa7aeab0bb5ff7df63f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5ea196b8727b56f2d411403b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e96f50c017f6b179401101d4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8c88abc01fd013673fc6ec48",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bbf986bf8c5da0d45ab874ea",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5002528f2ea57b4598833dbc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f713873d16683528738e0b2d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d03a4759505c136d7338a31",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4528970aef653fd427b488b2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-04d5c6b761eb7ddc61ce504c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c9d014e8c4f8c1913b0376a3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a0cf0378c04fd084f22854cb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c989fcd101eb493e3554b542",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a1d8813dfd3ffbed95702f58",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-62460fa37f58ae30c2024bde",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d432165b029d8789fabbb69b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f999b7ec11031c9bb97a87bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cab0f4f0cb8ef78852846d02",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9cbe19572f64bf603b55c847",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a57527b4b810cb65d1e16971",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e49a68e9d93b9f602aba944",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c226c7fb8f2abffded6493c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4d47b48e52ee00911aa55d05",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3a28506881f3e978483b87e8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cc7c4cf74d5ffb6cee16a98a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a74f3dccfa6ea2d8e13058da",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a5ba46ab130db99fc544621f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-10359d0fa404f18bcff21a27",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-65d9b34a8b16af3f5f408aac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ffa496aa7a9de6ef0a57a9e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4223205f8a92b79775b4ef8a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fc4e75a40c24e0c0cc9e70fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1c8bc5fc523ca0a0a4584510",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-122f587a56eb74c88d6d419e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1af7220dade3c052e525b795",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-078264463a26e7f86249f039",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5935ccf185379c5bd8191865",
+      "modelName": "ＬアナザーリノヘブンＣＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-a0314cd23ee9296553af7fb4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8234ac5a2feec5715b031455",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f5283852bd11b0fda6804fdd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-604aba9c83e908ec62cd190a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9def51584c117bd030bff5cd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4655249ab7e95afe9d62e588",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2736be50ec48e8178e51e87",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ad8af13b8603462bcee32782",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8ab2d17459c1263c9470956b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-177fd49e3170d3e37a334919",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0235db40f1cf2bffb1fb1d37",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d0d128c8cc368841621b12a9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a6951198b78c2738861b480e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bd02351d15a70502ba5816b7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6b160c9d9f15900e35d04aa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3b3666b0c73dac28668d717f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b2681f9fd5c23b4e76673f3a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cdd426f62aaa60cff23590db",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6cb69c1af14c01692b4ebce1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-00d6c1689e0b8a4013876ea0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0306182d0f2f558473493185",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6ec7fac38c0f15e004280404",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1b4298f0ccea92f8cea0dc9f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-118b2bd109fd27c2b2b92a39",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-baf978b23c81901e1e101ef7",
+      "modelName": "Ｓパチスロ鉄拳４デビルバージョンＴＣＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-05159bbbc4adf8d1b308db8a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5f12dc62a22d7010fe9adb5d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-08c50b0847e9a37f515df4cc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66db983167938831244caa77",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-70620e1ef1b15a4f231ca7c2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-017ca40399c0a7330abb7db0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-155758636110b1eed9447e29",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1f90540ac7bd623262ac2698",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e96b95dbd3d7dd7adb0c482c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a518290645d17a5dfddde183",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96828308a1c8adaa9e0532d8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-99df9b95fcfb0a9fe8616c1c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95bb6fa177cc782c8979e326",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4819d313b0d795c0bf67c6e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aa2f0d34f20197ff9c5de078",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb20a83f8d6ce0f9b27c78f3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e384b9b627d8a941593d2da8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3bf530ca6109e5ab61071b9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a531ba21749b3fbb3f59d823",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d4f04c8415d7f3951b7d957d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-588a72d95fb1789ddd00286e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-84fa89949a95fe40f523e25d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eaddec6aa1b257a06f2fddba",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f081381a57dd939f3a149eaf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8101f6a223ec441f70759311",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-edc9a1e736e4522ae263184e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3e3b11727628b31e359b851f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c5ce89e1593b9319ad4a2ec2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e8eaf4bba2c122d4cecc3f69",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-25d831f41fc51c88443aa283",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-61f85acff4da1cfbd4c69e1e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-848796d47f4f39d7a0c6111e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4d139b619f9184f96ebbc3ac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-41a625e3323919681ad67c86",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-718d4aa1895a5d069edba76b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dce04f9ab1386f2ff08f5463",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6fbd577650c569177e1a99a5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d3f6f18501c6667f5088171",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ac46d30ca1d27aa1df739da7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4d32ad7e5e88b56ace730796",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b00173c5a2b0c89ed00864ac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-31e31136e4e8b0ed82f603c2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-904cfe4e16fca351496d207e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-88e13f61ffcb417cb3365699",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ed68fa3cf00be96cbb02754",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89c6cd103712752dd27ab429",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-616840eae00469735d9d8095",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3ea81bb45b201c014edf5dfb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eda7cad14d138c340c5caccf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3860104c30ef845221303f44",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2eb625367fdd8962cab018f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0c11b5b532a47c8e03021b62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4426308a195453146006e687",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1c609dad84b7899d1ae07309",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e41cccefa9a3d0a12535de6b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c8f9228e26f4558be198b8bd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7dfc6cfdffd6241bcd540636",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1691d4aa1cbd8b1bcf55666e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ef950b3b1b465a9b3bbac464",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-edc1608bc14cce90e67ec5b5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4b42a5d030a41474a978c7bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7a0ff81ff10ee5b170c5bf82",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89e6e19b8085501ea2c3360e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df6c88623178bc2c8d3602ff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0f29901905aee3f93a42cb05",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-90d917940629e6a0ed7eb5f3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fdbbe07ebf198604d2986d62",
+      "modelName": "ＳピンクパンサーＳＰＸＸ",
+      "reason": "ambiguous",
+      "candidates": [
+        "パチスロ ピンクパンサーSP",
+        "ピンクパンサー"
+      ]
+    },
+    {
+      "id": "notice-ee2157ebdf9792c522d41b38",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3de19f3689e33d00490da09",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8146e0a1d04312b3a793b1e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2beeb0081cd369aed39984b7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6fe19c796eefbaf7e5a02c2f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-abe89ec96ecc20cb67745de2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b9578a7303e809fe248683ab",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2fc31309679348f7e7e1b249",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab30fd160beb8db2623772d9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2d7462510e8b083fb157e299",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bb2605aff93db7b0aba2254c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-85c729ae989136123ba62b60",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-064546c97615c5a3cb7b13e8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4addc00070e246842be73c3c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-829daf4480715cb9a48050b6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c4ad2eaf2270d73f3d49679a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a3182d70530d42a5cef024ba",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb8b6a9d99b897f94e24f469",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89bd0a436dc95b5f26814fa8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d1d3970b89ba2bb00d97251a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-16ca532933c155f934e1f865",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ddb8c1423a7d76bbfab38cd0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6bcfd1b6e400716efc882792",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9e6411c4765844e7c19b1c93",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1638028cef095240697256cb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-59becf431b161fa7827246bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-90e46d341d032c638a44280f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d61bbe2ab92f17bee216fc5a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-98946c0c3a5ae58db1eae423",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-45ba1c0cf7cb37fadc281758",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6dbf91141f9b43b2b6788b30",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e3e4926f93003abb6bf6e9b2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5bdc3d5ba5693377ecb1e6a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f32780a50a2e48ae30ee7e7e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-da7fd4948d3b9d8379ae1dc7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9191ecbfbc09359443f2306",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bf910bda264caeea59422942",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fe6d1e07641bbf7a83a6057b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b03506b05c09f1c5114fab73",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8bc1d6218746698b3eba4230",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-08265acb43b1d18779c0edf8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-874b0fa3c063b6299fba1cd3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-372392dc528ea88517ea2c6b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-24e5f3acef8e1eddda6b1b71",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4eb844e88aca64b7c75ed7b3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-48b5a71675e59fd9822793e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a1a9a07c569b84b9e3c6a01b",
+      "modelName": "Ｓパチスロタイガー＆バニーＳＰＹＴＦＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-b4cb9728c1f7891249a92411",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ce9b105c47060826bcee9391",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-566dce075866a2d7326f809c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2aa86b456a863a99d81f74d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1fe59356e1053fef048f975e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-afc9125614c5ced2a31e971a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0a68d7caa416d4db72dde396",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-22763ac64b79a2becdc57e84",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0c81fcc6e7f62df8716fcdff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c561bac1e871edc631682d48",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6aeb0e8f731df44caa44cef1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bfb779f8da962aeea04cf14b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-77fb3105ab336632d85c8ec9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2973552991a79ce51a130b33",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab7ae505a38f16c37a30bc20",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8e9a7c6bd790296e24e79832",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2e984901169a05df78ecad48",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7c7eb0819ca3d455698126c4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-eb16acb255a67586edfbc36d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-97a28fdbf57a5e543ffad665",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-388a4ff12f8939da7765fdce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5136541de54a3f4c69848069",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3243323ea027721876c4ece0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9bb35d39c4deeb918e227ace",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-41b69d56f214c5a8732104db",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-14a60bbddb30297418855eb8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7017d9108b4502891881ee74",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-52d3918667d23b2a913c9298",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b44e621e36bfc8e403196191",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f1b8acbd05c4ac701f047b18",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cec3fd98f310b79490d26e6c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6fbfc6eea595fc98b6d346c8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d8257ad4b016c5f484f1e87",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-64250a0f3c8932d6bdb0819e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e2e0146c2545c21bfd462761",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2406ecd37c9e88592b4d467",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2aaa62f3bc68d89b72221ea0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b383bfb1fec11a312c9a6af5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e4c07c04210ac68a244b2caf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e6960f3886136d3defcc491b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b18ca83daaa5b286c14a639d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9bca63f0a3ac858a80b9e6eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d257c0f4486df506ae714da3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-34dfa9302404a8227385419e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a6c8c97581a4c185e9a44704",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-189925d80bd20b24542cca43",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-56e4f35d4f8a2f0de36bafca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7d7b8973fca10de7532ec3f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a17040bdcbd104b3b9ec19e8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9c012895ba458e2b33eeed16",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-82b635b9dc812dd70ace4f81",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9a059c1a053130551ebef9c5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-855fd1eba50126c043780719",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6f5a5a19ec3331476a5ec2e9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-19b9ff389463dc36d0c7e718",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5e77a5f7a274710d8a80be15",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-25c72727854e1a6ddd7e0ff2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5b836d4a8f7382b46647e07d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1e82e3c79ebe1d67f22eadd6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96858108b083254de76f3efa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-449cde63bf15dd9d2e11f760",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a64a7e9dd3f199e428fe4b52",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e5232d6cc7c2cc8f8431d925",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7541ddd0fd19aeb848c5473e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f2ccb0a688631a9b493bc610",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6233f340a2e1ec3b45810f7c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0b4ed737430e4fbe1c77e80a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4fe1f13d7a9805f6b2786626",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9ec3f5bb89b1f3ac75acbba3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0d407c29b26844944c41a05c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-db6fc1e0347568467e9dd914",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-90cd1650b7fdd8b9e3bc130d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e3b55d07930756e905a05642",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-748569445f15759c93d97a52",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1f974b7b68be08e8bd0a84ce",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ab2dccf54ae464172db612a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e3d9f79cf193e9862dc240d2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-254f65f3ff84c9c3118cc2bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e1398b15c020a1adb93c6462",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-76c5ee8f0ba87170aee6509f",
+      "modelName": "ＳリノＳＰＹＴＭＭ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-4557c74e030b3274e21ec9d6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-03656c147024933c9ba99a18",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b6bdf4d57fc4d798a1c9d0fd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a24ed86a275e4b534a6b5c37",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e8326691d2edeec40359c952",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3e1ed71d951b33d48292953b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9f572001dd4fb72911d032d8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-894c28922f4262f4a15fd080",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-09bf6ce26ea5c3aa4cd332a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab5e9baa258b19a455fcb4b6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a79f6fb967524fbc999b97a8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-09bd6849d78c38a55cdda169",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1ec86ea8be5f1b99d338c34",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7c6f6be953eb771e59174d8e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7c99274a44d27beb7df8e612",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-76e685fbf8071dbe885b9d46",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c34cf06c3c4801955bf3fba9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-45f460cfbfbf092f5164f68c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-35f644e917416f515d466f79",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1e85f91c0963ce8ea7de6c78",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-04af231ba422bcb70480ef04",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-27387c2c42529d580a1e02c1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4bee36f74ba489f8f0bf0e11",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ea9158bb2ac688141d278917",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5cc0f595209ec6845db46ba8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-19c18109841cf888a42b00ff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8da32ccb3304f143526d0b5e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c215d8dbb6db405832e5ff9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-95e2c05aadb55543edee13e5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-85dd8bb3ab742645536fd0d9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e691a38aee099d4bd4ca1cd0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1e4fbfc9968c5bd86f7f49f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6b7ceb0bb5afaa971d9fc190",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-167b99b238d5582fc53c31b3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9fc5f61d1820f926228ef577",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e97bd4d12ad0bb3cc89e6ecc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3654f15f452865c3f5ab7d4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b3f4bd441beb817f8b64db53",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-20b7155b4c8f569861df2799",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0b91fb9f4adb61a74ff48643",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a9f54a41a5690b786c0f93ff",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-703e6e5b64af458612b0f743",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a10e260ed7d0ebfca4a1c1bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8e25ffa8b696bb195bb0d2a5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a5b6be186f0c5ecf61431daa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f626e0952bff63deec6c2b6b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4329a3444512e623a355444c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66a49c067ed4144ff9c4545a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-376632ffe7f2f6f82b14ec46",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c974e3dee327238af1b37e62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-59e0e7a58e3f2413d7d92369",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-636740386c013c7f5ac75e25",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9d8e6cf9ec65e2d94fbdb9e7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f1157dbd1e9c16800201882",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b419ecbc37060ff2072527bb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-14da568c44919d2d9ad5c800",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4bc5144fc318fe94346c949b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-01392d94ba67cad9ee1ff852",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5480d63b2afdf75640baafc2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a6fe9ceaaae9b973a24b313f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-236c396d69aa7a795046d1e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-59061cf14e3e97df9385a04f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4649cc469ce251aa752c355f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-050c5058a53c6a44a058ed38",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb65bfbbf2cd26432cf40943",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0f777f4d68bccc3737aacff4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b21df89ee271b634986496c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0a50d42441d2026b7ba473bd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3af481d307f45064ae9e0fdd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f319a73a05e246947c7a22d9",
+      "modelName": "ＳニューパルサーＤＸ－ＶＹＴＤＤ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-a31bec7c27931bb2eb0c66a4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-821671a50286a44c5cc6af0c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5d96a7a2102fd96363aea117",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b5952f57345ddd2e58836a33",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-39c0d9bceb4ee54de6f6fef1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f00db77d8a28b972c6f44a62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2b97505a85cac2d4ed68152b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cea4f164dfcb67745ae28815",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1a0e82c66080422be289f7b0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c33eef018246fef66c7c3d75",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8446d023764738f56e3fd6d7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a7c9eb812222607cf72345eb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c6f54484f148c64b62e1d60e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1c0cf1c5592f68b8140ed87a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-44ec2201e3d5e674b9a80e5c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-aef126649882ee012a5310c3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-69b7253375301ea6116ce02b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5de9ec541faf0c6d246584f1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-79c6126df4d14c91e0aa1ab9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3d8933c56d6ffab99f6bfe64",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1f7248a0f3b1aa7c9aa0100e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ea9addd92be98deac9ade9e1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-04970951c2621bf89479d6ca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-780d0e12f766fa7283dff736",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2c8724e803a7fa042c0ff75",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-235dbb3c8b5967637ba8ce8f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8ae082897bf82159f0ad0ad6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1b33ad875c7e59622e0322a2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5926dadc1376b2ea555152cc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-420aad5fb8811bc2dbdf3507",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-08e7726934fcbb6e9509c777",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-20cd8cde759bbb3e2a146496",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-89c3c91cfdf1bbd86d26325e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9c8b8a624050a0a0809406d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1d86d93453534113a2bd1946",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-73c924cd3052653ecc2d6a2a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6d658aca0318d094bdc403fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-44e8bbef7bb02dd91b19f9f6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c58eed37f9a155335daca50e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f07b23c2787036a4368113b7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-12f3e5831f9f05e1e1199085",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66c9f41c0a8b814707062354",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-742308c6fa77b6db137af8cd",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f61a66e12a68ee351a453b18",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-66358ff13d041df6d61d1631",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d16dd97fcb72d182634dbf48",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-dbd4db82b26bbbf9ff7afada",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c1a58b8e2ac42b675ae07dba",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6b32b94efac330b28683166e",
+      "modelName": "Ｓパチスロ零ＹＴＦＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-1fbd6a90392debc2010960f6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c26e37a0b287e7222da822c3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0f3c8733249405adfea884aa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b1685a67cfc88cf30db7703a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4b2d09780e18b5e4674115f0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-525f4e89891126084ca190e6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a8be965125559f12ee05aae1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-62c8e7d133dd9d7f33425205",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d761d19bd9f64e2bf911a6e3",
+      "modelName": "Ｓノーゲーム・ノーライフＫＧ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-859bdc798878581fbcca0169",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5790421a419a92c3ef61bec1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d2d35a44a00e0ed9aee636ca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a57cef00ad4d6141ffc2b2a5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4799a47229b51537b8c70c51",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f15a23656839c52a262c5399",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5f1276449b7f05ddc42523fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6d48f877f5e1bad16770c64f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-772b69c505146b68d941265b",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-28e4934f7e686ad9521d61a6",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4900a5231744fecb083f59bc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c4104eae72f155aefe1eb7da",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c5c0e515dffeba62e3ddd2d1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6ec01596fc53e7c2c022201a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-57f423962ffe0c35d736d52c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-692233c32cbbdf37211aa8aa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-bbb43cc9301e5563ca2c7aa1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-df716b743559769375ea9021",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ba144c965fa8d65bd80bb74f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d9c88a36486b231f1b24c57b",
+      "modelName": "Ｓパチスロ鉄拳４デビルバージョンＳＬＦＦ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-8830817eb17cc3683389a8ba",
+      "modelName": "ＳゴウエンコウコウオウエンダンゲキＣＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-0d4ef24e9ae8cd3a82210147",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b69267d0e1617dfe07dc84c2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c90649c0247ad75b8b6963c9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-65133e527cbbb346a606f9fb",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b6c8125071d588f74057ae28",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-96fb9e1dbbcf72fc239e98db",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f5e848d59e22de5b0d4d9178",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3c03733983a8721e6bf9fe6c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-e582790d5996dc71db7be82d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4dae2cd6093922a6c5f1b2b7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7975a08960a82f950492660c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-005175a85ad23dae2f388337",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cd5beaf5f2613f3b25868bca",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-803d1c4e22a4e702c89cbda8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-981b8a5dd7b436877ada1975",
+      "modelName": "Ｓノーゲーム・ノーライフＫＮ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-06b020a77e14769c5724b590",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-788e92b133cbf212fa74a1e4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b4f9661506a42b2fb329fff2",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-59eafd2ccb713682363d5b16",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8bba882ae327b93ed6fe6248",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3bb1737426af98ecabd4055a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d90c04b866ad1b54271f16f5",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cb5dc87c856e81ffac2683fe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1d8f0d42e66657d97676f579",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9a6eafddce95eb92dbfb17f8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9e9c00fd0fdb7493583b6f9c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d895dff2574977c06d7c8afe",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7ec895dc6f93f444b0c08a8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9b6fc909956ac2230e3df878",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-931b3f80ceff7466042832ad",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4ad0602bbae0fbf1bd248aac",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-250dc7afcdfa7b16b8d1097c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-30e95de7a0ddefd8cc00a00e",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a0a0485052f95269f82656d1",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c59dd1f0cd8c6973fa1bc966",
+      "modelName": "ＳニューパルサーＳＰ３ＣＣ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-7b48f0ae08185781c87554e7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-5cce5914c5c8bb728fa21868",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7f03dc7e646a0c0a76f51c62",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8a9a8458199d4948db0048cc",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-33aa0cf8f9a8a99c04036415",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0f2f7525a55772d56a474cc0",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f3924caeb16e2a8450ffdd4c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cdf1ac7897898e2c717d77cf",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46e8532a29a37eaff608a113",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a01ad4235608501bdfd1b691",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7e16ea93c32775a06119c2df",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-3451bbf612a8bd5c918faa6f",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-46ec517d5360c23025291059",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-b5bd80eec56b73c7323115b9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0d7b0b6efe857ecab53bcdf4",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d60722964568491fbd1505b7",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4e47309f5c01e0186cb82650",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-8efb9fe222f2d1909377c353",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-4664a6cab32372a713775432",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-0e198fa4b91e7cadd60d149a",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-6a3d2c4e3483b59fdbe41d73",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7e8bfeb67046fb9900579fde",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a938e3cfa30a7a1c070c0cee",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-a3304a7fc346455fa5f18580",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-2b584d1bb7afc99b61cd1a17",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ffb591669561870d0a8359aa",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-c393215dedf81348f7f02a8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-035ef18c3f1be4ad80c16170",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-cd955860357d9ba9e66e5005",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-7c28f721332c9c9eaad76561",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1723f9f680a8a354f894c8d9",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-1b84308150c07b9b2c67c374",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-f108f02c79e6f94c45c21d8d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-38f0d026b2d933884872880c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-fb79ebd36cf0ecf99c3df2d8",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d924d4e6cc7dd3fa68044351",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-699fa2caa5928d89f00a05bc",
+      "reason": "unsupported-manufacturer"
+    }
+  ],
+  "counts": {
+    "matched": 29,
+    "pending": 1382,
+    "total": 1411
+  }
+}
