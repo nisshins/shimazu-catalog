@@ -48,6 +48,28 @@ class CatalogTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.parse([self.row, second])
 
+    def test_shizuoka_uses_examination_date_and_wrapped_approval(self):
+        row = [*self.row]
+        row[5] = '第６Ｓ０００１号'
+        with patch.object(catalog.pdfplumber, 'open', return_value=Pdf([row])):
+            result = catalog.parse_pdf(b'pdf', 'https://www.pref.shizuoka.jp/test.pdf')[0]
+        self.assertEqual(result['examinedOn'], '2026-10-23')
+        self.assertNotIn('noticeDate', result)
+        self.assertEqual(result['approvalNumber'], '6S0001')
+
+    def test_yamagata_does_not_collect_applicant_address_or_representative(self):
+        page = Page([])
+        page.extract_text = lambda: '公 示 令和８年10月22日 山形県公安委員会'
+        page.extract_tables = lambda: [[['住所付き申請者', '代表者氏名', '回胴式遊技機', 'Ｌテスト\nＡ１', '株式会社試\n験', '第６Ｓ０００１号', '３年間']]]
+        pdf = Pdf([])
+        pdf.pages = [page]
+        with patch.object(catalog.pdfplumber, 'open', return_value=pdf):
+            result = catalog.parse_pdf(b'pdf', 'https://www.pref.yamagata.jp/test.pdf')[0]
+        self.assertEqual(result['noticeDate'], '2026-10-22')
+        self.assertEqual(result['manufacturer'], '株式会社試験')
+        self.assertNotIn('代表者氏名', str(result))
+        self.assertNotIn('住所付き申請者', str(result))
+
     def test_broken_layout_is_rejected(self):
         with self.assertRaises(ValueError):
             self.parse([self.row[:-1]])
