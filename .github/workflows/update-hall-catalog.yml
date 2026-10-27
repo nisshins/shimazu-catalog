@@ -9,6 +9,10 @@ on:
       - 'docs/privacy.html'
       - 'docs/machines.json'
       - 'scripts/build_machine_catalog.py'
+      - 'scripts/build_notice_catalog.py'
+      - 'scripts/test_notice_catalog.py'
+      - 'scripts/machine-catalog-requirements.txt'
+      - 'data/machine-name-overrides.json'
       - '.github/workflows/update-hall-catalog.yml'
   schedule:
     # Every Monday at 12:23 JST (03:23 UTC).
@@ -45,29 +49,26 @@ jobs:
       - name: Build app catalog
         run: python scripts/build_hall_catalog.py parlors.jsonl unplaced.jsonl docs/halls.json
 
-      - name: Download licensed machine data
-        if: ${{ vars.MACHINE_CATALOG_SOURCE_URL != '' }}
-        env:
-          MACHINE_SOURCE_URL: ${{ vars.MACHINE_CATALOG_SOURCE_URL }}
-        run: curl --fail --location --retry 3 --proto '=https' --proto-redir '=https' --output machines-source.json "$MACHINE_SOURCE_URL"
+      - name: Install notice PDF parser
+        run: python -m pip install -r scripts/machine-catalog-requirements.txt
 
-      - name: Build machine catalog
-        if: ${{ vars.MACHINE_CATALOG_SOURCE_URL != '' }}
-        env:
-          MACHINE_SOURCE_NAME: ${{ vars.MACHINE_CATALOG_SOURCE_NAME }}
-          MACHINE_ATTRIBUTION: ${{ vars.MACHINE_CATALOG_ATTRIBUTION }}
-          MACHINE_LICENSE: ${{ vars.MACHINE_CATALOG_LICENSE }}
-        run: >-
-          python scripts/build_machine_catalog.py machines-source.json docs/machines.json
-          --source "$MACHINE_SOURCE_NAME"
-          --attribution "$MACHINE_ATTRIBUTION"
-          --license "$MACHINE_LICENSE"
+      - uses: actions/cache@v4
+        with:
+          path: .cache/machine-notices
+          key: machine-notices-v1-${{ github.run_id }}
+          restore-keys: machine-notices-v1-
+
+      - name: Test notice catalog parser
+        run: python -m unittest discover -s scripts -p 'test_notice_catalog.py'
+
+      - name: Build machine catalog from official notices
+        run: python scripts/build_notice_catalog.py
 
       - name: Commit updated catalog
         run: |
           git add docs/halls.json docs/machines.json
           if ! git diff --cached --quiet; then
-            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update nationwide hall catalog'
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update hall and examination machine catalogs'
             git push
           fi
 
