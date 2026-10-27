@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T12:50:22.117346Z",
+  "generatedAt": "2026-10-27T13:00:00.222334Z",
   "source": "福井・静岡・山形県公安委員会 遊技機検定公示",
   "attribution": "出典：福井・静岡・山形県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
   "license": "公示本文：著作権法13条／独自補足：CC0-1.0",
@@ -1200,6 +1200,26 @@
       "nameOrigin": "notice"
     },
     {
+      "id": "notice-4ea9de0f79cb2b8baa64d544",
+      "name": "スマスロモンキーターンRED",
+      "reading": "すますろもんきーたーんれっど",
+      "manufacturer": "セブンリーグ 株式会社",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ＬモンキーターンＲＥＤＳＣ０４Ｈ",
+      "aliases": [
+        "モンキーRED",
+        "モンキーレッド",
+        "もんきーれっど"
+      ],
+      "examinedOn": "2026-09-24",
+      "approvalNumber": "6S0730",
+      "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20260930kenteiyugiki.pdf",
+      "sourcePage": 2,
+      "nameOrigin": "curated"
+    },
+    {
       "id": "notice-2a840dca5987c5a28e4b4013",
       "name": "P桃太郎電鉄定番LTU",
       "reading": "P桃太郎電鉄定番LTU",
@@ -1227,22 +1247,6 @@
       "aliases": [],
       "examinedOn": "2026-09-24",
       "approvalNumber": "610706",
-      "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20260930kenteiyugiki.pdf",
-      "sourcePage": 2,
-      "nameOrigin": "notice"
-    },
-    {
-      "id": "notice-4ea9de0f79cb2b8baa64d544",
-      "name": "LモンキーターンREDSC04H",
-      "reading": "LモンキーターンREDSC04H",
-      "manufacturer": "セブンリーグ 株式会社",
-      "kind": "pachislot",
-      "noticeKind": "回胴式遊技機",
-      "classificationBasis": "notice",
-      "modelName": "ＬモンキーターンＲＥＤＳＣ０４Ｈ",
-      "aliases": [],
-      "examinedOn": "2026-09-24",
-      "approvalNumber": "6S0730",
       "sourceUrl": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20260930kenteiyugiki.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
