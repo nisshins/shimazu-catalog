@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:45:22.360792Z",
+  "generatedAt": "2026-10-27T12:18:11.935130Z",
   "source": "福井県公安委員会 遊技機検定公示",
   "attribution": "出典：福井県公安委員会の検定公示／商品名・略称：島図エディター独自補足",
   "license": "公示本文：著作権法13条／独自補足：CC0-1.0",
@@ -3719,13 +3719,16 @@
     {
       "id": "notice-49d991fe32c03fc34a560cf4",
       "name": "SマイジャグラーVIKK",
-      "reading": "SマイジャグラーVIKK",
+      "reading": "まいじゃぐらー6",
       "manufacturer": "株式会社北電子",
       "kind": "pachislot",
       "noticeKind": "回胴式遊技機",
       "classificationBasis": "notice",
       "modelName": "ＳマイジャグラーⅥＫＫ",
-      "aliases": [],
+      "aliases": [
+        "マイジャグ",
+        "まいじゃぐ"
+      ],
       "noticeDate": "2025-11-21",
       "approvalNumber": "5S0437",
       "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R707yugikikenteikouji.pdf",
