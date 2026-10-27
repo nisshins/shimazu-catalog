@@ -21,6 +21,52 @@ def source(products, status='fresh'):
 
 
 class ManufacturerTests(unittest.TestCase):
+    def test_sammy_json_keeps_actual_maker_and_kind_and_skips_unknown_maker(self):
+        data = json.dumps({'products': [
+            {'title': 'スマスロ 新作シリーズ2', 'maker': 'ロデオ', 'url': '/japanese/product/pachislot/new/'},
+            {'title': '旧機種', 'maker': '', 'url': '/legacy/'},
+        ]})
+        rows = matcher.parse_sammy(data, 'https://new.sammy.co.jp/assets/js/slot.json', 'pachislot')
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]['makerKeys'], ['ロデオ'])
+        self.assertEqual(len(matcher.candidate_matches(model('L新作シリーズ2XX', '株式会社ロデオ'), rows, 'sammy')), 1)
+        self.assertEqual(matcher.candidate_matches(model('L新作シリーズ2XX', '株式会社銀座'), rows, 'sammy'), [])
+
+    def test_sammy_pachinko_does_not_mix_prefix_or_numeric_specs(self):
+        row = product('e北斗の拳激闘', 'https://new.sammy.co.jp/japanese/product/pachinko/new/')
+        row.update(kind='pachinko', makerKeys=['銀座'])
+        self.assertEqual(len(matcher.candidate_matches(model('e北斗の拳激闘GRED', '株式会社銀座', 'pachinko'), [row], 'sammy')), 1)
+        self.assertEqual(matcher.candidate_matches(model('P北斗の拳激闘GRED', '株式会社銀座', 'pachinko'), [row], 'sammy'), [])
+        row['name'] = 'e北斗の拳激闘119'
+        self.assertEqual(matcher.candidate_matches(model('e北斗の拳激闘199GRED', '株式会社銀座', 'pachinko'), [row], 'sammy'), [])
+
+    def test_regular_slot_never_takes_a_smart_slot_title(self):
+        row = product('スマスロ新作シリーズ2', 'https://new.sammy.co.jp/product/new/')
+        row.update(kind='pachislot', makerKeys=['サミー'])
+        self.assertFalse(matcher.group_title_match(model('S新作シリーズ2XX', 'サミー株式会社'), row))
+
+    def test_bellco_logo_identifies_manufacturer_instead_of_distributor(self):
+        html = '<li class="c-archive03__item"><div class="is-name">L新作シリーズ2</div><div class="is-logo"><img alt="yama"></div><a href="/products/slot/new/">詳細</a></li>'
+        rows = matcher.parse_bellco(html, 'https://www.s-bellco.co.jp/products/slot/')
+        self.assertEqual(rows[0]['makerKeys'], ['ヤーマ'])
+        self.assertEqual(len(matcher.candidate_matches(model('L新作シリーズ2XX', '株式会社ヤーマ'), rows, 'bellco')), 1)
+        self.assertEqual(matcher.candidate_matches(model('L新作シリーズ2XX', 'ベルコ株式会社'), rows, 'bellco'), [])
+
+    def test_bad_new_source_schema_is_rejected(self):
+        with self.assertRaises(ValueError):
+            matcher.parse_sammy('{"products":[]}', 'https://new.sammy.co.jp/assets/js/slot.json', 'pachislot')
+        with self.assertRaises(ValueError):
+            matcher.parse_bellco('<h1>アクセス制限</h1>', 'https://www.s-bellco.co.jp/products/slot/')
+
+    def test_archive_removal_keeps_last_verified_name_after_notice_rebuild(self):
+        row = model()
+        row['manufacturerMatch'] = {'source': 'yamasa', 'name': 'スマスロモンキーターンⅤ', 'productUrl': 'https://yamasa-next.co.jp/slot/monkey/'}
+        result, report = matcher.enrich({'machines': [row]}, source([]))
+        self.assertEqual(result['machines'][0]['name'], 'スマスロモンキーターンⅤ')
+        self.assertTrue(result['machines'][0]['manufacturerMatch']['stale'])
+        self.assertEqual(report['counts']['matched'], 0)
+        self.assertEqual(report['counts']['pending'], 1)
+
     def test_exact_model_pair_joins_only_same_official_product_slug(self):
         products = '<a class="slot-link_arealink" href="/slot/test/">新しい商品名</a>'
         notices = '<a class="slot-kentei-link" href="/slot-kentei/test/"><h2 class="slot-kentei-link_title">S試験KK</h2></a>'
