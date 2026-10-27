@@ -21,6 +21,10 @@ SOURCES = {
                    "indexes": ["https://www.kitadenshi.co.jp/slot/", "https://www.kitadenshi.co.jp/slot-kentei/?expired=1"]},
     "yamasa": {"host": "yamasa-next.co.jp", "manufacturers": ["山佐株式会社", "山佐ネクスト株式会社", "セブンリーグ株式会社"],
                "indexes": ["https://yamasa-next.co.jp/slots"]},
+    "sammy": {"host": "new.sammy.co.jp", "manufacturers": ["サミー株式会社", "株式会社銀座", "株式会社ロデオ", "タイヨーエレック株式会社"],
+              "indexes": ["https://new.sammy.co.jp/assets/js/slot.json", "https://new.sammy.co.jp/assets/js/pachinko.json"]},
+    "bellco": {"host": "www.s-bellco.co.jp", "manufacturers": ["ベルコ株式会社", "株式会社ベルコ", "株式会社ヤーマ", "ヤーマ株式会社"],
+               "indexes": ["https://www.s-bellco.co.jp/products/slot/"]},
 }
 
 
@@ -74,6 +78,57 @@ def parse_yamasa(html: str, index: str) -> tuple[list[dict], str | None]:
     return result, next_url
 
 
+def maker_key(value: str) -> str:
+    return compact(value).replace('株式会社', '').upper()
+
+
+def parse_sammy(data: str, index: str, kind: str) -> list[dict]:
+    rows = json.loads(data).get('products')
+    if not isinstance(rows, list) or not rows or len(rows) > 2000:
+        raise ValueError('Unexpected Sammy product list')
+    makers = {'SAMMY': 'サミー', 'ロデオ': 'ロデオ', '銀座': '銀座', 'TAIYOELEC': 'タイヨーエレック', 'タイヨーエレック': 'タイヨーエレック'}
+    result = []
+    for row in rows:
+        if not isinstance(row, dict) or not isinstance(row.get('title'), str) or not isinstance(row.get('maker'), str):
+            raise ValueError('Sammy product schema changed')
+        maker = makers.get(maker_key(row['maker']))
+        # Empty/unknown maker labels do not establish who manufactured the model.
+        if not maker:
+            continue
+        url = urljoin(index, row.get('url') or '')
+        if not official_url(url, SOURCES['sammy']['host']):
+            url = index
+        result.append({'name': row['title'].strip(), 'url': url, 'modelNames': [],
+                       'evidenceUrl': index, 'kind': kind, 'makerKeys': [maker]})
+    if not result:
+        raise ValueError('Sammy returned no products with identified manufacturers')
+    return result
+
+
+def parse_bellco(html: str, index: str) -> list[dict]:
+    result = []
+    for item in BeautifulSoup(html, 'html.parser').select('li.c-archive03__item'):
+        heading = item.select_one('.is-name')
+        logo = item.select_one('.is-logo img[alt]')
+        if heading is None or logo is None:
+            continue
+        maker = {'bellco': 'ベルコ', 'yama': 'ヤーマ'}.get(logo['alt'].lower())
+        if not maker:
+            continue
+        # Use the actual product-detail anchor, not its image or promotional text.
+        link = next((a for a in item.select('a[href]') if re.fullmatch(r'/products/slot/[^/]+/', urlsplit(urljoin(index, a['href'])).path)), None)
+        if link is None:
+            continue
+        url = urljoin(index, link['href'])
+        if not official_url(url, SOURCES['bellco']['host']):
+            continue
+        result.append({'name': text(heading), 'url': url, 'modelNames': [], 'evidenceUrl': index,
+                       'kind': 'pachislot', 'makerKeys': [maker]})
+    if not result:
+        raise ValueError('Bellco product list layout changed')
+    return result
+
+
 class OfficialClient:
     def __init__(self, host: str):
         self.host, self.robots, self.last_request = host, "", 0.0
@@ -102,6 +157,10 @@ def collect_source(source_id: str) -> list[dict]:
     client = OfficialClient(source["host"])
     if source_id == "kitadenshi":
         return parse_kitadenshi(*(client.fetch(url) for url in source["indexes"]))
+    if source_id == 'sammy':
+        return [p for url, kind in zip(source['indexes'], ['pachislot', 'pachinko']) for p in parse_sammy(client.fetch(url), url, kind)]
+    if source_id == 'bellco':
+        return parse_bellco(client.fetch(source['indexes'][0]), source['indexes'][0])
     url, seen, products = source["indexes"][0], set(), []
     while url:
         if url in seen or len(seen) >= 50:
@@ -135,10 +194,36 @@ def compatible_title(model: str, product_name: str) -> bool:
     return not suffix or re.fullmatch(r"(?:[A-Z]{2,4}|[A-Z][0-9]|(?:ND|YD|YE|SC)[0-9]{2}[A-Z]|SLC[0-9])", suffix) is not None
 
 
+def group_title_match(machine: dict, product: dict) -> bool:
+    if product.get('kind') != machine['kind'] or maker_key(machine['manufacturer']) not in product.get('makerKeys', []):
+        return False
+    raw, name = compact(machine['modelName']).upper(), compact(product['name']).upper()
+    # Manufacturer-supplied pronunciation annotations are not version qualifiers.
+    name = re.sub(r'[（(][ぁ-ん]+[）)]', '', name)
+    if machine['kind'] == 'pachislot':
+        if name.startswith(('スマスロ', 'スマートパチスロ', 'L')) and not raw.startswith('L'):
+            return False
+        if re.match(r'^S(?=[ぁ-んァ-ヶ一-龯])', name) and not raw.startswith('S'):
+            return False
+        name = re.sub(r'^(?:LB|L|S)(?=[ぁ-んァ-ヶ一-龯])', '', name)
+        return compatible_title(raw, name)
+    # Pachinko prefixes and all numeric specification labels must match literally.
+    if not raw.startswith(('P', 'E')) or not name.startswith(raw[0]):
+        return False
+    raw, name = title_key(raw), title_key(name)
+    if len(name) < 6 or not raw.startswith(name):
+        return False
+    suffix = raw[len(name):]
+    return not suffix or re.fullmatch(r'[SG][A-Z]{2,3}', suffix) is not None
+
+
 def candidate_matches(machine: dict, products: list[dict], source_id: str) -> list[dict]:
-    if machine["kind"] != "pachislot" or compact(machine["manufacturer"]) not in SOURCES[source_id]["manufacturers"]:
+    if (machine["kind"] != "pachislot" and source_id != 'sammy') or compact(machine["manufacturer"]) not in SOURCES[source_id]["manufacturers"]:
         return []
     exact = [p for p in products if compact(machine["modelName"]) in {compact(m) for m in p["modelNames"]}]
+    if source_id in {'sammy', 'bellco'}:
+        candidates = exact or [p for p in products if group_title_match(machine, p)]
+        return list({(p['name'], p['url']): p for p in candidates}.values())
     candidates = exact or ([p for p in products if compatible_title(machine["modelName"], p["name"])
                             and (not compact(machine["modelName"]).upper().startswith('L') or compact(p['name']).startswith(('スマスロ', 'スマートパチスロ')))
                             and (not compact(machine["modelName"]).upper().startswith('S') or not compact(p['name']).startswith(('スマスロ', 'スマートパチスロ')))] if source_id == "yamasa" else [])
@@ -159,7 +244,10 @@ def enrich(catalog: dict, sources: dict) -> tuple[dict, dict]:
         state = sources.get(source_id, {})
         matches = candidate_matches(machine, state.get("products", []), source_id)
         if len(matches) != 1:
-            if machine.get("nameOrigin") == "manufacturer" and previous_match:
+            if previous_match and (machine.get("nameOrigin") == "manufacturer" or (machine.get('nameOrigin') == 'notice' and isinstance(previous_match.get('name'), str))):
+                if previous_match.get('name'):
+                    machine['name'] = previous_match['name']
+                    machine['nameOrigin'] = 'manufacturer'
                 machine["manufacturerMatch"] = {**previous_match, "stale": True}
             report["pending"].append({"id": machine["id"], "modelName": machine["modelName"], "reason": "ambiguous" if matches else "no-confirmed-product", "candidates": [p["name"] for p in matches]})
             continue
@@ -169,6 +257,7 @@ def enrich(catalog: dict, sources: dict) -> tuple[dict, dict]:
         machine["name"] = product["name"]
         machine["nameOrigin"] = "manufacturer"
         machine["manufacturerMatch"] = {
+            "name": product['name'],
             "source": source_id, "productUrl": product["url"], "evidenceUrl": product["evidenceUrl"],
             "method": "official-model-pair" if product["modelNames"] else "unique-title-compatible",
             "fetchedAt": state.get("fetchedAt"), "stale": state.get("status") != "fresh",
