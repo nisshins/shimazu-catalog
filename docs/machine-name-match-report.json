@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-27T13:45:30.423642+00:00",
+  "generatedAt": "2026-11-02T11:32:28.854059+00:00",
   "sources": [
     {
       "id": "kitadenshi",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "products": 72,
       "error": null
     },
     {
       "id": "yamasa",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "products": 225,
       "error": null
     },
     {
       "id": "sammy",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "products": 304,
       "error": null
     },
     {
       "id": "bellco",
       "status": "fresh",
-      "fetchedAt": "2026-10-27T13:45:30.406331+00:00",
+      "fetchedAt": "2026-11-02T11:32:28.837120+00:00",
       "products": 19,
       "error": null
     }
@@ -38,7 +38,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_hok_ke_gekito/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -48,7 +48,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/mktrd/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -58,7 +58,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/zgmhm3/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -68,7 +68,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sha_fr/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -78,7 +78,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_twi_an_p2/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -88,7 +88,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/prskkm/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -98,7 +98,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_lyc_re/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -108,7 +108,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_nan_ta_3/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -118,7 +118,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/ac2ro/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -128,7 +128,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/lotis/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -138,7 +138,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/tlkfv/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -148,7 +148,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/jmngd/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -158,7 +158,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_kab_ne/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -168,7 +168,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -178,7 +178,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/tknkoif6/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -188,7 +188,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_ko_kid/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -198,7 +198,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_ke_tensei/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -208,7 +208,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -218,7 +218,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -228,7 +228,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/nplnt/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -238,7 +238,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_tok_re/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -248,7 +248,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/tok_re/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -258,7 +258,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/matador3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -268,7 +268,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/bbtnpbt/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -278,7 +278,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/zon_sa/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -288,7 +288,7 @@
       "productUrl": "https://yamasa-next.co.jp/slot/spbjck/",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -298,7 +298,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sou_ke/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -308,7 +308,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_dan_ba/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -318,7 +318,7 @@
       "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -328,7 +328,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ini_d2nd/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -338,7 +338,7 @@
       "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -348,7 +348,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -358,7 +358,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -368,7 +368,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke10/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -378,7 +378,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -388,7 +388,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_mu/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -398,7 +398,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -408,7 +408,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -418,7 +418,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/gol_ka/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -428,7 +428,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -438,7 +438,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/dai_ga/ ",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -448,7 +448,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -458,7 +458,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -468,7 +468,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/fir_dr/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -478,7 +478,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -488,7 +488,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -498,7 +498,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -508,7 +508,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -518,7 +518,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -528,7 +528,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/tat_yu/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -538,7 +538,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -548,7 +548,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -558,7 +558,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -568,7 +568,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/per_so/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -578,7 +578,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/har_bo/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -588,7 +588,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -598,7 +598,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -608,7 +608,7 @@
       "productUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -618,7 +618,7 @@
       "productUrl": "https://www.s-bellco.co.jp/products/slot/yama_superjackpot/",
       "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:30.406331+00:00",
+      "fetchedAt": "2026-11-02T11:32:28.837120+00:00",
       "stale": false
     },
     {
@@ -628,7 +628,7 @@
       "productUrl": "https://yamasa-next.co.jp/slots?paged=4",
       "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:23.605024+00:00",
+      "fetchedAt": "2026-11-02T11:32:22.947420+00:00",
       "stale": false
     },
     {
@@ -638,7 +638,7 @@
       "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -648,7 +648,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/codegeass3/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -658,7 +658,7 @@
       "productUrl": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
       "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/",
       "method": "official-model-pair",
-      "fetchedAt": "2026-10-27T13:44:58.069442+00:00",
+      "fetchedAt": "2026-11-02T11:31:57.514080+00:00",
       "stale": false
     },
     {
@@ -668,7 +668,7 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ang_be/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     },
     {
@@ -678,11 +678,37 @@
       "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/sou_ke_te/",
       "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
       "method": "unique-title-compatible",
-      "fetchedAt": "2026-10-27T13:45:26.855985+00:00",
+      "fetchedAt": "2026-11-02T11:32:25.937009+00:00",
       "stale": false
     }
   ],
   "pending": [
+    {
+      "id": "notice-4b12d6575b9ac9e9347af728",
+      "modelName": "ｅ終末のワルキューレＳＣＥＢ",
+      "reason": "no-confirmed-product",
+      "candidates": []
+    },
+    {
+      "id": "notice-7345c87696614e7aa752ed2c",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-ab66aab339a4c294a13ccaa3",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-413acfb339716741e9cc1074",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-d24741aade17f903baac9c7d",
+      "reason": "unsupported-manufacturer"
+    },
+    {
+      "id": "notice-9ac21d8aa28dfddf9e1fdc3e",
+      "reason": "unsupported-manufacturer"
+    },
     {
       "id": "notice-ff9aab431a05c123427032cb",
       "reason": "unsupported-manufacturer"
@@ -6312,7 +6338,7 @@
   ],
   "counts": {
     "matched": 65,
-    "pending": 1346,
-    "total": 1411
+    "pending": 1352,
+    "total": 1417
   }
 }
