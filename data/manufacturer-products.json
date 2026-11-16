@@ -579,7 +579,7 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-11-09T11:56:21.687179+00:00"
+    "fetchedAt": "2026-11-16T11:50:59.581162+00:00"
   },
   "yamasa": {
     "products": [
@@ -1935,10 +1935,20 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-11-09T11:56:47.213637+00:00"
+    "fetchedAt": "2026-11-16T11:51:24.997993+00:00"
   },
   "sammy": {
     "products": [
+      {
+        "name": "A-SLOT+ 開運JAPAN BT",
+        "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_kai_ja/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
+        "kind": "pachislot",
+        "makerKeys": [
+          "サミー"
+        ]
+      },
       {
         "name": "スマスロ 快盗天使ツインエンジェル2",
         "url": "https://new.sammy.co.jp/japanese/product/pachislot/sp_twi_an_p2/",
@@ -3277,6 +3287,16 @@
         "kind": "pachislot",
         "makerKeys": [
           "ロデオ"
+        ]
+      },
+      {
+        "name": "e 終末のワルキューレ ドデカ129ver.",
+        "url": "https://new.sammy.co.jp/japanese/product/pachinko/e_shu_va_129/",
+        "modelNames": [],
+        "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
+        "kind": "pachinko",
+        "makerKeys": [
+          "サミー"
         ]
       },
       {
@@ -4981,7 +5001,7 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-11-09T11:56:50.437909+00:00"
+    "fetchedAt": "2026-11-16T11:51:28.692548+00:00"
   },
   "bellco": {
     "products": [
@@ -5177,6 +5197,6 @@
       }
     ],
     "status": "fresh",
-    "fetchedAt": "2026-11-09T11:56:53.276708+00:00"
+    "fetchedAt": "2026-11-16T11:51:31.470234+00:00"
   }
 }
