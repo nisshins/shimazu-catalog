@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T11:50:54.336077Z",
+  "generatedAt": "2026-11-23T13:21:16.386134Z",
   "source": "福井・静岡・山形県公安委員会 遊技機検定公示",
   "attribution": "出典：福井・静岡・山形県公安委員会の検定公示・メーカー公式製品情報／商品名対応・略称：島図エディター独自補足",
   "license": "公示本文：著作権法13条／独自補足：CC0-1.0",
@@ -25,9 +25,9 @@
       "count": 120
     },
     {
-      "url": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
-      "sha256": "d4d6141cf64e169f7a3b93b62c76afb3bf196a70e9f25d063ceed77ae0d4b9a0",
-      "count": 221
+      "url": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sha256": "5b114b2cff234e15e7b0db8f97c9ce55a592d84ab59c833477d6ae052d2ebff3",
+      "count": 227
     },
     {
       "url": "https://www.pref.shizuoka.jp/police/_res/projects/project_police/_page_/002/001/249/20260401-20261031kenteiyugiki.pdf",
@@ -757,6 +757,102 @@
   ],
   "machines": [
     {
+      "id": "notice-d75ece67880d42caa2d3b332",
+      "name": "e転天MAM1",
+      "reading": "e転天MAM1",
+      "manufacturer": "株式会社アムテックス",
+      "kind": "pachinko",
+      "noticeKind": "ぱちんこ遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ｅ転天ＭＡＭ１",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "6P1006",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
+      "id": "notice-ea50370765d9f93372d89d91",
+      "name": "Lゾン100TE",
+      "reading": "Lゾン100TE",
+      "manufacturer": "株式会社サンスリー",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "Ｌゾン１００ＴＥ",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "631042",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
+      "id": "notice-ca3619a1d151513d241b8cfb",
+      "name": "LまほいくR1GA",
+      "reading": "LまほいくR1GA",
+      "manufacturer": "チャレンジ株式会社",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ＬまほいくＲ１ＧＡ",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "6S1334",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
+      "id": "notice-a76523932bfe2e7041b8f7f8",
+      "name": "Lでか島唄H1",
+      "reading": "Lでか島唄H1",
+      "manufacturer": "株式会社平和",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "Ｌでか島唄Ｈ１",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "6S1174",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
+      "id": "notice-f46cddc21f3025167d1e4b6c",
+      "name": "LBパチスロプレイボーイ2NE01G",
+      "reading": "LBパチスロプレイボーイ2NE01G",
+      "manufacturer": "山佐ネクスト株式会社",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ＬＢパチスロプレイボーイ２ＮＥ０１Ｇ",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "630788",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
+      "id": "notice-d40b6a2f4789df9774494fc9",
+      "name": "LBシスクエCD",
+      "reading": "LBシスクエCD",
+      "manufacturer": "カルミナ株式会社",
+      "kind": "pachislot",
+      "noticeKind": "回胴式遊技機",
+      "classificationBasis": "notice",
+      "modelName": "ＬＢシスクエＣＤ",
+      "aliases": [],
+      "noticeDate": "2026-11-20",
+      "approvalNumber": "6S1319",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
+      "sourcePage": 11,
+      "nameOrigin": "notice"
+    },
+    {
       "id": "notice-e455c9c92b6d77440ee5a1a4",
       "name": "e東京リベンジャーズ",
       "reading": "e東京リベンジャーズ",
@@ -768,7 +864,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "611030",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "manufacturer",
       "manufacturerMatch": {
@@ -777,7 +873,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/tok_re/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -793,7 +889,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "6P1065",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -809,7 +905,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "6P1227",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -825,7 +921,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "611090",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -841,7 +937,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "4P0753",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -857,7 +953,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "610063",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -873,7 +969,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "610619",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -889,7 +985,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "6S1261",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -905,7 +1001,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "6S1207",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -921,7 +1017,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "630975",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -937,7 +1033,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "6S1093",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -953,7 +1049,7 @@
       "aliases": [],
       "noticeDate": "2026-11-13",
       "approvalNumber": "5S1652",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 11,
       "nameOrigin": "notice"
     },
@@ -1202,7 +1298,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_hok_ke_gekito/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -1535,7 +1631,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/mktrd/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -1592,7 +1688,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/zgmhm3/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -1608,7 +1704,7 @@
       "aliases": [],
       "noticeDate": "2026-09-18",
       "approvalNumber": "6P0101",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 9,
       "nameOrigin": "notice"
     },
@@ -1624,7 +1720,7 @@
       "aliases": [],
       "noticeDate": "2026-09-18",
       "approvalNumber": "630668",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 9,
       "nameOrigin": "notice"
     },
@@ -1640,7 +1736,7 @@
       "aliases": [],
       "noticeDate": "2026-09-18",
       "approvalNumber": "6S0775",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 9,
       "nameOrigin": "notice"
     },
@@ -1656,7 +1752,7 @@
       "aliases": [],
       "noticeDate": "2026-09-18",
       "approvalNumber": "6S0823",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 9,
       "nameOrigin": "notice"
     },
@@ -1713,7 +1809,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sha_fr/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -1834,7 +1930,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_twi_an_p2/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -1850,7 +1946,7 @@
       "aliases": [],
       "noticeDate": "2026-09-04",
       "approvalNumber": "610769",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 8,
       "nameOrigin": "notice"
     },
@@ -2026,7 +2122,7 @@
       "aliases": [],
       "noticeDate": "2026-08-28",
       "approvalNumber": "3S0885",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 8,
       "nameOrigin": "notice"
     },
@@ -2090,7 +2186,7 @@
       "aliases": [],
       "noticeDate": "2026-08-21",
       "approvalNumber": "511103",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2106,7 +2202,7 @@
       "aliases": [],
       "noticeDate": "2026-08-21",
       "approvalNumber": "610049",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 8,
       "nameOrigin": "notice"
     },
@@ -2122,7 +2218,7 @@
       "aliases": [],
       "noticeDate": "2026-08-21",
       "approvalNumber": "4P1804",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 8,
       "nameOrigin": "notice"
     },
@@ -2138,7 +2234,7 @@
       "aliases": [],
       "noticeDate": "2026-08-21",
       "approvalNumber": "5S1615",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2170,7 +2266,7 @@
       "aliases": [],
       "noticeDate": "2026-08-07",
       "approvalNumber": "6P0686",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2186,7 +2282,7 @@
       "aliases": [],
       "noticeDate": "2026-08-07",
       "approvalNumber": "6P0107",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2202,7 +2298,7 @@
       "aliases": [],
       "noticeDate": "2026-08-07",
       "approvalNumber": "6P0595",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2218,7 +2314,7 @@
       "aliases": [],
       "noticeDate": "2026-08-07",
       "approvalNumber": "6S0644",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2234,7 +2330,7 @@
       "aliases": [],
       "noticeDate": "2026-08-07",
       "approvalNumber": "6S0551",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 7,
       "nameOrigin": "notice"
     },
@@ -2435,7 +2531,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/prskkm/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -2915,7 +3011,7 @@
       "aliases": [],
       "noticeDate": "2026-06-19",
       "approvalNumber": "6P0169",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 5,
       "nameOrigin": "notice"
     },
@@ -2931,7 +3027,7 @@
       "aliases": [],
       "noticeDate": "2026-06-19",
       "approvalNumber": "6P0190",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 5,
       "nameOrigin": "notice"
     },
@@ -3091,7 +3187,7 @@
       "aliases": [],
       "noticeDate": "2026-05-29",
       "approvalNumber": "610287",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3107,7 +3203,7 @@
       "aliases": [],
       "noticeDate": "2026-05-29",
       "approvalNumber": "6P0033",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3123,7 +3219,7 @@
       "aliases": [],
       "noticeDate": "2026-05-29",
       "approvalNumber": "4S1313",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3139,7 +3235,7 @@
       "aliases": [],
       "noticeDate": "2026-05-29",
       "approvalNumber": "6S0400",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "manufacturer",
       "manufacturerMatch": {
@@ -3148,7 +3244,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_lyc_re/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -3212,7 +3308,7 @@
       "aliases": [],
       "noticeDate": "2026-05-15",
       "approvalNumber": "6P0012",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3253,7 +3349,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_nan_ta_3/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -3413,7 +3509,7 @@
       "aliases": [],
       "noticeDate": "2026-04-24",
       "approvalNumber": "6P0051",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3557,7 +3653,7 @@
       "aliases": [],
       "noticeDate": "2026-04-17",
       "approvalNumber": "6P0220",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 4,
       "nameOrigin": "notice"
     },
@@ -3717,7 +3813,7 @@
       "aliases": [],
       "noticeDate": "2026-03-27",
       "approvalNumber": "5S1634",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 3,
       "nameOrigin": "manufacturer",
       "manufacturerMatch": {
@@ -3726,7 +3822,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/ac2ro/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -3742,7 +3838,7 @@
       "aliases": [],
       "noticeDate": "2026-03-27",
       "approvalNumber": "5S1696",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 3,
       "nameOrigin": "notice"
     },
@@ -3879,7 +3975,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/lotis/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/lotis/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -3920,7 +4016,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/tlkfv/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -3936,7 +4032,7 @@
       "aliases": [],
       "noticeDate": "2026-03-19",
       "approvalNumber": "510747",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
     },
@@ -4105,7 +4201,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/jmngd/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -4137,7 +4233,7 @@
       "aliases": [],
       "noticeDate": "2026-02-13",
       "approvalNumber": "5P1286",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
     },
@@ -4153,7 +4249,7 @@
       "aliases": [],
       "noticeDate": "2026-02-13",
       "approvalNumber": "5P1714",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 1,
       "nameOrigin": "notice"
     },
@@ -4169,7 +4265,7 @@
       "aliases": [],
       "noticeDate": "2026-02-13",
       "approvalNumber": "511030",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
     },
@@ -4185,7 +4281,7 @@
       "aliases": [],
       "noticeDate": "2026-02-13",
       "approvalNumber": "5P1699",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
     },
@@ -4201,7 +4297,7 @@
       "aliases": [],
       "noticeDate": "2026-02-13",
       "approvalNumber": "5S1811",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 2,
       "nameOrigin": "notice"
     },
@@ -4489,7 +4585,7 @@
       "aliases": [],
       "noticeDate": "2026-01-16",
       "approvalNumber": "5P1492",
-      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81113yugikikenteikouji.pdf",
+      "sourceUrl": "https://www.pref.fukui.lg.jp/kenkei/doc/kenkei/yuugikikenteikouji_d/fil/R81120yugikikenteikouji.pdf",
       "sourcePage": 1,
       "nameOrigin": "notice"
     },
@@ -4978,7 +5074,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_kab_ne/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -5006,7 +5102,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/myjuggler6/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myjuggler6/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -5223,7 +5319,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/tknkoif6/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -5280,7 +5376,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_ko_kid/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -5565,7 +5661,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_ke_tensei/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -5590,7 +5686,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -5791,7 +5887,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke11/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -6120,7 +6216,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/nplnt/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -6501,7 +6597,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_tok_re/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -7134,7 +7230,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/tok_re/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -7287,7 +7383,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/matador3/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/matador3/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -7312,7 +7408,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/bbtnpbt/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -8041,7 +8137,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/zon_sa/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -8738,7 +8834,7 @@
         "productUrl": "https://yamasa-next.co.jp/slot/spbjck/",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -8939,7 +9035,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/e_sou_ke/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -9412,7 +9508,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_dan_ba/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -9853,7 +9949,7 @@
         "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -10310,7 +10406,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ini_d2nd/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -10351,7 +10447,7 @@
         "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -10440,7 +10536,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -10897,7 +10993,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -10938,7 +11034,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/hok_ke10/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -11366,7 +11462,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/ultramiraclejuggler/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/ultramiraclejuggler/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -11583,7 +11679,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/sp_hok_mu/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -12200,7 +12296,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/kingcreator30/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/kingcreator30/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -12305,7 +12401,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -12346,7 +12442,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/gol_ka/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -12595,7 +12691,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -12844,7 +12940,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/dai_ga/ ",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -13372,7 +13468,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -13432,7 +13528,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/mrjuggler/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/mrjuggler/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -13889,7 +13985,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/fir_dr/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -14138,7 +14234,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=2",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -14995,7 +15091,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/bra_ra4/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -15343,7 +15439,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/gogojuggler3/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/gogojuggler3/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -15384,7 +15480,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -15409,7 +15505,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/myflower2-30/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/myflower2-30/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -17169,7 +17265,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/tat_yu/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -17210,7 +17306,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/nan_ta2/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -17411,7 +17507,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -17580,7 +17676,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/happyjugglerv3/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/happyjugglerv3/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -17957,7 +18053,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/per_so/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -17982,7 +18078,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/har_bo/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -18343,7 +18439,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -19040,7 +19136,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=3",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -19481,7 +19577,7 @@
         "productUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -19570,7 +19666,7 @@
         "productUrl": "https://www.s-bellco.co.jp/products/slot/yama_superjackpot/",
         "evidenceUrl": "https://www.s-bellco.co.jp/products/slot/",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:31.470234+00:00",
+        "fetchedAt": "2026-11-23T13:21:52.608435+00:00",
         "stale": false
       }
     },
@@ -20667,7 +20763,7 @@
         "productUrl": "https://yamasa-next.co.jp/slots?paged=4",
         "evidenceUrl": "https://yamasa-next.co.jp/slots?paged=4",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:24.997993+00:00",
+        "fetchedAt": "2026-11-23T13:21:46.796095+00:00",
         "stale": false
       }
     },
@@ -20964,7 +21060,7 @@
         "productUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -22221,7 +22317,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/codegeass3/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -22710,7 +22806,7 @@
         "productUrl": "https://www.kitadenshi.co.jp/slot/funkyjuggler2/",
         "evidenceUrl": "https://www.kitadenshi.co.jp/slot-kentei/funkyjuggler2/",
         "method": "official-model-pair",
-        "fetchedAt": "2026-11-16T11:50:59.581162+00:00",
+        "fetchedAt": "2026-11-23T13:21:21.267488+00:00",
         "stale": false
       }
     },
@@ -23375,7 +23471,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachislot/ang_be/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/slot.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -23624,7 +23720,7 @@
         "productUrl": "https://new.sammy.co.jp/japanese/product/pachinko/sou_ke_te/",
         "evidenceUrl": "https://new.sammy.co.jp/assets/js/pachinko.json",
         "method": "unique-title-compatible",
-        "fetchedAt": "2026-11-16T11:51:28.692548+00:00",
+        "fetchedAt": "2026-11-23T13:21:50.071408+00:00",
         "stale": false
       }
     },
@@ -24256,8 +24352,8 @@
   "manufacturerMatching": {
     "counts": {
       "matched": 66,
-      "pending": 1363,
-      "total": 1429
+      "pending": 1369,
+      "total": 1435
     },
     "reportUrl": "https://nisshins.github.io/shimazu-catalog/machine-name-match-report.json"
   }
